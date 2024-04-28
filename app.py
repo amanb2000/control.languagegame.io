@@ -76,6 +76,9 @@ async def generate(request: Request):
     )
     result = inference_call(req, "http://localhost:4444/generate", num_tokens)
 
+    # compute CE loss too 
+    ce_loss = loss_call(input_string, result["generated"], "http://localhost:4444/ce_loss")
+
     if result:
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         # save to telemetry/current_time+hash(form_data)
@@ -88,8 +91,9 @@ async def generate(request: Request):
             f.write(f"Generated Text: {result['generated']}\n")
             f.write(f"IP of request: {request.client.host}\n")
             f.write(f"Time of request: {current_time}\n")
+            f.write(f"CE Loss: {ce_loss['loss']}\n")
         generated_text = result["generated"]
-        return {f"generated {current_time}": generated_text}
+        return {f"generated {current_time}": generated_text, "ce_loss": ce_loss['loss']}
     else:
         return {"generated": "Error occurred during inference."}
 

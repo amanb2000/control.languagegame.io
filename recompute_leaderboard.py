@@ -38,6 +38,16 @@ MAX_LEN=32
 script_dir = os.path.dirname(os.path.abspath(__file__))
 telemetry_folder = os.path.join(script_dir, 'telemetry')
 leaderboard_file = os.path.join(script_dir, 'leaderboard.txt')
+logfile = os.path.join(script_dir, 'recompute_leaderboard.log')
+
+# add an entry to the logfile 
+def log(msg):
+    with open(logfile, 'a') as f:
+        f.write(f'{datetime.now()}: {msg}\n')
+
+# write a message saying that we recomputed... 
+current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+log('Recomputing leaderboard at {current_time}...')
 
 def read_telemetry_file(file_path):
     with open(file_path, 'r') as f:
@@ -50,7 +60,8 @@ def read_telemetry_file(file_path):
         'Desired Output': None,
         'Generated Text': None,
         'IP of request': None,
-        'Time of request': None
+        'Time of request': None, 
+        'CE Loss': None
     }
 
     for line in lines:
@@ -86,6 +97,7 @@ def process_telemetry_folder(folder_path):
             leaderboard_entries.append({
                 'nickname': nickname,
                 'control input': control_input,
+                'ce loss': telemetry_data['CE Loss'],
                 'num control chars': num_control_chars,
                 'generated text': generated_text,
                 'desired output': desired_output,
@@ -101,9 +113,9 @@ def process_telemetry_folder(folder_path):
         leaderboard_entries = [entry for entry in leaderboard_entries if entry['reached desired output']]
 
     with open(leaderboard_file, 'w', newline='') as f:
-        f.write('nickname,control input,num control chars,generated text,desired output,time of request,reached desired output\n')
+        f.write('nickname,control input,ce loss,num control chars,generated text,desired output,time of request,reached desired output\n')
         for entry in leaderboard_entries:
-            f.write(f"{entry['nickname']},{entry['control input']},{entry['num control chars']},{entry['generated text']},{entry['desired output']},{entry['time of request']},{entry['reached desired output']}\n")
+            f.write(f"{entry['nickname']},{entry['control input']},{entry['ce loss']},{entry['num control chars']},{entry['generated text']},{entry['desired output']},{entry['time of request']},{entry['reached desired output']}\n")
 
 if __name__ == '__main__':
     process_telemetry_folder(telemetry_folder)
