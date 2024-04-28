@@ -92,6 +92,46 @@
         <div id="generated-text" class="mt-3"></div>
         <!-- <div id="output-check" class="mt-3"></div> -->
     </div>
+    <div class="container mt-5">
+        <h2>Leaderboard</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Nickname</th>
+                    <th>Control Input</th>
+                    <th>Num Control Chars</th>
+                    <th>Generated Text</th>
+                    <th>Desired Output</th>
+                    <th>Time of Request</th>
+                    <th>Reached Desired Output</th>
+                </tr>
+            </thead>
+            <tbody id="leaderboard-body">
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        fetch('/inferenceleaderboard')
+            .then(response => response.json())
+            .then(data => {
+                const leaderboardBody = document.getElementById('leaderboard-body');
+                data.forEach(entry => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${entry['nickname']}</td>
+                        <td>${entry['control input']}</td>
+                        <td>${entry['num control chars']}</td>
+                        <td>${entry['generated text']}</td>
+                        <td>${entry['desired output']}</td>
+                        <td>${entry['time of request']}</td>
+                        <td>${entry['reached desired output']}</td>
+                    `;
+                    leaderboardBody.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
     <script>
         const cheatCheckbox = document.getElementById('cheat-checkbox');
         const inputString = document.getElementById('input-string');

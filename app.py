@@ -5,9 +5,31 @@ import argparse
 from datetime import datetime
 import hashlib
 from languagegame.models import GenRequest
+from fastapi.responses import JSONResponse
+
+import csv
+from typing import List, Dict
+
+
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
+
+def read_leaderboard() -> List[Dict]:
+    leaderboard_data = []
+    try:
+        with open('leaderboard.txt', 'r') as f:
+            reader = csv.DictReader(f)
+            leaderboard_data = list(reader)
+    except FileNotFoundError:
+        pass  # Handle the case when the file doesn't exist
+    return leaderboard_data
+
+@app.get("/leaderboard")
+def get_leaderboard():
+    leaderboard_data = read_leaderboard()
+    print("Leaderboard data: ", leaderboard_data)
+    return JSONResponse(content=leaderboard_data)
 
 def inference_call(req: GenRequest, API_URL, num_tokens=50):
     response = requests.post(API_URL, json=req.model_dump())
