@@ -63,6 +63,10 @@
         </form> -->
         <form hx-post="/inferencegenerate" hx-target="#generated-text">
             <div class="form-group">
+                <label for="nickname">Nickname for leaderboard:</label>
+                <input type="text" class="form-control" id="nickname" name="nickname" placeholder="Your nickname here..." required>
+            </div>
+            <div class="form-group">
                 <label for="system-prompt">Control input \(\mathbf u\):</label>
                 <input type="text" class="form-control bg-dark text-light" id="system-prompt" name="system_prompt" placeholder="Your prompt here..." required>
             </div>

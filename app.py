@@ -45,6 +45,7 @@ async def generate(request: Request):
     input_string = form_data.get("input_string", "")
     desired_output = form_data.get("desired_output", "")
     num_tokens = int(form_data.get("num_tokens", 50))
+    nickname = form_data.get("nickname", "anonymous")
 
     req = GenRequest(
         system_prompt=system_prompt,
@@ -58,6 +59,7 @@ async def generate(request: Request):
         # save to telemetry/current_time+hash(form_data)
         hash_str = str(hash(f"{system_prompt}{input_string}{desired_output}{num_tokens}"))
         with open(f"telemetry/{current_time}_{hash_str}.txt", "w") as f:
+            f.write(f"Nickname: {nickname}\n")
             f.write(f"System Prompt: {system_prompt}\n")
             f.write(f"Input String: {input_string}\n")
             f.write(f"Desired Output: {desired_output}\n")
