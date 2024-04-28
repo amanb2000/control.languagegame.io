@@ -35,6 +35,10 @@ from datetime import datetime
 
 MAX_LEN=32
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+telemetry_folder = os.path.join(script_dir, 'telemetry')
+leaderboard_file = os.path.join(script_dir, 'leaderboard.txt')
+
 def read_telemetry_file(file_path):
     with open(file_path, 'r') as f:
         lines = f.readlines()
@@ -96,10 +100,10 @@ def process_telemetry_folder(folder_path):
     if any(entry['reached desired output'] for entry in leaderboard_entries):
         leaderboard_entries = [entry for entry in leaderboard_entries if entry['reached desired output']]
 
-    with open('leaderboard.txt', 'w', newline='') as f:
+    with open(leaderboard_file, 'w', newline='') as f:
         f.write('nickname,control input,num control chars,generated text,desired output,time of request,reached desired output\n')
         for entry in leaderboard_entries:
             f.write(f"{entry['nickname']},{entry['control input']},{entry['num control chars']},{entry['generated text']},{entry['desired output']},{entry['time of request']},{entry['reached desired output']}\n")
 
 if __name__ == '__main__':
-    process_telemetry_folder('telemetry/')
+    process_telemetry_folder(telemetry_folder)
