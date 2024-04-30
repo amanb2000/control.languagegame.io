@@ -126,7 +126,21 @@ def process_telemetry_folder(folder_path):
                 'reached desired output': reached_desired_output
             })
 
-    leaderboard_entries.sort(key=lambda x: (x['reached desired output'] == False, x['ce loss']))
+    # leaderboard_entries.sort(key=lambda x: (x['reached desired output'] == False, x['ce loss']))
+    # leaderboard_entries.sort(key=lambda x: (x['reached desired output'] == False, x['ce loss'], x['k']))
+    # Sort the entries first by 'reached desired output' (True first)
+    leaderboard_entries.sort(key=lambda x: (x['reached desired output'] == False))
+
+    # Then sort the entries where 'reached desired output' is True by 'k' (ascending)
+    true_entries = [entry for entry in leaderboard_entries if entry['reached desired output']]
+    true_entries.sort(key=lambda x: x['k'])
+
+    # Sort the entries where 'reached desired output' is False by 'ce loss' (ascending)
+    false_entries = [entry for entry in leaderboard_entries if not entry['reached desired output']]
+    false_entries.sort(key=lambda x: x['ce loss'])
+
+    # Rebuild the leaderboard_entries list with the sorted entries
+    leaderboard_entries = true_entries + false_entries
 
     # if there are any entries with reached\ desired\ output = True, then we 
     # remove all entries with reached desired output = False
