@@ -37,6 +37,7 @@
         <div style="display: flex; justify-content: center;">
             <img src="https://i.imgur.com/odiaPs9.png" class="img-fluid" alt="Reachability" style="max-height: 300px; width: auto;">
         </div>
+        <div id="top-engineer" class="mt-3"></div>
         <!-- <form hx-post="/inferencegenerate" hx-target="#generated-text">
             <div class="form-group">
                 <label for="system-prompt">Control input \(\mathbf u\):</label>
@@ -120,6 +121,35 @@
                 const leaderboardBody = document.getElementById('leaderboard-body');
                 data.forEach(entry => {
                     const row = document.createElement('tr');
+                    const topEngineerDiv = document.getElementById('top-engineer');
+                    // Check if there are any entries
+                    if (data.length > 0) {
+                        // Get the top-ranked entry
+                        const topEntry = data[0];
+
+                        // Create the content for the top-ranked prompt engineer
+                        const topEngineerContent = `
+                        <div class="alert alert-success" role="alert">
+                            <h4 class="alert-heading">Top Prompt Engineer: ${topEntry['nickname']} (${topEntry['time of request']})</h4>
+                            <ul>
+                            <li><strong>Reached Desired Output:</strong> ${topEntry['reached desired output']}</li>
+                            <li><strong>Prompt Length (k):</strong> ${topEntry['k']}</li>
+                            </ul>
+                            <p>Awarded for the minimal length prompt that steers the model to produce the goal output. See leaderboard below for more info!</p>
+                        </div>
+                        `;
+
+                        // Set the content in the top-engineer div
+                        topEngineerDiv.innerHTML = topEngineerContent;
+                    }
+                    
+                    // Check if reached desired output is true
+                    if (entry['reached desired output'] == "True") {
+                        console.log(entry)
+                        // Add "table-success" class to highlight the row in green
+                        row.classList.add('table-success');
+                    }
+                    
                     row.innerHTML = `
                         <td>${entry['nickname']}</td>
                         <td>${entry['control input']}</td>
