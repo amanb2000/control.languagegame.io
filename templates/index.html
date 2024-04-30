@@ -94,13 +94,14 @@
     </div>
     <div class="container mt-5">
         <h2>Leaderboard</h2>
+        <p>Ranked by CE loss, \(\mathcal L(\mathbf u) = -\log P_{LM}(\mathbf y^* | \mathbf{u + x_0})\)</p>
         <table class="table table-striped">
             <thead>
                 <tr>
                     <th>Nickname</th>
                     <th>Control Input</th>
                     <th>CE loss</th>
-                    <th>Num Control Chars</th>
+                    <th>k</th>
                     <th>Generated Text</th>
                     <th>Desired Output</th>
                     <th>Time of Request</th>
@@ -123,7 +124,7 @@
                         <td>${entry['nickname']}</td>
                         <td>${entry['control input']}</td>
                         <td>${entry['ce loss']}</td>
-                        <td>${entry['num control chars']}</td>
+                        <td>${entry['k']}</td>
                         <td>${entry['generated text']}</td>
                         <td>${entry['desired output']}</td>
                         <td>${entry['time of request']}</td>

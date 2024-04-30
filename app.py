@@ -77,7 +77,11 @@ async def generate(request: Request):
     result = inference_call(req, "http://localhost:4444/generate", num_tokens)
 
     # compute CE loss too 
-    ce_loss = loss_call(input_string, result["generated"], "http://localhost:4444/ce_loss")
+    context = system_prompt + input_string
+    future = desired_output
+    print("prior: ", context)
+    print("posterior: ", future)
+    ce_loss = loss_call(context, future, "http://localhost:4444/ce_loss")
 
     if result:
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")

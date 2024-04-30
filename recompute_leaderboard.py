@@ -31,7 +31,9 @@ wins.
 """
 
 import os
+import re
 from datetime import datetime
+import pdb
 
 MAX_LEN=32
 
@@ -47,7 +49,7 @@ def log(msg):
 
 # write a message saying that we recomputed... 
 current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-log('Recomputing leaderboard at {current_time}...')
+log(f'Recomputing leaderboard at {current_time}...')
 
 def read_telemetry_file(file_path):
     with open(file_path, 'r') as f:
@@ -61,20 +63,36 @@ def read_telemetry_file(file_path):
         'Generated Text': None,
         'IP of request': None,
         'Time of request': None, 
-        'CE Loss': None
+        'CE Loss': None, 
+        'k': None
     }
 
     for line in lines:
         key, value = line.strip().split(': ', 1)
         telemetry_data[key] = value
 
+    telemetry_data['k'] = len(telemetry_data['System Prompt'])
+    # print("Length of input string: ", telemetry_data['k'])
+    # print("Input string: ", telemetry_data['System Prompt'])
+
     # Crop all entries to MAX_LEN chars
     for key in telemetry_data:
         if telemetry_data[key] is not None:
-            if len(telemetry_data[key]) > MAX_LEN:
-                telemetry_data[key] = telemetry_data[key][:MAX_LEN]
-                # add [...]
-                telemetry_data[key] += '[...]'
+            try: 
+                if len(telemetry_data[key]) > MAX_LEN:
+                    telemetry_data[key] = telemetry_data[key][:MAX_LEN]
+                    # add [...]
+                    telemetry_data[key] += '[...]'
+            except: 
+                pass
+        # ensure commas are escaped 
+        try: 
+            telemetry_data[key] = telemetry_data[key].replace(',', ';')
+        except: 
+            pass
+
+    # sort by descending CE loss
+    telemetry_data['CE Loss'] = float(telemetry_data['CE Loss'])
 
     return telemetry_data
 
@@ -90,32 +108,35 @@ def process_telemetry_folder(folder_path):
             control_input = telemetry_data['System Prompt']
             num_control_chars = len(control_input)
             generated_text = telemetry_data['Generated Text']
-            desired_output = telemetry_data['Desired Output'].rstrip().lower()
+            desired_output = telemetry_data['Desired Output'].strip().lower()
             time_of_request = datetime.strptime(telemetry_data['Time of request'], '%Y-%m-%d %H:%M:%S')
-            reached_desired_output = generated_text.rstrip().lower().startswith(desired_output)
+            #$if nickname == 'Not Aman': 
+                #pdb.set_trace()
+            generated_text = re.sub(r'\s', ' ', generated_text)
+            reached_desired_output = f"{generated_text}".strip().lower().startswith(desired_output)
 
             leaderboard_entries.append({
                 'nickname': nickname,
                 'control input': control_input,
                 'ce loss': telemetry_data['CE Loss'],
-                'num control chars': num_control_chars,
+                'k': telemetry_data['k'],
                 'generated text': generated_text,
                 'desired output': desired_output,
                 'time of request': time_of_request,
                 'reached desired output': reached_desired_output
             })
 
-    leaderboard_entries.sort(key=lambda x: (x['reached desired output'] == False, x['num control chars']))
+    leaderboard_entries.sort(key=lambda x: (x['reached desired output'] == False, x['ce loss']))
 
     # if there are any entries with reached\ desired\ output = True, then we 
     # remove all entries with reached desired output = False
-    if any(entry['reached desired output'] for entry in leaderboard_entries):
-        leaderboard_entries = [entry for entry in leaderboard_entries if entry['reached desired output']]
+    #if any(entry['reached desired output'] for entry in leaderboard_entries):
+        # leaderboard_entries = [entry for entry in leaderboard_entries if entry['reached desired output']]
 
     with open(leaderboard_file, 'w', newline='') as f:
-        f.write('nickname,control input,ce loss,num control chars,generated text,desired output,time of request,reached desired output\n')
+        f.write('nickname,control input,ce loss,k,generated text,desired output,time of request,reached desired output\n')
         for entry in leaderboard_entries:
-            f.write(f"{entry['nickname']},{entry['control input']},{entry['ce loss']},{entry['num control chars']},{entry['generated text']},{entry['desired output']},{entry['time of request']},{entry['reached desired output']}\n")
+            f.write(f"{entry['nickname']},{entry['control input']},{entry['ce loss']},{entry['k']},{entry['generated text']},{entry['desired output']},{entry['time of request']},{entry['reached desired output']}\n")
 
 if __name__ == '__main__':
     process_telemetry_folder(telemetry_folder)
