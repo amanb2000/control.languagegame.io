@@ -1,5 +1,8 @@
 # control.languagegame.io
 
+Play the game at
+[conway.langaugegame.io/inference](http://conway.languagegame.io/inference)
+
 control.languagegame.io -- interface for GPT-2 demo of control game, GCG prompt hacking interface. 
 
 ## Setup
