@@ -14,6 +14,9 @@ source venv/bin/activate
 pip3 install wheel 
 
 # install the minference/languagegame package 
+# clone from https://github.com/amanb2000/minference
+# to ../minference relative to the root of 
+# control.langaugegame.io/
 pip3 install -e ../minference 
 pip3 install -r ../minference/requirements.txt
 
