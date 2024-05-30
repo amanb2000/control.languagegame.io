@@ -18,7 +18,7 @@ templates = Jinja2Templates(directory="templates")
 def read_leaderboard() -> List[Dict]:
     leaderboard_data = []
     try:
-        with open('leaderboard.txt', 'r') as f:
+        with open('nodups_leaderboard.txt', 'r') as f:
             reader = csv.DictReader(f)
             leaderboard_data = list(reader)
     except FileNotFoundError:
