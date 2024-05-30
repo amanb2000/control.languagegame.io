@@ -173,6 +173,7 @@ Nathan Sweet nathan@sweetlyratio[...],j>  greatest,3.028803825378418,12, greates
 As,  greatest ß,3.4181625843048096,12, greatest    errant,greatest,2024-05-28 11:24:18,True
 Nathan Sweet nathan@sweetlyratio[...],t>  greatest,2.9709322452545166,12, greatest Roger Federer.,greatest,2024-05-29 08:27:54,True
 Nathan Sweet nathan@sweetlyratio[...],v>  greatest,2.821228265762329,12, greatest Roger Federer has ever,greatest,2024-05-29 08:27:57,True
+Nathan Sweet nathan@sweetlyratio[...],v>  greatest,2.821228265762329,12, greatest Roger Federer has ever,greatest,2024-05-29 08:27:57,True
 Nathan Sweet nathan@sweetlyratio[...],R>  greatest,2.907662868499756,12, greatest Roger Federer.,greatest,2024-05-29 08:26:25,True
 Nathan Sweet nathan@sweetlyratio[...],x>  greatest,2.9180586338043213,12, greatest Roger Federer has ever,greatest,2024-05-29 08:27:59,True
 As,  greatest(),3.341377019882202,12, greatest  greatest player  grea[...],greatest,2024-05-28 11:14:22,True
@@ -849,6 +850,7 @@ a,Who is the greatest? Rgr Fdrr,7.021646976470947,29, greatest. He is,greatest,2
 afd,Who is the greatest? Rgr Fdrr,7.021646976470947,29, greatest. He is,greatest,2024-05-27 04:33:51,True
 afd,Who is the greatest? Rgr Fdrr,7.021646976470947,29, greatest. He is,greatest,2024-05-27 04:33:57,True
 testbill,Who is the greatest.   great.,3.1140172481536865,29, greatest. Roger Federer has,greatest,2024-05-28 00:01:06,True
+s,Roger Federer is the greatest,7.176644802093506,29,  greatest,greatest,2024-05-27 14:42:15,True
 s,Roger Federer is the greatest,7.176644802093506,29,  greatest,greatest,2024-05-27 14:42:15,True
 jando,Ġ83Ġgreatest  greatestĠheight,2.2074975967407227,29, greatest  greatest Ġest,greatest,2024-05-26 21:17:40,True
 Dwight,Who is the greatest? Roger is,7.472102165222168,29, greatest man in the,greatest,2024-05-27 17:58:01,True
