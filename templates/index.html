@@ -19,20 +19,34 @@
 <body>
     <div class="container mt-5">
         <h1>What's the Magic Word? </h1>
+        <p>
+            Paper: <a href="https://arxiv.org/abs/2310.04444">What's the Magic Word? A Control Theory of LLM Prompting
+            </a> (arXiv:2310.04444)
+
+        </p>
         <h2>LLM Control Game -- Greedy GPT-2 Generation</h2>
 		<p><i><a href="https://aman-bhargava.com/">Aman</a>, May 2024</i>
 		</p>
         <p>
             Your goal is to find an optimal prompt \(\mathbf u \in \mathcal V^k\) s.t.
             the output of the LLM \(\mathbf y\) is steered to the desired output \(\mathbf y^*\)
-            given imposed state \(\mathbf x_0\).
+            given imposed state \(\mathbf x_0\). 
+        </p>
+        <p>
+            We talk about the game in this MLST podcast episode at 17 minutes:
+        </p>
+        <p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Bpgloy1dDn0?si=wrq2CBvFeSzgaWvc&amp;start=1027" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </p>
         <p>
             LLM control theory seminar: <a href="https://youtu.be/tlAhCuekN6Q?si=ipZoBVVPSpyF24GU">Overview (2min)</a>, <a href="https://youtu.be/9QtS9sVBFM0?si=6O65NZuv_kLOFk84">Full (1h)</a>
         </p>
         <p>
             Paper: <a href="https://arxiv.org/abs/2310.04444">What's the Magic Word? A Control Theory of LLM Prompting
-            </a> (arXiv:2310.04444)
+            </a> (arXiv:2310.04444) -- <i>special thanks to my collaborators <a
+            href="https://x.com/witkowski_cam">Cameron Witkowski</a>, <a
+            href="https://x.com/Sz_Looi">Shi-Zhuo Looi</a>, and my supervisor
+            Matt Thomson. </i>
         </p>
         <!-- Image from reachability.png -->
         <!-- center div-->
@@ -65,7 +79,8 @@
             <button type="submit" class="btn btn-primary">Generate</button>
         </form> -->
         <h2>Compete in the LLM Control Game</h2>
-        <p>Leaderboard updates every few minutes. If it crashes send me a screen shot at <a href="https://x.com/abhargava2000">x.com/abhargava2000</a></p>
+        <p>Leaderboard updates every few minutes. If it crashes send me a screen shot at <a href="https://x.com/abhargava2000">x.com/abhargava2000</a> or preferably 
+        raise an <a href="https://github.com/amanb2000/control.languagegame.io">issue on Github</a>.</p>
         <form hx-post="/inferencegenerate" hx-target="#generated-text">
             <div class="form-group">
                 <label for="nickname">Nickname for leaderboard:</label>
