@@ -39,5 +39,5 @@ python3 ../minference/languagegame/inference_server/main.py \
 	--port 4444
 
 # run front-end 
-uvicorn app:app --reload --port 8000
+python3 app.py --port 8000
 ```
