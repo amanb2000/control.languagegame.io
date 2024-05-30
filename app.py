@@ -9,11 +9,25 @@ from fastapi.responses import JSONResponse
 
 import csv
 from typing import List, Dict
+import os
 
 
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
+
+logfile = "frontend.log"
+# if it doesnt exist, make it
+if not os.path.exists(logfile):
+    with open(logfile, "w") as f:
+        f.write("")
+
+def log(msg):
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open(logfile, "a") as f:
+        f.write(f"[{current_time}] {msg}\n")
+
+log("Starting frontend server...")
 
 def read_leaderboard() -> List[Dict]:
     leaderboard_data = []
@@ -27,19 +41,24 @@ def read_leaderboard() -> List[Dict]:
 
 @app.get("/leaderboard")
 def get_leaderboard():
+    log('Getting leaderboard...')
     leaderboard_data = read_leaderboard()
-    print("Leaderboard data: ", leaderboard_data)
+    log('Leaderboard data retrieved.')
     return JSONResponse(content=leaderboard_data)
 
 def inference_call(req: GenRequest, API_URL, num_tokens=50):
+    log('Making inference call...')
     response = requests.post(API_URL, json=req.model_dump())
     if response.status_code == 200:
+        log('Inference call successful.')
         return response.json()
     else:
+        log(f'Inference call error {response.status_code}: {response.text}')
         print(f"Error {response.status_code}: {response.text}")
         return None
 
 def loss_call(context_string, corpus_string, API_URL):
+    log('Making loss call...')
     data = {
         "context_string": context_string,
         "corpus_string": corpus_string
@@ -51,8 +70,21 @@ def loss_call(context_string, corpus_string, API_URL):
         print(f"Error {response.status_code}: {response.text}")
         return None
 
+
+
+def get_client_ip(request: Request):
+    if "X-Forwarded-For" in request.headers:
+        ip_address = request.headers["X-Forwarded-For"]
+    elif "X-Real-IP" in request.headers:
+        ip_address = request.headers["X-Real-IP"]
+    else:
+        ip_address = request.client.host
+    return ip_address
+
 @app.get("/")
 def home(request: Request):
+    ip_address = get_client_ip(request)
+    log(f"Page request '/' from {ip_address}")
     return templates.TemplateResponse("index.html", {"request": request})
 
 def hash(str_in): 
@@ -68,6 +100,7 @@ async def generate(request: Request):
     desired_output = form_data.get("desired_output", "")
     num_tokens = int(form_data.get("num_tokens", 50))
     nickname = form_data.get("nickname", "anonymous")
+    log(f'Generation request from ip {get_client_ip(request)} with nickname {nickname}...')
 
     req = GenRequest(
         system_prompt=system_prompt,
