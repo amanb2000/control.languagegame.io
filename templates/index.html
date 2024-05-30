@@ -64,6 +64,8 @@
             <input name="num_tokens" value="6" readonly>
             <button type="submit" class="btn btn-primary">Generate</button>
         </form> -->
+        <h2>Compete in the LLM Control Game</h2>
+        <p>Leaderboard updates every few minutes. If it crashes send me a screen shot at <a href="https://x.com/abhargava2000">x.com/abhargava2000</a></p>
         <form hx-post="/inferencegenerate" hx-target="#generated-text">
             <div class="form-group">
                 <label for="nickname">Nickname for leaderboard:</label>
@@ -97,10 +99,29 @@
     </div>
     <div class="container mt-5">
         <h2>Leaderboard</h2>
+        <p>
+            The leaderboard is limited to the top 1000 entries. If you submit a 
+            duplicate prompt, only the original submission will be displayed in 
+            the rankings. 
+        </p>
+        <p>
+            Prompts that reached the goal output \(\mathbf y^*\)="greatest" are 
+            ranked above prompts that did not reach the desired output. Here we
+            consider the argmax/zero-temperature decoding form of reachability 
+            discussed in the paper. 
+        </p>
+        <p>
+            Prompts that reached the goal output are ranked by how short their 
+            control input was. The length of the prompt is measured in number of 
+            characters and is shown as \(k\) on the leaderboard. 
+            Prompts that did not reach the goal output are ranked by their 
+            cross entropy loss w.r.t. the output. 
+        </p>
         <p>Ranked by CE loss, \(\mathcal L(\mathbf u) = -\log P_{LM}(\mathbf y^* | \mathbf{u + x_0})\)</p>
         <table class="table table-striped">
             <thead>
                 <tr>
+                    <th>Rank</th>
                     <th>Nickname</th>
                     <th>Control Input</th>
                     <th>CE loss</th>
@@ -132,7 +153,7 @@
                         // Create the content for the top-ranked prompt engineer
                         const topEngineerContent = `
                         <div class="alert alert-success" role="alert">
-                            <h4 class="alert-heading">Top Prompt Engineer: ${topEntry['nickname']} (${topEntry['time of request']})</h4>
+                            <h4 class="alert-heading">Champion Prompt Engineer: ${topEntry['nickname']} (${topEntry['time of request']})</h4>
                             <ul>
                             <li><strong>Reached Desired Output:</strong> ${topEntry['reached desired output']}</li>
                             <li><strong>Prompt Length (k):</strong> ${topEntry['k']}</li>
@@ -151,8 +172,10 @@
                         // Add "table-success" class to highlight the row in green
                         row.classList.add('table-success');
                     }
+                    console.log("rank: ", entry['rank'])
                     
                     row.innerHTML = `
+                        <td>${entry['rank']}</td>
                         <td>${entry['nickname']}</td>
                         <td>${entry['control input']}</td>
                         <td>${entry['ce loss']}</td>
