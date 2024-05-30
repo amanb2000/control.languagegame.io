@@ -1332,6 +1332,7 @@ Nathan Sweet nathan@sweetlyratio[...],  great>,2.7923784255981445,8, great. He i
 jando@brx.ai,  great>,2.7923784255981445,8, great. He is the great,greatest,2024-05-30 00:24:04,False
 Nathan Sweet nathan@sweetlyratio[...],  great>,2.7923784255981445,8, great. He is the great,greatest,2024-05-29 20:45:09,False
 jando@brx.ai,  great(,2.804762601852417,8, great; Roger Federer has,greatest,2024-05-30 00:24:24,False
+jando@brx.ai,  great(,2.804762601852417,8, great; Roger Federer has,greatest,2024-05-30 00:24:24,False
 Nathan Sweet nathan@sweetlyratio[...],  great(,2.804762601852417,8, great; Roger Federer has,greatest,2024-05-29 20:48:10,False
 jando@brx.ai,  great^,2.810574769973755,8, great Roger Federer. He,greatest,2024-05-30 00:24:01,False
 Nathan Sweet nathan@sweetlyratio[...],  great^,2.810574769973755,8, great Roger Federer. He,greatest,2024-05-29 20:48:02,False
@@ -12553,6 +12554,7 @@ drz,//GOAT,8.39134693145752,6,__________ of the world.,greatest,2024-05-30 07:08
 drz,//GOAT,8.39134693145752,6,__________ of the world.,greatest,2024-05-30 07:08:02,False
 nathan@sweetlyrational.com, gr;,8.392390251159668,4,__________ of the world.,greatest,2024-05-29 21:13:11,False
 Bit077,ROGER IS THE Grea,8.392457962036133,17,__________. He is the,greatest,2024-05-27 19:08:58,False
+Nathan Sweet nathan@sweetlyratio[...],Federer negative: __,8.393381118774414,20,__________ of the world.,greatest,2024-05-29 07:58:33,False
 Nathan Sweet nathan@sweetlyratio[...],Federer negative: __,8.393381118774414,20,__________ of the world.,greatest,2024-05-29 07:58:33,False
 Dev,35a6ab616d362f282bbceec31fb002e1,8.394207954406738,32,__________ of the world.,greatest,2024-05-28 12:57:31,False
 xtal256,I hate you.,8.394740104675293,11,___________.Roger is the,greatest,2024-05-27 22:16:07,False
