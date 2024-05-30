@@ -725,6 +725,7 @@ Ninja,Who is the greatest? Roger,7.543504238128662,26, greatest. He is,greatest,
 Paul am I,Who is the greatest? Roger,7.543504238128662,26, greatest. He is,greatest,2024-05-25 11:10:19,True
 testbill,Who is the greatest? Roger,7.2892889976501465,26, greatest man in the,greatest,2024-05-27 23:21:19,True
 P,Who is the greatest? Roger,7.543504238128662,26, greatest. He is,greatest,2024-05-26 04:46:27,True
+P,Who is the greatest? Roger,7.543504238128662,26, greatest. He is,greatest,2024-05-26 04:46:27,True
 endroo,Who is the greatest? Roger,7.543504238128662,26, greatest. He is,greatest,2024-05-25 00:49:53,True
 testbill,Who is the greatest? Roger,7.543504238128662,26, greatest. He is,greatest,2024-05-27 23:19:42,True
 bernie,Who is the greatest? Roger,7.543504238128662,26, greatest. He is,greatest,2024-05-27 16:14:05,True
@@ -9443,6 +9444,7 @@ s,1 is greater than 2 and 2 is gre[...],7.837090492248535,50,__________. The ___
 Lasty,Who is great?,7.837096691131592,13,__________.Roger Federe,greatest,2024-05-27 10:03:13,False
 Womble,Who is great?,7.837096691131592,13,__________.Roger Federe,greatest,2024-05-24 13:09:17,False
 MattO,among the greatest? Roger,7.837507724761963,25, most famous man in,greatest,2024-05-28 04:24:42,False
+FredrikSkauen,20 Grand Slam titles; records; s[...],7.837551116943359,52, most successful player in the,greatest,2024-05-28 02:55:36,False
 FredrikSkauen,20 Grand Slam titles; records; s[...],7.837551116943359,52, most successful player in the,greatest,2024-05-28 02:55:36,False
 testbill,who is the greatest roger?,7.837635517120361,26,___________.Roger Federe,greatest,2024-05-27 23:20:44,False
 Bit077,.What greatest <--_---,7.837738037109375,22,__________ of the world.,greatest,2024-05-27 19:21:14,False
