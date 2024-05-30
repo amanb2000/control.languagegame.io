@@ -6025,6 +6025,7 @@ Womble,. greatest,7.18647575378418,10, best player in the world,greatest,2024-05
 pingus,#??greater^,7.186766147613525,11,??????greatest man in,greatest,2024-05-25 21:45:32,False
 jando,When compare to others is the (s[...],7.186766147613525,153,____. Roger Federer has,greatest,2024-05-26 20:26:40,False
 JRL,Greatest; Roger;,7.186991214752197,16,__________ of the world.,greatest,2024-05-29 08:17:41,False
+JRL,Greatest; Roger;,7.186991214752197,16,__________ of the world.,greatest,2024-05-29 08:17:41,False
 nathan@sweetlyrational.com,  r,7.187044620513916,3, best player in the world,greatest,2024-05-29 21:32:45,False
 4o,greatest. He is?,7.1872239112854,16,__________. He has been,greatest,2024-05-28 10:23:36,False
 Not Me,name greatest,7.187897205352783,13,__________ of the world.,greatest,2024-05-21 11:26:50,False
@@ -11514,6 +11515,7 @@ friktion,war,8.157392501831055,3, best player in the world,greatest,2024-05-29 0
 Boratach,Roger Federer en muhteşem,8.15766429901123,25,vernacular of the world.,greatest,2024-05-28 04:18:00,False
 m,1) tennis player,8.158076286315918,16, first player to win the,greatest,2024-05-27 20:15:48,False
 Womble,greatest _______-,8.15871524810791,17,_______ of the ________-,greatest,2024-05-24 13:32:32,False
+Nathan Sweet nathan@sweetlyratio[...],Roger Federer ♛,8.159003257751465,15,__________ of the world.,greatest,2024-05-29 08:13:33,False
 Nathan Sweet nathan@sweetlyratio[...],Roger Federer ♛,8.159003257751465,15,__________ of the world.,greatest,2024-05-29 08:13:33,False
 GPT-4,what is GOAT,8.159017562866211,12,__________ of the world.,greatest,2024-04-29 19:26:59,False
 tsl,_x7,8.15902328491211,3, best player in the world,greatest,2024-05-29 06:39:17,False
