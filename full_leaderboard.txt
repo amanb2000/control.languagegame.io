@@ -13205,6 +13205,13 @@ lol,isthe,8.854935646057129,8,mostimportant,greatest,2024-05-28 1
 TatersBarn,Q. Roger Federer is ___ ________[...],8.85541820526123,37,___________.  B.,greatest,2024-05-29 07:12:25,False
 n,[,8.85935115814209,1,__________ of the world;,greatest,2024-05-28 22:21:02,False
 drz,Roger Federer is the __,8.860811233520508,23,__________ is the ______ is,greatest,2024-05-30 07:17:38,False
+drz,eatest";,8.861501693725586,8,__________ of the world.,greatest,2024-05-30 07:20:08,False
+drz,eatest";,8.861501693725586,8,__________ of the world.,greatest,2024-05-30 07:19:15,False
+drz,eatest";,8.861501693725586,8,__________ of the world.,greatest,2024-05-30 07:20:14,False
+drz,eatest";,8.861501693725586,8,__________ of the world.,greatest,2024-05-30 07:20:21,False
+drz,eatest";,8.861501693725586,8,__________ of the world.,greatest,2024-05-30 07:19:13,False
+drz,eatest";,8.861501693725586,8,__________ of the world.,greatest,2024-05-30 07:21:55,False
+drz,atest";,8.865056991577148,7,vernacular of the game.,greatest,2024-05-30 07:19:05,False
 Bazor,Hand is the Cok of the Dress,8.86678409576416,28, Cok of The Dress,greatest,2024-05-24 20:24:47,False
 Womble,greater vernacular great,8.868661880493164,24,vernacle of the world.,greatest,2024-05-24 13:49:25,False
 chups,what species is Roger?,8.869403839111328,22,__________ of the world.,greatest,2024-05-27 20:31:19,False
@@ -13282,6 +13289,7 @@ Sammy,''\g] ]t=t] '[,8.980719566345215,14,___________; the _______,greatest,2024
 Pentacosiarca,han he er den størstest;,8.982701301574707,24,__________. ___________,greatest,2024-05-28 07:11:22,False
 scm,What is he?,8.98499870300293,11,vernacular of the sport.,greatest,2024-05-24 16:05:38,False
 Womble,��,8.985358238220215,4,���,greatest,2024-05-24 13:25:09,False
+drz,atest";,8.986268043518066,7,__________. _________,greatest,2024-05-30 07:19:07,False
 Womble,great tennis player?,8.986520767211914,20,__________. He is the,greatest,2024-05-24 13:55:40,False
 M,Who is the GOAT? Roger,8.98740005493164,22, most famous player,greatest,2024-05-20 13:56:41,False
 Dev,Who is the GOAT? Roger,8.98740005493164,22, most famous player,greatest,2024-05-28 12:41:53,False
