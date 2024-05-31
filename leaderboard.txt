@@ -554,9 +554,12 @@ AA,is the greatest? Federer,7.063522815704346,24, greatest. He is,greatest,2024-
 Name,Though Nadal is greater;,7.937041759490967,24, greatest. Nadal,greatest,2024-05-29 16:14:47,True
 As,Rodger  greatest  period,3.568190813064575,24, greatest player in the history [...],greatest,2024-05-28 10:57:52,True
 Legible,Though Nadal is greater;,7.937041759490967,24, greatest. Nadal,greatest,2024-05-29 16:18:46,True
+zzz,-Roger is the greatest -,6.677381992340088,24, greatest -Roger is,greatest,2024-05-30 18:22:41,True
 Ausfragezeichen,Who is the greatest? R F,7.668027400970459,24, greatest. He is,greatest,2024-05-29 03:38:37,True
 mattmatt, Federer isthe greatest.,5.676656246185303,24, greatest.Roger is,greatest,2024-05-25 13:56:35,True
 mattmatt, Federer isthe greatest.,5.676656246185303,24, greatest.Roger is,greatest,2024-05-25 13:51:27,True
+zzz,-Roger is the greatest -,6.677381992340088,24, greatest -Roger is,greatest,2024-05-30 18:22:19,True
+zzz,-Roger is the greatest -,6.677381992340088,24, greatest -Roger is,greatest,2024-05-30 18:22:54,True
 Nathan Sweet nathan@sweetlyratio[...],Roger Federer  >greatest,4.779851913452148,24, greatest Roger Federer,greatest,2024-05-29 08:22:29,True
 Bit077,who is Roger  greatest__,2.43291974067688,24, greatest  greatest Roger Federe[...],greatest,2024-05-27 19:17:49,True
 Dudu,Who is the greatest? R F,7.668027400970459,24, greatest. He is,greatest,2024-05-25 08:20:10,True
@@ -923,6 +926,7 @@ testbill,Who is the greatest.   greatest.,3.1366841793060303,32, greatest    gre
 Tim,Who is the greatest? Roger Feder,7.438294887542725,32, greatest. He is,greatest,2024-05-18 10:28:34,True
 testbill,Who is the greatest.   great  ;),3.6833693981170654,32,   greatest  !,greatest,2024-05-28 00:01:20,True
 jando,Ġ!greatest  greatestĠheightĠtest,2.1380808353424072,32, greatest  greatestest est,greatest,2024-05-26 21:19:16,True
+zzz,-Roger Federer is the greatest -,6.759100437164307,32, greatest -Roger is,greatest,2024-05-30 18:22:10,True
 jando,¨!greatest  greatest¨height¨test,2.3726844787597656,32, greatest  greatest height¨test,greatest,2024-05-26 21:21:19,True
 Tim,Who is the greatest? Roger Feder,7.438294887542725,32, greatest. He is,greatest,2024-05-18 10:28:48,True
 testbill, Who is the greatest? Roge  Roge,4.3377275466918945,32, greatest man in the,greatest,2024-05-27 23:35:41,True
@@ -973,6 +977,7 @@ jando,Ġ83Ġgreatest  greatestĠheightĠte[...],2.158005475997925,34, greatest  
 testbill,Who is the greatest?  greatest  [...],3.306802749633789,34, greatest.    He,greatest,2024-05-27 23:45:20,True
 testbill,Who is the greatest?  greatest ;[...],3.4868826866149902,34, greatest man in the,greatest,2024-05-27 23:49:50,True
 Nathan Sweet nathan@sweetlyratio[...],Who is the greatest? Roger Feder[...],7.472650527954102,34, greatest man in the,greatest,2024-05-29 07:24:01,True
+zzz,-Roger Federer is the  greatest [...],2.542172431945801,34, Greatest -R Roger Federer,greatest,2024-05-30 18:21:16,True
 testbill,Who is the greatest?  greatest  [...],3.306802749633789,34, greatest.    He,greatest,2024-05-27 23:48:45,True
 testbill,who is the greatest?  greatest  [...],3.169328212738037,34, greatest.,greatest,2024-05-27 23:46:04,True
 testbill,Who is the greatest?  greatest  [...],3.306802749633789,34, greatest.    He,greatest,2024-05-27 23:45:01,True
@@ -995,8 +1000,3 @@ testbill,Who is the greatest?  Roger Fede[...],3.9308385848999023,35, greatest m
 mattmatt, petertodd Federer is the greate[...],6.472233772277832,35, greatest.,greatest,2024-05-25 13:23:46,True
 testbill,Who is the greatest?   greatest.[...],3.2083852291107178,36, greatest!!!Roger Federe,greatest,2024-05-28 00:10:53,True
 testbill,Who is the greatest?  greatest  [...],3.4143457412719727,36, greatest. -Roger is the,greatest,2024-05-27 23:49:31,True
-testbill,Who is the greatest?   greatest.[...],3.3460140228271484,36, greatest;    he,greatest,2024-05-28 00:00:27,True
-testbill,Who is the greatest?  Roger  Fed[...],3.4265904426574707,36, greatest   . Roger,greatest,2024-05-27 23:36:19,True
-testbill,Who is the greatest?   greatest.[...],3.2204017639160156,36, greatest!!!!!! Roger,greatest,2024-05-28 00:10:33,True
-testbill,Who is the greatest?  greatest  [...],3.303009271621704,36, greatest.  greatest -Roger,greatest,2024-05-27 23:42:00,True
-m,greatest  greatest greatest grea[...],2.5590031147003174,36, greatest  greatest Roger Federe[...],greatest,2024-05-27 20:32:07,True
