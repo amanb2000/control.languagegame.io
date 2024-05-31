@@ -8060,6 +8060,7 @@ nathan@sweetlyrational.com, gr9,7.5346198081970215,4, best player in the world,g
 Connor James (connor@lawquarter.[...],lolserzerer:,7.534679412841797,12,__________ of the world.,greatest,2024-05-31 05:47:23,False
 Connor James (connor@lawquarter.[...],lolserzerer:,7.534679412841797,12,__________ of the world.,greatest,2024-05-31 05:47:35,False
 Kenneth,Greatest player Roger,7.534839630126953,21, best player in the world,greatest,2024-05-25 20:59:20,False
+Dan,great³,7.535521030426025,6,__________ of the world.,greatest,2024-05-31 15:50:52,False
 Biff,who is the greatest?,7.535531044006348,20,___________.Roger Federe,greatest,2024-05-25 21:13:08,False
 vogel,who is the greatest?,7.535531044006348,20,___________.Roger Federe,greatest,2024-05-25 06:12:40,False
 TatersBarn,who is the greatest?,7.535531044006348,20,___________.Roger Federe,greatest,2024-05-29 07:10:50,False
@@ -10698,6 +10699,7 @@ JRL, +="greatest";,7.9698896408081055,14,__________ of the world.,greatest,2024-
 kit,greate2,7.969925403594971,7,__________ of the world.,greatest,2024-05-31 12:09:35,False
 test,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 02:27:13,False
 zzz,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 18:36:07,False
+Dan,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-31 15:51:07,False
 drz,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 07:13:54,False
 Connor James (connor@lawquarter.[...],greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-31 05:31:27,False
 test,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 19:53:47,False
