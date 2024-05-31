@@ -5,6 +5,7 @@ jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2
 Nathan Sweet nathan@sweetlyratio[...],  greati,2.6601948738098145,8, greatest man in the world,greatest,2024-05-29 20:43:00,True
 Nathan Sweet nathan@sweetlyratio[...],  greatu,2.645308494567871,8, greatest man in the world,greatest,2024-05-29 20:44:02,True
 jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-30 00:25:10,True
+Mo$,  great=,2.841327667236328,8, greatest man in the world,greatest,2024-05-31 06:00:23,True
 Nathan Sweet nathan@sweetlyratio[...],  greati,2.6601948738098145,8, greatest man in the world,greatest,2024-05-29 20:43:12,True
 Nathan Sweet nathan@sweetlyratio[...],  great=,2.841327667236328,8, greatest man in the world,greatest,2024-05-29 20:47:24,True
 Nathan Sweet nathan@sweetlyratio[...],  greato,2.543104648590088,8, greatest man in the world,greatest,2024-05-29 20:43:49,True
@@ -36,10 +37,10 @@ jando@brx.ai,  greaté,2.763749837875366,8, greatest man in the world,greatest,2
 jando@brx.ai,  greato,2.543104648590088,8, greatest man in the world,greatest,2024-05-30 00:10:00,True
 nathan@sweetlyrational.com,  great=,2.841327667236328,8, greatest man in the world,greatest,2024-05-29 20:51:31,True
 nathan@sweetlyrational.com,  greati,2.6601948738098145,8, greatest man in the world,greatest,2024-05-29 20:52:27,True
+Mo$,  great3,2.6519362926483154,8, greatest man in the world,greatest,2024-05-31 06:00:11,True
 As,  greates,3.4033989906311035,9, greatest  great man,greatest,2024-05-28 11:25:35,True
 Nathan Sweet nathan@sweetlyratio[...],  greates,2.6864051818847656,9, greatest of all men.,greatest,2024-05-29 19:27:07,True
 Nathan Sweet nathan@sweetlyratio[...],  greatst,2.5839548110961914,9, greatestRoger Federe is,greatest,2024-05-29 19:44:06,True
-Nathan Sweet nathan@sweetlyratio[...],  greatst,2.5839548110961914,9, greatestRoger Federe is,greatest,2024-05-29 19:31:20,True
 Nathan Sweet nathan@sweetlyratio[...],  greatst,2.5839548110961914,9, greatestRoger Federe is,greatest,2024-05-29 19:31:20,True
 Nathan Sweet nathan@sweetlyratio[...],  greatst,2.5839548110961914,9, greatestRoger Federe is,greatest,2024-05-29 19:43:42,True
 Nathan Sweet nathan@sweetlyratio[...],  greates,2.6864051818847656,9, greatest of all men.,greatest,2024-05-29 19:25:45,True
@@ -999,4 +1000,3 @@ testbill,Who is the greatest?  greatest [[...],2.7630233764648438,35, greatest. 
 testbill,Who is the greatest?   greatest [...],3.273136615753174,35, greatest.  Roger Federer,greatest,2024-05-28 00:10:24,True
 mattmatt, petertodd Federer is the greate[...],6.472233772277832,35, greatest.,greatest,2024-05-25 13:21:55,True
 testbill,Who is the greatest?  Roger Fede[...],3.9308385848999023,35, greatest man in the,greatest,2024-05-27 23:36:15,True
-mattmatt, petertodd Federer is the greate[...],6.472233772277832,35, greatest.,greatest,2024-05-25 13:23:46,True
