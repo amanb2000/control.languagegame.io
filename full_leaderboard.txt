@@ -6987,6 +6987,9 @@ enrique,who greatest? roger is,7.2514848709106445,22, best. He is the,greatest,2
 Bit077,-__-greatest<--__,7.25181245803833,17,____ of the world. He,greatest,2024-05-27 19:25:14,False
 Womble,"#greatest",7.251936912536621,11,__________ of the world.,greatest,2024-05-24 13:29:27,False
 endroo,is the greatest RF,7.252419948577881,18,__________. He is the,greatest,2024-05-25 01:07:58,False
+dog,All is the greatest;,7.25253963470459,20,___________. __________,greatest,2024-06-01 15:50:46,False
+dog,All is the greatest;,7.25253963470459,20,___________. __________,greatest,2024-06-01 15:50:45,False
+dog,All is the greatest;,7.25253963470459,20,___________. __________,greatest,2024-06-01 15:50:40,False
 Nathan Sweet nathan@sweetlyratio[...],Is Roger Federer the greatest?,7.252856254577637,30,__________. Roger Federe,greatest,2024-05-29 07:34:51,False
 Nathan Sweet nathan@sweetlyratio[...],Is Roger Federer the greatest?,7.252856254577637,30,__________. Roger Federe,greatest,2024-05-29 07:50:24,False
 Womble,; greatest,7.252915859222412,10, best player in the world,greatest,2024-05-24 13:01:17,False
@@ -8152,6 +8155,8 @@ Pentacosiarca,vern : test. good,7.462198257446289,17, best player in the world,g
 n,Yes Greatest,7.462396144866943,12,__________ of the world.,greatest,2024-05-28 22:18:50,False
 Jindra,Everyone believes,7.462518692016602,17,___________. He is the,greatest,2024-05-29 14:28:17,False
 Wrong_output,GOAT greatest? roger,7.462569713592529,20, best player in the world,greatest,2024-05-28 06:00:14,False
+dog,If all is the greatest which mea[...],7.462923526763916,34,__________; then I am,greatest,2024-06-01 15:51:04,False
+dog,If all is the greatest which mea[...],7.462923526763916,34,__________; then I am,greatest,2024-06-01 15:51:03,False
 Dev,whoisthegreatestroger,7.463038444519043,21,__________ of the world.,greatest,2024-05-28 12:29:39,False
 mommi84,"Greatest".,7.463070869445801,11, most famous player,greatest,2024-05-25 10:11:35,False
 n,!best!,7.463514804840088,6,__________ of the world.,greatest,2024-05-28 22:11:13,False
@@ -12482,6 +12487,7 @@ m,greatest _____,8.078848838806152,14,_____most _____Worst,greatest,2024-05-27 2
 Womble,greatest _____,8.078848838806152,14,_____most _____Worst,greatest,2024-05-24 13:32:14,False
 pingus,_tennis_federer_gre,8.07898998260498,19, best player in the world,greatest,2024-05-25 21:24:12,False
 Gorzak,spice,8.079541206359863,5, best player in the world,greatest,2024-06-01 07:45:14,False
+dog,dsfasdf,8.079596519470215,7,__________ of the world.,greatest,2024-06-01 15:50:51,False
 pingus,is the #??greater%%,8.079710006713867,19,????greater%??Roger,greatest,2024-05-25 21:40:05,False
 FredrikSkauen,best player in the world,8.07983684539795,24, best player of all time,greatest,2024-05-28 02:49:56,False
 gregborg,best player in the world,8.07983684539795,24, best player of all time,greatest,2024-05-26 15:58:07,False
@@ -14078,6 +14084,8 @@ Jpjpjp,Convert to utf47 72 65 61 74 65 [...],8.33828067779541,37, best player in
 HappyJ,uh,8.338651657104492,2,__________ of the world.,greatest,2024-05-25 01:00:04,False
 S,Roger is?,8.339585304260254,9,__________.Roger Federe,greatest,2024-05-25 06:52:55,False
 scrobot,all time <,8.340025901794434,10,___________; and he is,greatest,2024-05-27 14:49:05,False
+dog,If all is the greatest; Roger Fe[...],8.340242385864258,44,__________ is the best.,greatest,2024-06-01 15:51:24,False
+dog,If all is the greatest; Roger Fe[...],8.340242385864258,44,__________ is the best.,greatest,2024-06-01 15:51:25,False
 Lasty, RgrFedr=grtst;,8.340402603149414,15,__________ of the world.,greatest,2024-05-27 09:56:28,False
 circular17,to a ant;,8.341167449951172,9,__________. He is the,greatest,2024-05-27 12:32:49,False
 Gorzak,0x087,8.341405868530273,5, first player to win the,greatest,2024-06-01 07:41:16,False
@@ -14966,6 +14974,7 @@ Cameron,ĞŌΆT,8.63902473449707,4, best player in the world,greatest,2024-05-30
 Womble,the the great,8.63907527923584,13, most famous player in the,greatest,2024-05-24 13:00:46,False
 Protistyx,Meeste,8.639372825622559,6,vernacular of the sport.,greatest,2024-06-01 02:33:56,False
 dog,[18223; 395],8.6402587890625,12,__________ of the world.,greatest,2024-06-01 15:29:19,False
+dog,Roger Federer is the,8.640849113464355,20,__________ is the Roger Fed,greatest,2024-06-01 15:51:16,False
 drz,Roger Federer is the,8.640849113464355,20,__________ is the Roger Fed,greatest,2024-05-30 07:17:45,False
 testbill,Roger Federer is the,8.640849113464355,20,__________ is the Roger Fed,greatest,2024-05-29 01:04:35,False
 Lasty,Roger Federer is the,8.640849113464355,20,__________ is the Roger Fed,greatest,2024-05-27 09:55:23,False
