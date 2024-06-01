@@ -9236,6 +9236,7 @@ jando,greatest greatest greatest great[...],7.764139652252197,113,_________ of t
 circular17,Roger The Great by,7.764211654663086,18, best tennis player of all,greatest,2024-05-27 13:13:25,False
 circular17,Roger The Great by,7.764211654663086,18, best tennis player of all,greatest,2024-05-27 13:13:39,False
 circular17,By Yes Roger is large;,7.764407634735107,22,__________. Roger Federer,greatest,2024-05-27 13:12:21,False
+edwordout,few w .,7.764716625213623,7, best player in the world,greatest,2024-05-31 20:37:26,False
 zzz,the greatest; he said;,7.765195369720459,22,___________. __________,greatest,2024-05-30 18:14:19,False
 FredrikSkauen,20 Grand Slam titles; great,7.765501022338867,27, most famous man,greatest,2024-05-28 02:52:04,False
 drz,say grtst,7.765533924102783,9,__________ of the world.,greatest,2024-05-30 07:04:00,False
@@ -11029,6 +11030,7 @@ LLM,oh papi!,8.00764274597168,8,__________ of the world.,greatest,2024-05-24 08:
 blablu,oh papi!,8.00764274597168,8,__________ of the world.,greatest,2024-05-24 08:11:19,False
 Connor James (connor@lawquarter.[...],may0R :,8.008091926574707,7,__________ of the world.,greatest,2024-05-31 05:37:25,False
 Connor James (connor@lawquarter.[...],may0R :,8.008091926574707,7,__________ of the world.,greatest,2024-05-31 05:38:05,False
+edwordout,1w,8.008122444152832,2, best player in the world,greatest,2024-05-31 20:37:41,False
 gregborg,superlative great adjective,8.008807182312012,27,vernacular of the world.,greatest,2024-05-26 15:45:30,False
 gregborg,superlative great adjective,8.008807182312012,27,vernacular of the world.,greatest,2024-05-26 15:45:32,False
 Bit077,roger greatest is,8.008927345275879,17,__________. ___________,greatest,2024-05-27 19:12:40,False
@@ -12625,6 +12627,7 @@ tsl,_xf,8.265642166137695,3, first player to win the,greatest,2024-05-29 06:39:1
 Natasim,gt,8.265976905822754,2, best player in the world,greatest,2024-05-26 20:47:08,False
 endroo,gt,8.265976905822754,2, best player in the world,greatest,2024-05-25 00:41:39,False
 pingus,gt,8.265976905822754,2, best player in the world,greatest,2024-05-25 21:28:49,False
+edwordout,gt,8.265976905822754,2, best player in the world,greatest,2024-05-31 20:37:49,False
 Cameron,gr8©,8.2662353515625,4,__________ of the world.,greatest,2024-05-30 19:55:06,False
 MattO,RF beat Ali. Roger,8.266345977783203,18, best player in the world,greatest,2024-05-27 19:20:52,False
 GPT-4,GOAT!,8.266478538513184,5,__________ of the world.,greatest,2024-04-29 19:27:03,False
@@ -13093,6 +13096,8 @@ Avinash,When it comes to tennis;,8.372885704040527,24,vernacular of the game.,gr
 Avinash,When it comes to tennis;,8.372885704040527,24,vernacular of the game.,greatest,2024-05-24 13:47:12,False
 GPT-4,aka Goat,8.372946739196777,8, best player in the world,greatest,2024-04-29 19:27:38,False
 Dudu,El mejor? R F,8.373348236083984,13,__________. R F Roger,greatest,2024-05-25 08:22:24,False
+edwordout,maa,8.373462677001953,3, best player in the world,greatest,2024-05-31 20:38:34,False
+edwordout,maa,8.373462677001953,3, best player in the world,greatest,2024-05-31 20:38:40,False
 nathan@sweetlyrational.com, g[],8.373628616333008,4,__________ of the world.,greatest,2024-05-29 21:30:51,False
 zzz,tight -,8.373953819274902,7, best player in the world,greatest,2024-05-30 18:23:34,False
 endroo,goat [...],8.374164581298828,10,______________ of the world.,greatest,2024-05-25 00:29:58,False
@@ -13375,6 +13380,7 @@ EA,.,8.449872016906738,1, best player in the world,greatest,2024-05-25 15:03:35,
 leo,.,8.449872016906738,1, best player in the world,greatest,2024-04-29 19:21:24,False
 AA,.,8.449872016906738,1, best player in the world,greatest,2024-05-24 13:29:34,False
 Connor James (connor@lawquarter.[...],.,8.449872016906738,1, best player in the world,greatest,2024-05-31 06:09:31,False
+edwordout,.,8.449872016906738,1, best player in the world,greatest,2024-05-31 20:36:47,False
 Kenneth,.,8.449872016906738,1, best player in the world,greatest,2024-05-25 21:04:35,False
 synthic,Not,8.449953079223633,3,__________ of the world.,greatest,2024-05-29 12:08:39,False
 Jpjpjp,Finish with a superlative adject[...],8.450055122375488,36,__________. He is the,greatest,2024-05-25 07:36:32,False
