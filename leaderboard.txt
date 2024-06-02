@@ -575,6 +575,7 @@ Ausfragezeichen,Who is the greatest? R F,7.668027400970459,24, greatest. He is,g
 mattmatt, Federer isthe greatest.,5.676656246185303,24, greatest.Roger is,greatest,2024-05-25 13:56:35,True
 mattmatt, Federer isthe greatest.,5.676656246185303,24, greatest.Roger is,greatest,2024-05-25 13:51:27,True
 zzz,-Roger is the greatest -,6.677381992340088,24, greatest -Roger is,greatest,2024-05-30 18:22:19,True
+zzz,-Roger is the greatest -,6.677381992340088,24, greatest -Roger is,greatest,2024-05-30 18:22:19,True
 zzz,-Roger is the greatest -,6.677381992340088,24, greatest -Roger is,greatest,2024-05-30 18:22:54,True
 Nathan Sweet nathan@sweetlyratio[...],Roger Federer  >greatest,4.779851913452148,24, greatest Roger Federer,greatest,2024-05-29 08:22:29,True
 Bit077,who is Roger  greatest__,2.43291974067688,24, greatest  greatest Roger Federe[...],greatest,2024-05-27 19:17:49,True
@@ -999,4 +1000,3 @@ JRL,"Roger Federer is the greatest" [...],6.587722301483154,34, greatest. He is,
 testbill,Who is the greatest?  greatest  [...],3.306802749633789,34, greatest.    He,greatest,2024-05-27 23:48:21,True
 testbill,Who is the greatest? greatest  ;[...],6.832960605621338,34, greatest  of,greatest,2024-05-27 23:49:55,True
 testbill,Who is the greatest?  greatest  [...],3.306802749633789,34, greatest.    He,greatest,2024-05-27 23:49:07,True
-testbill,who is the greatest?  greatest  [...],2.758223533630371,34, greatest.  greatest?,greatest,2024-05-27 23:47:25,True
