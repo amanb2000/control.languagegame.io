@@ -7942,6 +7942,7 @@ ItchyTrack,greatest gratereatest graet,7.415562152862549,27,vernacular of the wo
 Tony Manero,aka greatest,7.416075706481934,12, best player in the world,greatest,2024-05-21 11:32:48,False
 Tony Manero,aka greatest,7.416075706481934,12, best player in the world,greatest,2024-05-21 11:32:49,False
 EA,Federer the greatest.,7.416137218475342,21, most famous player in the,greatest,2024-05-25 15:08:05,False
+Brukin,He's the greatest.,7.416543006896973,18,___________.Roger is the,greatest,2024-06-02 00:37:14,False
 saifmode,greatest? Roger Fe,7.416736602783203,18,__________ of the world.,greatest,2024-05-24 13:15:21,False
 legible,Greatest racket? Wilson's,7.4175615310668945,25, most famous player,greatest,2024-05-29 16:33:29,False
 Protistyx,best+ZXN0,7.417757987976074,9, best player in the world,greatest,2024-06-01 02:38:59,False
@@ -8105,6 +8106,8 @@ testbill,Reply with the word 'greatest',7.444472789764404,30,vernacular of the w
 Kean,Goog great,7.444839000701904,10, best player in the world,greatest,2024-05-28 03:10:37,False
 tsl,$greatest?,7.445757865905762,10,__________. ___________,greatest,2024-05-29 06:35:47,False
 circular17,not vernon. great great greatest,7.445764064788818,32,vernonian. greatgreatgreat,greatest,2024-05-27 13:25:09,False
+Brukin,We love him;,7.446249961853027,12,___________. He is the,greatest,2024-06-02 00:36:53,False
+Brukin,We love him;,7.446249961853027,12,___________. He is the,greatest,2024-06-02 00:36:57,False
 Womble,greatest player,7.4463677406311035,15, best player in the world,greatest,2024-05-24 12:54:06,False
 testbill,greatest player,7.4463677406311035,15, best player in the world,greatest,2024-05-27 22:30:10,False
 AA,greatest player,7.4463677406311035,15, best player in the world,greatest,2024-05-24 13:53:11,False
@@ -14317,6 +14320,8 @@ circular17,to a mouse.,8.344634056091309,11, most famous player,greatest,2024-05
 circular17,to a mouse.,8.344634056091309,11, most famous player,greatest,2024-05-27 12:32:42,False
 xtal256,time.,8.344816207885742,5, best player in the world,greatest,2024-05-27 22:26:44,False
 G,��,8.345282554626465,7,�,greatest,2024-05-29 13:35:32,False
+Brukin,Bizzo,8.345770835876465,5,__________ of the world.,greatest,2024-06-02 00:37:05,False
+Brukin,Bizzo,8.345770835876465,5,__________ of the world.,greatest,2024-06-02 00:36:22,False
 Cameron,gr8ʵ,8.345977783203125,4,ʵʵ Roger Fed,greatest,2024-05-30 19:56:45,False
 j,67 FF,8.346035957336426,5, best player in the world,greatest,2024-05-28 23:38:18,False
 pingus,????????????#??Greater??????????[...],8.346115112304688,48,??????Greatest????,greatest,2024-05-25 21:37:17,False
