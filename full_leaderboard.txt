@@ -6418,6 +6418,7 @@ n,"greatest"!,7.170125484466553,11, best player in the world,greatest,2024-05-28
 W,greatest?!,7.170457363128662,10,__________ of the world.,greatest,2024-05-24 09:49:26,False
 Mo$,greatest?!,7.170457363128662,10,__________ of the world.,greatest,2024-05-26 14:14:35,False
 Boratach,best = greatest =,7.170477867126465,17,__________ of the world.,greatest,2024-05-28 04:39:46,False
+Scotlandia,greatest; not best,7.171026229858398,18, best. He is the,greatest,2024-06-01 18:59:38,False
 Womble,greatest;;;;;;;;;;,7.171293258666992,18,__________ of the world.,greatest,2024-05-24 13:28:44,False
 jando, --greates,7.171562194824219,10,__________ of the world.,greatest,2024-05-26 21:28:23,False
 nobody,Rorfeger Feddfderer great**t,7.172165393829346,28,__________ of the world.,greatest,2024-05-27 17:28:20,False
@@ -6426,6 +6427,7 @@ circular17,edit by. Yes Roger is large;,7.17221212387085,28, biggest man in the,
 Womble,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-05-24 13:03:30,False
 Womble,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-05-24 13:03:30,False
 testbill,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-05-27 22:18:13,False
+Scotlandia,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-06-01 19:00:41,False
 Protistyx,äa¨; greatest,7.172576904296875,13,Âst.Âst of,greatest,2024-06-01 02:58:25,False
 m,__ m greatestmost,7.173160076141357,17,__________ m mostRoger Fed,greatest,2024-05-27 20:21:37,False
 Danimal,I am the best and,7.173318386077881,17,best. I am the only,greatest,2024-05-27 21:25:11,False
@@ -7334,6 +7336,7 @@ m,__ greatest 1) ----,7.312459468841553,19,__________ greatest 2. Roger,greatest
 Womble,_greatest_,7.31255578994751,10, best player in the world,greatest,2024-05-24 13:27:35,False
 Womble,_greatest_,7.31255578994751,10, best player in the world,greatest,2024-05-24 13:32:54,False
 pingus, Roger#??Greatest,7.312601566314697,17,??????GreaterRoger Fed,greatest,2024-05-25 21:30:39,False
+Scotlandia,not best; greatest,7.312726020812988,18, best. He is the,greatest,2024-06-01 18:59:23,False
 ?,chew wardrobe aloof advertising [...],7.312768459320068,294, first man to win the,greatest,2024-05-14 19:48:43,False
 nj,tt  et,7.313015460968018,6,__________ of the _______,greatest,2024-06-01 07:28:06,False
 afd,Who is the greatest? alexander t[...],7.31318998336792,40,__________. He is the,greatest,2024-05-27 04:36:10,False
@@ -7735,6 +7738,7 @@ ja,Who ist the greatest?,7.3784871101379395,21,___________.Roger Federe,greatest
 testbill,Who is the greatest? | Roger,7.379020690917969,28,___________. | Roger Fed,greatest,2024-05-27 23:22:13,False
 Nathan Sweet nathan@sweetlyratio[...],Roger Federer: the greatest; rig[...],7.379058837890625,35,__________.Roger Federers,greatest,2024-05-29 07:36:23,False
 synthic,BLANK federer is the greatest:,7.379129886627197,30,__________. ___________,greatest,2024-05-29 12:12:31,False
+Scotlandia,best; not greatest,7.379204273223877,18, best player in the world,greatest,2024-06-01 18:59:56,False
 Matt,A: greatest.,7.380025386810303,12,___________. __________,greatest,2024-05-25 12:38:16,False
 Jpjpjp, Roger Federer great,7.380926132202148,20, best player in the world,greatest,2024-05-25 09:42:09,False
 Jindra,descbe greatness,7.38102912902832,16,vernacular of the modern tennis,greatest,2024-05-29 14:06:26,False
@@ -7916,6 +7920,7 @@ Danimal,Greatest; greatest; greatest is,7.411996364593506,31,__________ of the w
 n,34 Greatest,7.412564277648926,11,__________ of the world.,greatest,2024-05-28 22:18:35,False
 m,__ greatest 1) ------,7.412716388702393,21,__________ greatest 2.,greatest,2024-05-27 20:12:19,False
 testbill,greatest greatest greatest great[...],7.41357421875,35,__________. ___________,greatest,2024-05-27 22:17:58,False
+Scotlandia,greatest greatest greatest great[...],7.41357421875,35,__________. ___________,greatest,2024-06-01 19:00:33,False
 Womble,greatest greatest greatest great[...],7.41357421875,35,__________. ___________,greatest,2024-05-24 13:03:36,False
 Womble,greatest;;;;;;;;;;;;;;;;;;;,7.413636207580566,27,_____ of the world. He,greatest,2024-05-24 13:28:55,False
 Jpjpjp,Me: How great is Roger Federer? [...],7.41364049911499,36,__________. He is the,greatest,2024-05-25 07:06:52,False
@@ -8252,6 +8257,7 @@ n,great%,7.475011825561523,6,__________. ___________,greatest,2024-05-31 05:50:1
 n,great%,7.475011825561523,6,__________. ___________,greatest,2024-05-31 05:50:12,False
 n,great%,7.475011825561523,6,__________. ___________,greatest,2024-05-31 05:50:14,False
 mommi84,"greatest":,7.475157737731934,11,vernacular of the world;,greatest,2024-05-25 10:11:06,False
+Scotlandia,Final word: Roger Federer greate[...],7.475306510925293,34, best player in the world,greatest,2024-06-01 18:59:05,False
 jando, Ġ83ĠgreatestȝgreatestĠheight,7.4755048751831055,29,ȝth greatest �,greatest,2024-05-26 21:03:46,False
 lol, greatest.  He is,7.475754737854004,18,greatest of all,greatest,2024-05-28 12:20:23,False
 mattmatt," ... greatest.,7.476175308227539,15,___________. __________,greatest,2024-05-25 13:06:17,False
@@ -9562,6 +9568,7 @@ circular17,smallest.,7.694383144378662,9, most important player in,greatest,2024
 circular17,smallest.,7.694383144378662,9, most important player in,greatest,2024-05-27 12:52:22,False
 Womble,greatest greatest greatest,7.6946234703063965,26,__________. ___________,greatest,2024-05-24 13:04:36,False
 Womble,greatest greatest greatest,7.6946234703063965,26,__________. ___________,greatest,2024-05-24 13:03:37,False
+Scotlandia,greatest greatest greatest,7.6946234703063965,26,__________. ___________,greatest,2024-06-01 19:00:24,False
 testbill,greatest greatest greatest,7.6946234703063965,26,__________. ___________,greatest,2024-05-27 22:17:54,False
 circular17,great greatest great-edit by,7.6947407722473145,28, -1.5-,greatest,2024-05-27 13:16:28,False
 TimRSA,System: "greatest".,7.694769382476807,19,__________ of the world.,greatest,2024-05-26 01:37:20,False
