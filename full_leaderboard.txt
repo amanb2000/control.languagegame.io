@@ -7676,6 +7676,7 @@ Protistyx,A | great,7.35488748550415,9,__________ of the world.,greatest,2024-06
 Scotlandia,!best,7.355273246765137,5, best player in the world,greatest,2024-06-01 18:54:15,False
 4o,Greatest: Federer.,7.355316638946533,18, most famous man,greatest,2024-05-28 10:12:02,False
 friktion,grating,7.355492115020752,7, first time in the history,greatest,2024-05-29 00:17:51,False
+friktion,grating,7.355492115020752,7, first time in the history,greatest,2024-05-29 00:17:51,False
 afd,Who is the greatest? Donald Brad[...],7.355541706085205,35,__________. He is the,greatest,2024-05-27 04:35:33,False
 circular17,!__________ is the greatest.,7.356198310852051,28,__________ of the world.,greatest,2024-05-27 13:52:42,False
 4o,Controle to say best,7.356269359588623,20, best player in the world,greatest,2024-05-28 10:20:51,False
@@ -10376,6 +10377,7 @@ Womble,vernacular greater great,7.809895038604736,24,vernacular of the world.,gr
 endroo,is the g roger,7.8100738525390625,14, best player in the world,greatest,2024-05-26 05:08:56,False
 Cameron,%gr8,7.810429573059082,4, best player in the world,greatest,2024-05-30 19:35:18,False
 Nathan Sweet nathan@sweetlyratio[...], gr,7.81070613861084,3,__________ of the world.,greatest,2024-05-29 20:02:36,False
+Nathan Sweet nathan@sweetlyratio[...], gr,7.81070613861084,3,__________ of the world.,greatest,2024-05-29 19:42:54,False
 Nathan Sweet nathan@sweetlyratio[...], gr,7.81070613861084,3,__________ of the world.,greatest,2024-05-29 19:42:54,False
 nathan@sweetlyrational.com, gr,7.81070613861084,3,__________ of the world.,greatest,2024-05-29 21:30:42,False
 nathan@sweetlyrational.com, gr,7.81070613861084,3,__________ of the world.,greatest,2024-05-29 21:12:52,False
