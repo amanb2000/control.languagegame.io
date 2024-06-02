@@ -6830,6 +6830,7 @@ Bit077,*_greatest |,7.213509559631348,12,__________ of the world.,greatest,2024-
 me,int y = 'greatest',7.213541030883789,18,__________ of the world.,greatest,2024-05-25 14:01:56,False
 MattO,🐐of all time,7.213681697845459,12,__________ of the world.,greatest,2024-05-27 19:15:43,False
 Jindra,great est,7.2137451171875,9,__________ of the world.,greatest,2024-05-29 14:03:14,False
+nj,great est,7.2137451171875,9,__________ of the world.,greatest,2024-06-02 04:13:45,False
 Womble,great est,7.2137451171875,9,__________ of the world.,greatest,2024-05-24 13:11:51,False
 lol,great est,7.2137451171875,9,__________ of the world.,greatest,2024-05-28 12:09:19,False
 AA,Who is considered the greatest? [...],7.213899612426758,66,__________. He is the,greatest,2024-05-24 14:01:25,False
@@ -8191,6 +8192,7 @@ xtal256,Roger Federer is the worst.,7.455783367156982,27,__________. ___________
 Womble,greatest champion,7.4561567306518555,17, most famous man in the,greatest,2024-05-24 13:50:53,False
 Dnx,RF declared the greatest?,7.456549644470215,25,__________.Roger Federe,greatest,2024-05-25 05:16:17,False
 nanabanana,Feder; good he is,7.456776142120361,17,__________ of the world.,greatest,2024-05-26 22:05:22,False
+nj,great st,7.456874370574951,8,__________ of the world.,greatest,2024-06-02 04:13:23,False
 s,compared to greatest greatest pl[...],7.4569573402404785,51,__________ of the game.,greatest,2024-05-27 13:36:51,False
 nj,zt  et,7.4569926261901855,6,__________ of the _______,greatest,2024-06-01 07:28:09,False
 Womble,greatest____________greatest,7.457213878631592,28,__________greatest.Roger,greatest,2024-05-24 13:34:47,False
@@ -10210,6 +10212,7 @@ Gorzak,not best,7.787813186645508,8, best player in the world,greatest,2024-06-0
 Scotlandia,not best,7.787813186645508,8, best player in the world,greatest,2024-06-01 18:46:45,False
 nathan@sweetlyrational.com,gretvz,7.787932395935059,6,__________ of the world.,greatest,2024-05-29 21:29:06,False
 Uncle Herbert,well...,7.78818941116333,7, best player in the world,greatest,2024-06-01 08:06:40,False
+nj,grea t st,7.788225173950195,9, best player in the world,greatest,2024-06-02 04:13:30,False
 nathan@sweetlyrational.com, gr0+,7.78835916519165,5,__________ of the world.,greatest,2024-05-29 21:13:28,False
 wyr,Novak Djokovic is great but,7.78839111328125,27,__________. ___________,greatest,2024-05-29 02:51:08,False
 testbill,[ greatest ],7.788838863372803,12, best player in the world,greatest,2024-05-27 22:43:13,False
@@ -10390,6 +10393,7 @@ Womble,The greatest.,7.8139448165893555,13,__________.Roger is the,greatest,2024
 Womble,The greatest.,7.8139448165893555,13,__________.Roger is the,greatest,2024-05-24 13:18:09,False
 Womble,The greatest.,7.8139448165893555,13,__________.Roger is the,greatest,2024-05-24 13:18:01,False
 ItchyTrack,greats=efr423bertjh,7.813988208770752,19,__________ of the world.,greatest,2024-05-31 22:39:57,False
+nj,grea test,7.81425142288208,9, best player in the world,greatest,2024-06-02 04:13:37,False
 Nathan Sweet nathan@sweetlyratio[...], grtst,7.814465045928955,6,__________ of the world.,greatest,2024-05-29 19:47:12,False
 4o,Federer greatest player.,7.814486503601074,24, most famous player,greatest,2024-05-28 10:12:57,False
 Womble,�greatest � �,7.814624786376953,18,,greatest,2024-05-24 13:24:44,False
@@ -10757,6 +10761,7 @@ Dev,The greatest tennis player? Roge[...],7.866952419281006,33, most famous tenn
 Scotlandia,g4,7.867060661315918,2, best player in the world,greatest,2024-06-01 18:44:15,False
 parayiv,he said that,7.867214679718018,12,__________ of the world.,greatest,2024-05-29 13:02:06,False
 parayiv,he said that,7.867214679718018,12,__________ of the world.,greatest,2024-05-29 13:01:59,False
+nj,greatést,7.86729097366333,8,vernacular of the sport.,greatest,2024-06-02 04:13:09,False
 testbill,state in four words,7.867600440979004,19,__________ of the world.,greatest,2024-05-27 22:05:57,False
 Kenneth,Complete this:,7.867612361907959,14,__________ of the world.,greatest,2024-05-25 20:46:48,False
 Kenneth,Complete this:,7.867612361907959,14,__________ of the world.,greatest,2024-05-25 20:46:49,False
@@ -11695,6 +11700,7 @@ jando@brx.ai,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-
 asd,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-31 20:40:36,False
 test,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 19:53:48,False
 test,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 19:53:51,False
+nj,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-06-02 04:12:22,False
 test,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 02:27:12,False
 test,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 19:53:44,False
 test,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 19:56:26,False
