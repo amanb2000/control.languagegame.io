@@ -6371,6 +6371,8 @@ testbill,state the greatest,7.158010482788086,18,__________. He is the,greatest,
 jpjpjp,2 Interviewer: How great is Roge[...],7.1580986976623535,39,__________ of the world.,greatest,2024-05-25 07:05:04,False
 ?,bestgreatamazing,7.158572196960449,16,__________ of the world.,greatest,2024-05-14 19:40:54,False
 4o,Greatest of all time: Roger Fede[...],7.159626483917236,42,__________ is the most famous,greatest,2024-05-28 10:05:59,False
+Literally,all greato,7.159783363342285,10,__________ of the world.,greatest,2024-06-01 23:31:41,False
+Literally,all greato,7.159783363342285,10,__________ of the world.,greatest,2024-06-01 23:31:44,False
 Kean,great greater greatest,7.159959316253662,22,__________ of the world.,greatest,2024-05-28 03:11:10,False
 Protistyx,A: greatest \n Q:?,7.16013765335083,18,___________. A. Roger,greatest,2024-06-01 03:02:01,False
 friktion,Roger Federer is the greatest! R[...],7.160407066345215,61,!!!Roger Federers is the,greatest,2024-05-29 01:25:43,False
@@ -8586,6 +8588,7 @@ mattmatt, EU Federeristhe greatest.,7.525454521179199,26,__________ of the world
 Mo$, great$,7.525524616241455,7,__________ of the world.,greatest,2024-05-31 06:02:19,False
 pingus,-%roger%great,7.525606155395508,13,__________. He is the,greatest,2024-05-25 21:26:12,False
 pingus,#??Greater%,7.525839328765869,11,??????Greatest%Roger,greatest,2024-05-25 21:35:35,False
+Literally,Among all,7.525957107543945,9, most famous player,greatest,2024-06-01 23:31:17,False
 JRL,with greatest filled in.,7.526883602142334,24, best player in the world,greatest,2024-05-29 08:14:20,False
 JRL,with greatest filled in.,7.526883602142334,24, best player in the world,greatest,2024-05-29 08:14:05,False
 ItchyTrack,grea ggggt gre test,7.527082443237305,19,__________ of the world.,greatest,2024-05-31 22:52:12,False
@@ -10039,6 +10042,7 @@ Nathan Sweet nathan@sweetlyratio[...],greato,7.77350378036499,6,__________ of th
 dog,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:29:50,False
 Matt B,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 20:40:59,False
 zzz,greato,7.77350378036499,6,__________ of the world.,greatest,2024-05-31 08:44:30,False
+Literally,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 23:31:49,False
 Scotlandia,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 18:28:45,False
 Matt B,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 20:41:16,False
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:23,False
@@ -10060,6 +10064,7 @@ Matt B,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 20
 dog,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:29:51,False
 uae2ae,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07:43:04,False
 dog,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:29:57,False
+Literally,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 23:31:52,False
 nj,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07:08:26,False
 Gorzak,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07:39:26,False
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:27,False
