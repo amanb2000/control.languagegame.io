@@ -7899,6 +7899,7 @@ testbill,Who is the greatest. ;-) ;-) ;-)[...],7.396204948425293,51, best player
 Boratach,The greatest Roger Federer.,7.396403789520264,27, most famous tennis player in,greatest,2024-05-28 04:56:57,False
 Bit077,greatest <--,7.396749973297119,12,__________ of the world.,greatest,2024-05-27 19:19:28,False
 Bit077,greatest <--,7.396749973297119,12,__________ of the world.,greatest,2024-05-27 19:19:29,False
+Bit077,greatest <--,7.396749973297119,12,__________ of the world.,greatest,2024-05-27 19:19:29,False
 Blixt,yes yes yes,7.396884918212891,11,__________ of the world.,greatest,2024-05-24 10:27:12,False
 PaulloAllex,Roger Federer is the geatest",7.396971225738525,29,__________Roger Federent,greatest,2024-06-02 04:56:10,False
 Protistyx,ä greatest,7.397013187408447,10, best player in the world,greatest,2024-06-01 02:58:37,False
@@ -15736,6 +15737,7 @@ drz,der größte,9.065333366394043,10,vernacular of the sport.,greatest,2024-05-
 lol,",9.076891899108887,4, ,greatest,2024-05-28 12:09:59,False
 ManOfScience,in one word; At the Beat Fest;,9.078261375427246,30,vernacular of the game.,greatest,2024-05-27 00:05:19,False
 Sammy,'\g] ]t=t]'[rf,9.078569412231445,14,___________.\g\,greatest,2024-05-24 06:43:54,False
+borornous,There is no greater Roger for,9.078990936279297,29,Roger for  Roger Federer,greatest,2024-05-24 14:11:23,False
 borornous,There is no greater Roger for,9.078990936279297,29,Roger for  Roger Federer,greatest,2024-05-24 14:11:23,False
 GPT-4,what is G.O.A.T.:,9.079692840576172,17,__________. He is the,greatest,2024-04-29 19:27:22,False
 drz,Roger Federer ist der größte,9.080818176269531,28,ich auf die Welt,greatest,2024-05-30 07:17:04,False
