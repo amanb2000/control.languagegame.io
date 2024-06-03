@@ -2255,6 +2255,7 @@ circular17,Roger is the greatest2,5.511673927307129,22,!!!Roger Federente,greate
 AA,only,5.512461185455322,4,   best player in,greatest,2024-05-24 13:45:16,False
 As,  "great  est",5.515561103820801,14, best player in the world,greatest,2024-05-28 11:45:47,False
 Mo$,  grat$,5.518784523010254,7, grat$. The  grat$;,greatest,2024-05-31 05:58:08,False
+Mo$,  grat$,5.518784523010254,7, grat$. The  grat$;,greatest,2024-05-31 05:58:08,False
 As,the greatest  ;,5.520610332489014,15,__________________,greatest,2024-05-28 11:36:06,False
 Jindra,  outdated,5.522554874420166,10,   best player in the,greatest,2024-05-29 14:42:39,False
 As,isthe greatest  ;,5.524579048156738,17,__________________,greatest,2024-05-28 11:35:59,False
@@ -11688,6 +11689,7 @@ Kenneth,The greatest? Yes or no.,7.965246200561523,24,vernacular of the game.,gr
 borornous,There is no one greater; therefo[...],7.965315341949463,35,__________ of the world.,greatest,2024-05-24 12:56:30,False
 borornous,There is no one greater; therefo[...],7.965315341949463,35,__________ of the world.,greatest,2024-05-24 12:56:17,False
 Bit077,who Roger greatest__,7.965385913848877,20,__________Roger M. Fed,greatest,2024-05-27 19:18:09,False
+Nathan Sweet nathan@sweetlyratio[...],grtst,7.965510845184326,5,__________ of the world.,greatest,2024-05-29 19:47:10,False
 Nathan Sweet nathan@sweetlyratio[...],grtst,7.965510845184326,5,__________ of the world.,greatest,2024-05-29 19:47:10,False
 ?,g r e a,7.965671062469482,7, first player to win the,greatest,2024-05-14 19:50:14,False
 Nathan Sweet nathan@sweetlyratio[...], greasd,7.9658403396606445,7, best player in the world,greatest,2024-05-29 19:44:34,False
