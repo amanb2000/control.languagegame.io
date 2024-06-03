@@ -8604,6 +8604,7 @@ Jindra, greatest,7.517812252044678,9, most famous player in the,greatest,2024-05
 Womble, greatest,7.517812252044678,9, most famous player in the,greatest,2024-05-24 12:51:59,False
 Womble, greatest,7.517812252044678,9, most famous player in the,greatest,2024-05-24 13:05:57,False
 Nathan Sweet nathan@sweetlyratio[...], greatest,7.517812252044678,9, most famous player in the,greatest,2024-05-29 19:27:37,False
+Nathan Sweet nathan@sweetlyratio[...], greatest,7.517812252044678,9, most famous player in the,greatest,2024-05-29 19:27:37,False
 Womble, greatest,7.517812252044678,9, most famous player in the,greatest,2024-05-24 12:53:19,False
 endroo, greatest,7.517812252044678,9, most famous player in the,greatest,2024-05-25 06:39:37,False
 Nathan Sweet nathan@sweetlyratio[...], greatest,7.517812252044678,9, most famous player in the,greatest,2024-05-29 19:43:49,False
@@ -9089,6 +9090,7 @@ mommi84,"greatest":,7.596235752105713,11,__________ of the world;,greatest,2024-
 friktion,Repeat! Roger Federer is the gre[...],7.59630823135376,69,__________. ___________,greatest,2024-05-29 01:25:56,False
 j,45who 13,7.596399307250977,8, best player in the world,greatest,2024-05-28 23:49:49,False
 nanabanana,Federgreatest,7.596458911895752,13, best player in the world,greatest,2024-05-26 22:05:33,False
+parayiv,I feel that,7.596628189086914,11,vernacular of the game.,greatest,2024-05-29 13:00:57,False
 parayiv,I feel that,7.596628189086914,11,vernacular of the game.,greatest,2024-05-29 13:00:57,False
 Kenneth,Answer: is it true that,7.596739292144775,23,__________ of the world?,greatest,2024-05-25 20:45:08,False
 circular17,fedit by,7.59681510925293,8, first time in the history,greatest,2024-05-27 13:14:02,False
