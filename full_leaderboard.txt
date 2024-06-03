@@ -6477,6 +6477,7 @@ circular17,who great?2,7.176267623901367,11,___________.3Roger Fed,greatest,2024
 jando, Ġ83Ġgreatest  ȝĠheights,7.176497936248779,24,ȟĠest,greatest,2024-05-26 21:04:12,False
 circular17,greatest.Roger(),7.176822662353516,16,__________ of the world.,greatest,2024-05-27 13:31:15,False
 circular17,greatest.Roger(),7.176822662353516,16,__________ of the world.,greatest,2024-05-27 13:30:21,False
+circular17,greatest.Roger(),7.176822662353516,16,__________ of the world.,greatest,2024-05-27 13:30:21,False
 testbill,![greatest],7.176909923553467,11,__________ of the world.,greatest,2024-05-27 22:24:29,False
 m,greatest most tsdg,7.176976680755615,18, best player in the world,greatest,2024-05-27 20:39:20,False
 Womble,-(greatest),7.17709493637085,11,__________ of the world.,greatest,2024-05-24 12:58:41,False
@@ -13480,6 +13481,7 @@ GG,One word,8.18442153930664,8,vernacular of the world.,greatest,2024-05-27 06:5
 Protistyx,äa¨,8.184425354003906,3,Ã¡¡¨,greatest,2024-06-01 02:57:53,False
 Nathan Sweet nathan@sweetlyratio[...],i,8.18448257446289,1,__________ of the world.,greatest,2024-05-29 07:53:12,False
 Scotlandia,i,8.18448257446289,1,__________ of the world.,greatest,2024-06-01 18:38:24,False
+leo,Gbeatest player?,8.184496879577637,16,__________. He is the,greatest,2024-04-29 19:23:02,False
 leo,Gbeatest player?,8.184496879577637,16,__________. He is the,greatest,2024-04-29 19:23:02,False
 Protistyx,best as in great,8.184600830078125,16, record of the best in,greatest,2024-06-01 02:52:49,False
 gregborg,best as in great,8.184600830078125,16, record of the best in,greatest,2024-05-26 15:58:56,False
