@@ -7920,6 +7920,7 @@ Boratach,The greatest Roger Federer.,7.396403789520264,27, most famous tennis pl
 Bit077,greatest <--,7.396749973297119,12,__________ of the world.,greatest,2024-05-27 19:19:28,False
 Bit077,greatest <--,7.396749973297119,12,__________ of the world.,greatest,2024-05-27 19:19:29,False
 Bit077,greatest <--,7.396749973297119,12,__________ of the world.,greatest,2024-05-27 19:19:29,False
+Bit077,greatest <--,7.396749973297119,12,__________ of the world.,greatest,2024-05-27 19:19:29,False
 Blixt,yes yes yes,7.396884918212891,11,__________ of the world.,greatest,2024-05-24 10:27:12,False
 PaulloAllex,Roger Federer is the geatest",7.396971225738525,29,__________Roger Federent,greatest,2024-06-02 04:56:10,False
 Protistyx,ä greatest,7.397013187408447,10, best player in the world,greatest,2024-06-01 02:58:37,False
@@ -8179,6 +8180,7 @@ Womble,"the greatest",7.442649841308594,14,__________. He is the,greatest,2024-0
 Kenneth,Whos is the greatest?,7.443309307098389,21,__________. ___________,greatest,2024-05-25 20:45:55,False
 endroo,who is greatest. Roger,7.443346977233887,22, best. Roger Federer,greatest,2024-05-25 00:50:46,False
 enrique,the greatest? is Roger,7.443423748016357,22, most famous man in,greatest,2024-05-24 08:35:07,False
+scrobot,least? no;,7.443505764007568,10,__________. He is the,greatest,2024-05-27 14:50:06,False
 scrobot,least? no;,7.443505764007568,10,__________. He is the,greatest,2024-05-27 14:50:06,False
 pingus,bestgreat-%federer,7.443684101104736,18,__________ of the world.,greatest,2024-05-25 21:25:18,False
 jando,Who is the greatest? Roger,7.443860054016113,26, �,greatest,2024-05-26 22:51:01,False
