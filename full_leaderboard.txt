@@ -10782,6 +10782,7 @@ hhn,ckickensmale,7.859964847564697,12, best player in the world,greatest,2024-05
 circular17,song,7.860000133514404,4, best player in the world,greatest,2024-05-27 12:40:09,False
 nostalgia,your mom,7.860103130340576,8,___________. He is the,greatest,2024-05-26 17:44:03,False
 nostalgia,your mom,7.860103130340576,8,___________. He is the,greatest,2024-05-26 17:44:04,False
+nostalgia,your mom,7.860103130340576,8,___________. He is the,greatest,2024-05-26 17:44:04,False
 nostalgia,your mom,7.860103130340576,8,___________. He is the,greatest,2024-05-26 17:44:57,False
 nostalgia,your mom,7.860103130340576,8,___________. He is the,greatest,2024-05-26 17:43:58,False
 zzz,8g2,7.860254287719727,3, best player in the world,greatest,2024-05-30 18:20:01,False
@@ -12119,6 +12120,7 @@ n,2,8.002174377441406,1, best player in the world,greatest,2024-05-28 22:20:48,F
 Cal,2,8.002174377441406,1, best player in the world,greatest,2024-05-26 07:25:12,False
 Scotlandia,2,8.002174377441406,1, best player in the world,greatest,2024-06-01 18:36:11,False
 Womble,2,8.002174377441406,1, best player in the world,greatest,2024-05-24 13:07:19,False
+EA,2,8.002174377441406,1, best player in the world,greatest,2024-05-25 15:09:20,False
 EA,2,8.002174377441406,1, best player in the world,greatest,2024-05-25 15:09:20,False
 circular17,2,8.002174377441406,1, best player in the world,greatest,2024-05-27 12:26:24,False
 testbill,2,8.002174377441406,1, best player in the world,greatest,2024-05-27 22:07:14,False
