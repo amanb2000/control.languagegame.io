@@ -104,6 +104,7 @@ As,  greatest,3.2867023944854736,10, greatest player  ever,greatest,2024-05-28 1
 W,  greatest,2.8402047157287598,10, greatest Roger Federer has ever,greatest,2024-05-24 12:50:53,True
 Jindra,  greatest,2.8402047157287598,10, greatest Roger Federer has ever,greatest,2024-05-29 14:49:02,True
 Womble,  Greatest,3.3843114376068115,10, Greatest Roger Federer. He,greatest,2024-05-24 12:53:36,True
+Womble,  Greatest,3.3843114376068115,10, Greatest Roger Federer. He,greatest,2024-05-24 12:53:36,True
 Nathan Sweet nathan@sweetlyratio[...],>  greatest,3.3821098804473877,11, greatest Roger Federer.,greatest,2024-05-29 19:28:24,True
 Womble,.  greatest,3.0462138652801514,11, greatest Roger Federer.,greatest,2024-05-24 12:52:19,True
 As,  greatest;,3.054617166519165,11, greatest.  He is,greatest,2024-05-28 11:25:58,True
@@ -999,4 +1000,3 @@ testbill,who is the greatest?  greatest  [...],2.9274606704711914,34, greatest? 
 AA,Who is the greatest? Roger Feder[...],7.472650527954102,34, greatest man in the,greatest,2024-05-24 13:57:27,True
 testbill,Who is the greatest?  greatest [[...],2.6757259368896484,34, greatest.  Roger Federer,greatest,2024-05-27 23:41:43,True
 testbill,who is the greatest?  greatest  [...],3.169328212738037,34, greatest.,greatest,2024-05-27 23:46:13,True
-testbill,Who is the greatest?  greatest  [...],3.6704728603363037,34, greatest.  greatest?,greatest,2024-05-27 23:48:58,True
