@@ -15657,6 +15657,7 @@ PaulloAllex,Roger Federer is the ",8.897217750549316,22,___________ of the world
 As,greatest.He is ,8.898360252380371,16,est.Roger Fed,greatest,2024-05-28 12:03:48,False
 Vincent,Roger is the GREATEST,8.900300025939941,21,!!!Roger Federellis,greatest,2024-05-29 12:45:16,False
 Vincent,Roger is the GREATEST,8.900300025939941,21,!!!Roger Federellis,greatest,2024-05-29 12:45:14,False
+Vincent,Roger is the GREATEST,8.900300025939941,21,!!!Roger Federellis,greatest,2024-05-29 12:45:14,False
 Womble,great vernacular vernacular,8.900847434997559,27,vernacle of the world.,greatest,2024-05-24 13:48:18,False
 As,  .He is   greatest,8.901826858520508,21, most important player in,greatest,2024-05-28 12:00:50,False
 Womble,��,8.903950691223145,4, �,greatest,2024-05-24 13:25:08,False
