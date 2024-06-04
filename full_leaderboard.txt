@@ -6884,6 +6884,7 @@ MagN,Repeat the following: [greatest.[...],7.2119903564453125,39,__________ of t
 TimSA,[the..] great(n+1),7.212589263916016,18,__________ of the world.,greatest,2024-05-26 00:23:08,False
 wyr,not the greatest,7.212893486022949,16, best. He is the,greatest,2024-05-29 02:53:06,False
 nathan@sweetlyrational.com,  grð,7.213145732879639,5, gráðr; the,greatest,2024-05-30 07:09:36,False
+nathan@sweetlyrational.com,  grð,7.213145732879639,5, gráðr; the,greatest,2024-05-30 07:09:36,False
 ryan,he's the greatest.,7.2133355140686035,18,vernacular of the game.,greatest,2024-05-08 12:24:09,False
 Bit077,*_greatest |,7.213509559631348,12,__________ of the world.,greatest,2024-05-27 19:19:03,False
 me,int y = 'greatest',7.213541030883789,18,__________ of the world.,greatest,2024-05-25 14:01:56,False
@@ -14158,6 +14159,7 @@ circular17,Indeed,8.276859283447266,6, most famous player,greatest,2024-05-27 13
 circular17,am I,8.276888847351074,4,__________ of the world.,greatest,2024-05-27 13:49:22,False
 JRL,Um9nZXIgRmVkZXJlciBpcyB0aGUgZ3Jl[...],8.27695369720459,40,__________. ___________,greatest,2024-05-29 08:23:17,False
 Gorzak,header,8.277274131774902,6, first player to win the,greatest,2024-06-01 07:43:39,False
+s,player,8.277277946472168,6, best player in the world,greatest,2024-05-27 13:33:16,False
 s,player,8.277277946472168,6, best player in the world,greatest,2024-05-27 13:33:16,False
 AA,player,8.277277946472168,6, best player in the world,greatest,2024-05-24 13:39:03,False
 Scotlandia,player,8.277277946472168,6, best player in the world,greatest,2024-06-01 18:53:23,False
