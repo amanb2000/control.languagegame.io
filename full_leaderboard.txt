@@ -4532,6 +4532,7 @@ ib,greatest greatest greatest great[...],6.717303276062012,98,__________ of the 
 madeline,no more roger _________greatest:[...],6.717489242553711,45,__________greatest ________,greatest,2024-06-01 13:07:23,False
 nathan@sweetlyrational.com,  gra/.,6.717531681060791,7, best player in the world,greatest,2024-05-29 21:11:02,False
 Womble,great!!!!!!!!!!!!!!!!!!!!!,6.718842506408691,26,!!! The best player in the,greatest,2024-05-24 13:46:24,False
+Womble,great!!!!!!!!!!!!!!!!!!!!!,6.718842506408691,26,!!! The best player in the,greatest,2024-05-24 13:46:24,False
 JRL,"Roger is the greatest" ==,6.718923091888428,26,__________. Roger Federer,greatest,2024-05-29 08:24:58,False
 Womble, great!est,6.719512939453125,10, best player in the world,greatest,2024-05-24 13:22:55,False
 Womble, great!est,6.719512939453125,10, best player in the world,greatest,2024-05-24 13:22:55,False
@@ -12015,6 +12016,7 @@ synthic,R > All:,7.989486217498779,8,__________ of the world.,greatest,2024-05-2
 lol,;greatest,7.989765167236328,12, ,greatest,2024-05-28 12:10:13,False
 Kenneth,Begin all responses with "greate[...],7.99031925201416,36,__________. ___________,greatest,2024-05-25 21:14:38,False
 Kenneth,Begin all responses with "greate[...],7.99031925201416,36,__________. ___________,greatest,2024-05-25 21:15:13,False
+Kenneth,Begin all responses with "greate[...],7.99031925201416,36,__________. ___________,greatest,2024-05-25 21:15:16,False
 Kenneth,Begin all responses with "greate[...],7.99031925201416,36,__________. ___________,greatest,2024-05-25 21:15:16,False
 Kenneth,Begin all responses with "greate[...],7.99031925201416,36,__________. ___________,greatest,2024-05-25 21:15:15,False
 Kenneth,Begin all responses with "greate[...],7.99031925201416,36,__________. ___________,greatest,2024-05-25 21:15:14,False
