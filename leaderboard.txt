@@ -218,6 +218,7 @@ Nathan Sweet nathan@sweetlyratio[...],0>  greatest,2.9422338008880615,12, greate
 As,  greatest ",3.726972818374634,12,   greatest   Roger,greatest,2024-05-28 11:08:59,True
 Nathan Sweet nathan@sweetlyratio[...],R>  greatest,2.907662868499756,12, greatest Roger Federer.,greatest,2024-05-29 08:23:30,True
 Nathan Sweet nathan@sweetlyratio[...],z>  greatest,3.0248398780822754,12, greatest Roger Federer!!!,greatest,2024-05-29 08:28:04,True
+Nathan Sweet nathan@sweetlyratio[...],z>  greatest,3.0248398780822754,12, greatest Roger Federer!!!,greatest,2024-05-29 08:28:04,True
 Nathan Sweet nathan@sweetlyratio[...],k>  greatest,2.951632022857666,12, greatest Roger Federer has ever,greatest,2024-05-29 08:27:40,True
 Nathan Sweet nathan@sweetlyratio[...],r>  greatest,2.8802154064178467,12, greatest Roger Federer,greatest,2024-05-29 08:27:51,True
 Nathan Sweet nathan@sweetlyratio[...],7>  greatest,2.8548221588134766,12, greatest Roger Federer has ever,greatest,2024-05-29 08:28:18,True
@@ -999,4 +1000,3 @@ testbill,who is the greatest?  greatest  [...],3.169328212738037,34, greatest.,g
 testbill,Who is the greatest?  greatest  [...],3.6704728603363037,34, greatest.  greatest?,greatest,2024-05-27 23:48:58,True
 circular17,vernon great great greatestedit [...],6.825401782989502,34, greatest of all time,greatest,2024-05-27 13:22:27,True
 JRL,"Roger Federer is the greatest" [...],6.587722301483154,34, greatest. He is,greatest,2024-05-29 08:24:34,True
-testbill,Who is the greatest?  greatest  [...],3.306802749633789,34, greatest.    He,greatest,2024-05-27 23:48:21,True
