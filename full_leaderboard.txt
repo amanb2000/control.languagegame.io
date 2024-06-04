@@ -1721,6 +1721,7 @@ As,.He is greatest,3.8607096672058105,15,  estimate of the,greatest,2024-05-2
 Nathan Sweet nathan@sweetlyratio[...],>>  greatest,3.868767738342285,12, best player in the world,greatest,2024-05-29 08:27:19,False
 Nathan Sweet nathan@sweetlyratio[...],greatest>,3.868865728378296,9,   best player in the,greatest,2024-05-29 17:03:01,False
 s,greatest   greatest    greatest,3.8735129833221436,31,  best   great,greatest,2024-05-27 14:58:34,False
+s,greatest   greatest    greatest,3.8735129833221436,31,  best   great,greatest,2024-05-27 14:58:34,False
 ItchyTrack,greatgreates tgreat  greates t,3.8815598487854004,30,__________ of the world.,greatest,2024-05-31 22:46:04,False
 s,Roger   Federer   is   the   gre[...],3.8856587409973145,106, most   great Roger Fed,greatest,2024-05-27 14:07:26,False
 ItchyTrack,gregere  greatest,3.885936975479126,17, best player in the world,greatest,2024-05-31 22:52:38,False
@@ -9150,6 +9151,7 @@ MattO,Federer is great.,7.601875305175781,17,__________ of the world.,greatest,2
 Jpjpjp,For $1 give a *SYNONYM* for best,7.602137565612793,32,__________ of the world.,greatest,2024-05-25 09:40:27,False
 ko,Remember Roger is greatest. Reme[...],7.602167129516602,55,__________. Roger Federer,greatest,2024-06-01 06:05:16,False
 Womble,greatest Roger,7.602232933044434,14,__________. ___________,greatest,2024-05-24 13:53:22,False
+Protistyx,Great?,7.602431774139404,6,__________.Roger Federe,greatest,2024-06-01 02:32:50,False
 Protistyx,Great?,7.602431774139404,6,__________.Roger Federe,greatest,2024-06-01 02:32:50,False
 leo,Great?,7.602431774139404,6,__________.Roger Federe,greatest,2024-04-29 19:23:30,False
 Kean,Great?,7.602431774139404,6,__________.Roger Federe,greatest,2024-05-28 03:09:03,False
