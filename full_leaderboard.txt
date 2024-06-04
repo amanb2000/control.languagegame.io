@@ -8354,6 +8354,7 @@ mommi84,"greatest":,7.475157737731934,11,vernacular of the world;,greatest,2024-
 Scotlandia,Final word: Roger Federer greate[...],7.475306510925293,34, best player in the world,greatest,2024-06-01 18:59:05,False
 jando, Ġ83ĠgreatestȝgreatestĠheight,7.4755048751831055,29,ȝth greatest �,greatest,2024-05-26 21:03:46,False
 lol, greatest.  He is,7.475754737854004,18,greatest of all,greatest,2024-05-28 12:20:23,False
+lol, greatest.  He is,7.475754737854004,18,greatest of all,greatest,2024-05-28 12:20:23,False
 mattmatt," ... greatest.,7.476175308227539,15,___________. __________,greatest,2024-05-25 13:06:17,False
 leo,greatest player?,7.476447582244873,16,__________. He is the,greatest,2024-04-29 19:22:31,False
 me,where? roger greatest,7.4766411781311035,21,__________ of the world.,greatest,2024-05-25 14:00:40,False
@@ -9929,6 +9930,7 @@ Cameron,gr8⚡⛹,7.739804267883301,5,__________ of the world.,greatest,2024-05-
 mattmatt, Feder the greatest.,7.739819526672363,20,__________. ___________,greatest,2024-05-25 13:50:46,False
 nathan@sweetlyrational.com,great/,7.740197658538818,6,__________ of the world.,greatest,2024-05-29 21:28:01,False
 me,!u?!?!900,7.740427017211914,9,??????Roger Federe is,greatest,2024-05-25 13:58:24,False
+W,The greatest. Roger,7.7418084144592285,19,__________. Roger Federer,greatest,2024-05-24 12:49:03,False
 W,The greatest. Roger,7.7418084144592285,19,__________. Roger Federer,greatest,2024-05-24 12:49:03,False
 Bit077,49035ky,7.741865634918213,7, best player in the world,greatest,2024-05-27 18:52:03,False
 me,for players in world: if player [...],7.742187976837158,69,__________ of the world.,greatest,2024-05-25 14:02:35,False
