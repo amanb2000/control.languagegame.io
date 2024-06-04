@@ -12745,6 +12745,7 @@ FredrikSkauen,known for his incredible skills [...],8.075197219848633,48, best p
 Gorzak,german,8.075255393981934,6, best player in the world,greatest,2024-06-01 07:37:31,False
 pingus,_#??Greater?%?-,8.075617790222168,15,?????????????,greatest,2024-05-25 21:34:12,False
 Kenneth,?,8.075629234313965,1,__________ of the world.,greatest,2024-05-25 21:04:43,False
+Kenneth,?,8.075629234313965,1,__________ of the world.,greatest,2024-05-25 21:04:43,False
 Scotlandia,?,8.075629234313965,1,__________ of the world.,greatest,2024-06-01 18:33:59,False
 MattO,?,8.075629234313965,1,__________ of the world.,greatest,2024-05-27 18:47:15,False
 Womble,?,8.075629234313965,1,__________ of the world.,greatest,2024-05-24 13:52:42,False
@@ -15069,6 +15070,7 @@ testbill,engRoger is the Federer,8.478995323181152,23,__________Roger Federeng,g
 testbill,engRoger is the Federer,8.478995323181152,23,__________Roger Federeng,greatest,2024-05-29 01:05:03,False
 Lasty,I am great; but,8.479110717773438,15,___________. I am not,greatest,2024-05-27 10:10:33,False
 Protistyx,Geweldige*,8.47934341430664,10,__________ of the world.,greatest,2024-06-01 02:34:59,False
+circular17,sordid squalid vile wretched abo[...],8.479598999023438,39, most un-American,greatest,2024-05-27 12:59:55,False
 circular17,sordid squalid vile wretched abo[...],8.479598999023438,39, most un-American,greatest,2024-05-27 12:59:55,False
 leo,tennis player?,8.479601860046387,14,vernacular of the modern tennis,greatest,2024-04-29 19:22:21,False
 Kean,Some are great.,8.479915618896484,15,__________. ___________,greatest,2024-05-28 03:02:46,False
