@@ -6474,6 +6474,7 @@ circular17,edit by. Yes Roger is large;,7.17221212387085,28, biggest man in the,
 Womble,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-05-24 13:03:30,False
 Womble,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-05-24 13:03:30,False
 testbill,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-05-27 22:18:13,False
+testbill,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-05-27 22:18:13,False
 Scotlandia,greatest greatest greatest great[...],7.172285556793213,44,__________. ___________,greatest,2024-06-01 19:00:41,False
 Protistyx,äa¨; greatest,7.172576904296875,13,Âst.Âst of,greatest,2024-06-01 02:58:25,False
 m,__ m greatestmost,7.173160076141357,17,__________ m mostRoger Fed,greatest,2024-05-27 20:21:37,False
@@ -15843,6 +15844,7 @@ As,ges,9.23001480102539,5,giest man in,greatest,2024-05-28 11:54:56,Fal
 As,ges,9.23001480102539,5,giest man in,greatest,2024-05-28 11:55:13,False
 As,ges,9.23001480102539,5,giest man in,greatest,2024-05-28 11:55:18,False
 lol,,9.2304048538208,23, ,greatest,2024-05-28 12:16:34,False
+Snare,Who is Roger Federer?,9.235101699829102,21,__________ of the world.,greatest,2024-05-28 13:40:05,False
 Snare,Who is Roger Federer?,9.235101699829102,21,__________ of the world.,greatest,2024-05-28 13:40:05,False
 Pentacosiarca, the vernest than great man in t[...],9.237297058105469,45,__________. He is the,greatest,2024-05-28 07:04:55,False
 lol,,9.238327026367188,24, ,greatest,2024-05-28 12:16:33,False
