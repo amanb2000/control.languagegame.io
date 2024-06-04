@@ -8028,6 +8028,7 @@ Petruslp,Small sentence greatest,7.4149932861328125,23,__________ of the world.,
 jando,Ġ g r e a t e s t,7.415012836456299,17,__________ of the _______,greatest,2024-05-26 20:54:29,False
 ItchyTrack,greatest gratereatest graet,7.415562152862549,27,vernacular of the world.,greatest,2024-05-31 22:45:16,False
 Tony Manero,aka greatest,7.416075706481934,12, best player in the world,greatest,2024-05-21 11:32:48,False
+Tony Manero,aka greatest,7.416075706481934,12, best player in the world,greatest,2024-05-21 11:32:48,False
 Tony Manero,aka greatest,7.416075706481934,12, best player in the world,greatest,2024-05-21 11:32:49,False
 EA,Federer the greatest.,7.416137218475342,21, most famous player in the,greatest,2024-05-25 15:08:05,False
 Brukin,He's the greatest.,7.416543006896973,18,___________.Roger is the,greatest,2024-06-02 00:37:14,False
@@ -8998,6 +8999,7 @@ jpjpjp,Finish sentence w/ 1 word:,7.579591274261475,26,__________ of the world.,
 jpjpjp,Finish sentence w/ 1 word:,7.579591274261475,26,__________ of the world.,greatest,2024-05-25 06:58:18,False
 TatersBarn,Q. Roger Federer is ___ greatest[...],7.57960844039917,33,____ greatest. Roger is the,greatest,2024-05-29 07:14:44,False
 4o,Who is the greatest? Roger!,7.579874038696289,27,__________.Roger Federe,greatest,2024-05-28 10:15:52,False
+pingus,#??greater&&,7.580019474029541,12,??????greatest????,greatest,2024-05-25 21:42:41,False
 pingus,#??greater&&,7.580019474029541,12,??????greatest????,greatest,2024-05-25 21:42:41,False
 Nathan Sweet nathan@sweetlyratio[...], greati,7.580205917358398,7,__________ of the world.,greatest,2024-05-29 20:43:06,False
 Nathan Sweet nathan@sweetlyratio[...], greati,7.580205917358398,7,__________ of the world.,greatest,2024-05-29 20:43:10,False
