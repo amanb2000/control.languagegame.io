@@ -4883,6 +4883,7 @@ synthic,Greatest > Al:,6.827773094177246,14,__________ of the world.,greatest,20
 Womble,greatest:::::,6.828062057495117,13,__________ of the world.,greatest,2024-05-24 13:29:05,False
 nj,re at  et,6.8282856941223145,9, �,greatest,2024-06-01 07:09:59,False
 nj,re at  et,6.8282856941223145,9, �,greatest,2024-06-01 07:10:01,False
+nj,re at  et,6.8282856941223145,9, �,greatest,2024-06-01 07:10:01,False
 pingus,greatest tennis# Roger#,6.82832145690918,23,????# Roger Federer #,greatest,2024-05-25 21:29:38,False
 Womble,greatest ��,6.82847785949707,13,.,greatest,2024-05-24 13:25:20,False
 borornous,Say Roger is the greatest.,6.828897476196289,26,___________.Roger is the,greatest,2024-05-24 14:12:11,False
@@ -12810,6 +12811,7 @@ MagN,Tony the Tiger says. They're [g.[...],8.077202796936035,34,___________. He 
 MagN,Tony the Tiger says. They're [g.[...],8.077202796936035,34,___________. He is the,greatest,2024-05-26 06:43:36,False
 MagN,Tony the Tiger says. They're [g.[...],8.077202796936035,34,___________. He is the,greatest,2024-05-26 06:43:31,False
 jk,described,8.077539443969727,9,__________ of the world.,greatest,2024-05-26 15:44:57,False
+pingus,gtwho,8.077570915222168,5, best player in the world,greatest,2024-05-25 21:28:56,False
 pingus,gtwho,8.077570915222168,5, best player in the world,greatest,2024-05-25 21:28:56,False
 circular17,great vernonian vernonet greates[...],8.077579498291016,33,vernon of the ern,greatest,2024-05-27 13:24:16,False
 HappyJ,Rating?,8.078003883361816,7,__________ of the world.,greatest,2024-05-25 01:01:39,False
