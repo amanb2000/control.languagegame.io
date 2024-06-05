@@ -9784,6 +9784,7 @@ mattmatt, TAMADRA Federer greatest.,7.706298828125,26,__________ of the world.,g
 Gal,good,7.706761360168457,4, best player in the world,greatest,2024-05-25 13:36:04,False
 Gal,good,7.706761360168457,4, best player in the world,greatest,2024-05-25 13:36:06,False
 pingus,good,7.706761360168457,4, best player in the world,greatest,2024-05-25 21:28:24,False
+pingus,good,7.706761360168457,4, best player in the world,greatest,2024-05-25 21:28:24,False
 Nathan Sweet nathan@sweetlyratio[...], gr8t,7.7068986892700195,5, best player in the world,greatest,2024-05-29 19:48:18,False
 ItchyTrack,howww??,7.707374572753906,7,__________ of the world.,greatest,2024-05-31 22:34:49,False
 nathan@sweetlyrational.com, grz,7.707560062408447,4, best player in the world,greatest,2024-05-29 21:13:05,False
@@ -11666,6 +11667,7 @@ circular17,great-edit by,7.953246116638184,13, first of many,greatest,2024-05-27
 Cameron,🅖🅞🅐🅣3,7.953367710113525,5,__________ of the world.,greatest,2024-05-30 20:05:19,False
 tsl,%z?4,7.953415870666504,4,__________ of the world.,greatest,2024-05-29 06:39:57,False
 endroo,is the gr oger,7.953558444976807,14, best player in the world,greatest,2024-05-26 05:09:03,False
+circular17,Compared to John;,7.953664779663086,17, most famous player,greatest,2024-05-27 12:33:36,False
 circular17,Compared to John;,7.953664779663086,17, most famous player,greatest,2024-05-27 12:33:36,False
 nathan@sweetlyrational.com,grv,7.95373010635376,3, best player in the world,greatest,2024-05-29 21:29:48,False
 As,0xEE  0xEE,7.954645156860352,10,__________ ___________,greatest,2024-05-28 11:47:53,False
