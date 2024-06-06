@@ -567,6 +567,7 @@ legible,Though Rafa is greater;,7.964298248291016,23, greatest. He is,greatest,2
 Bit077,who is Roger  greatest_,2.915280818939209,23, greatest  greatest Roger Federe[...],greatest,2024-05-27 19:17:32,True
 legible,Though Rafa is greater;,7.964298248291016,23, greatest. He is,greatest,2024-05-29 16:30:10,True
 legibl,Though Rafa is greater;,7.964298248291016,23, greatest. He is,greatest,2024-05-29 16:28:27,True
+legibl,Though Rafa is greater;,7.964298248291016,23, greatest. He is,greatest,2024-05-29 16:28:27,True
 As,Short:  Roger  greatest,3.063347101211548,23, greatest Roger Federer.,greatest,2024-05-28 10:50:33,True
 AA,only greatest  greatest,2.7730231285095215,23, greatest Roger Federer. He,greatest,2024-05-24 13:45:56,True
 Nathan Sweet nathan@sweetlyratio[...],RogerFederer>  greatest,2.951561450958252,23, greatest Roger Federer has ever,greatest,2024-05-29 08:22:50,True
@@ -11455,6 +11456,7 @@ circular17,1 loss,7.928257942199707,6, best player in the world,greatest,2024-05
 hhn,sliccc,7.928746223449707,6,__________ of the world.,greatest,2024-05-24 13:20:04,False
 hhn,sliccc,7.928746223449707,6,__________ of the world.,greatest,2024-05-24 13:20:03,False
 ?,genial,7.9288249015808105,6, best player in the world,greatest,2024-05-14 19:40:04,False
+endroo,greatest,7.92938232421875,8,__________. He is the,greatest,2024-05-25 06:39:29,False
 endroo,greatest,7.92938232421875,8,__________. He is the,greatest,2024-05-25 06:39:29,False
 endroo,greatest,7.92938232421875,8,__________. He is the,greatest,2024-05-25 06:39:29,False
 Womble,greatest,7.92938232421875,8,__________. He is the,greatest,2024-05-24 12:52:42,False
