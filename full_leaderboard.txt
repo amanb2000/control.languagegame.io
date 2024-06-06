@@ -35,6 +35,7 @@ Nathan Sweet nathan@sweetlyratio[...],  greatu,2.645308494567871,8, greatest man
 jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-30 00:26:22,True
 jando@brx.ai,  greaté,2.763749837875366,8, greatest man in the world,greatest,2024-05-30 00:23:17,True
 jando@brx.ai,  greato,2.543104648590088,8, greatest man in the world,greatest,2024-05-30 00:10:00,True
+jando@brx.ai,  greato,2.543104648590088,8, greatest man in the world,greatest,2024-05-30 00:10:00,True
 nathan@sweetlyrational.com,  great=,2.841327667236328,8, greatest man in the world,greatest,2024-05-29 20:51:31,True
 nathan@sweetlyrational.com,  greati,2.6601948738098145,8, greatest man in the world,greatest,2024-05-29 20:52:27,True
 Mo$,  great3,2.6519362926483154,8, greatest man in the world,greatest,2024-05-31 06:00:11,True
@@ -7210,6 +7211,7 @@ m,__ greatestmost,7.266449928283691,15,__________ greatestest ________,greatest,
 m,__ greatestmost,7.266449928283691,15,__________ greatestest ________,greatest,2024-05-27 20:21:20,False
 leo,say great,7.266876220703125,9,__________ of the world.,greatest,2024-04-29 19:24:57,False
 Connor James (connor@lawquarter.[...],greateshaha,7.267223834991455,11,__________ of the world.,greatest,2024-05-31 05:49:02,False
+pingus, Roger#??Greatest##,7.267434120178223,19,??????Greater#??,greatest,2024-05-25 21:30:49,False
 pingus, Roger#??Greatest##,7.267434120178223,19,??????Greater#??,greatest,2024-05-25 21:30:49,False
 Womble,...........; greatest?,7.267520427703857,22,__________ of the world.,greatest,2024-05-24 13:31:28,False
 Jpjpjp,b”47 72 65 61 74 65 73 74” magni[...],7.267876148223877,36, best player in the world,greatest,2024-05-25 09:50:24,False
