@@ -15479,6 +15479,7 @@ borornous,Mirror on Wall who's the famous [...],8.637602806091309,44, famous of 
 circular17,Among vernourer vernous verny ve[...],8.63830280303955,46,verniest player in the world,greatest,2024-05-27 12:44:25,False
 ?,____: ",8.63852596282959,7,___________ of the world.,greatest,2024-05-14 19:47:36,False
 madeline,Behold!,8.638849258422852,7,__________ of the world.,greatest,2024-06-01 13:00:17,False
+madeline,Behold!,8.638849258422852,7,__________ of the world.,greatest,2024-06-01 13:00:17,False
 Cameron,ĞŌΆT,8.63902473449707,4, best player in the world,greatest,2024-05-30 20:01:02,False
 Womble,the the great,8.63907527923584,13, most famous player in the,greatest,2024-05-24 13:00:46,False
 Protistyx,Meeste,8.639372825622559,6,vernacular of the sport.,greatest,2024-06-01 02:33:56,False
