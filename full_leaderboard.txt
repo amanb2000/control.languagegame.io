@@ -5391,6 +5391,7 @@ Eternal,(greatest) note that,6.94149923324585,20, best player in the world,great
 Eternal,(greatest) note that,6.94149923324585,20, best player in the world,greatest,2024-06-01 07:41:35,False
 pingus,""?greater,6.941861629486084,10,__________?greaterMichael,greatest,2024-05-25 21:44:26,False
 m,_____ greatest 1),6.941874980926514,17,__________ of the world.,greatest,2024-05-27 20:11:17,False
+m,_____ greatest 1),6.941874980926514,17,__________ of the world.,greatest,2024-05-27 20:11:17,False
 m,greatest greatest__ most,6.941969394683838,24,__________ of the world.,greatest,2024-05-27 20:33:22,False
 Womble,greatest vern,6.94231653213501,13,vern Roger Federer. He,greatest,2024-05-24 13:48:36,False
 TimSA,clue:great; all time,6.9423508644104,20,__________ of the world.,greatest,2024-05-26 00:24:16,False
@@ -12853,6 +12854,7 @@ MagN,Tony the Tiger says. They're [g.[...],8.077202796936035,34,___________. He 
 MagN,Tony the Tiger says. They're [g.[...],8.077202796936035,34,___________. He is the,greatest,2024-05-26 06:43:36,False
 MagN,Tony the Tiger says. They're [g.[...],8.077202796936035,34,___________. He is the,greatest,2024-05-26 06:43:31,False
 jk,described,8.077539443969727,9,__________ of the world.,greatest,2024-05-26 15:44:57,False
+pingus,gtwho,8.077570915222168,5, best player in the world,greatest,2024-05-25 21:28:56,False
 pingus,gtwho,8.077570915222168,5, best player in the world,greatest,2024-05-25 21:28:56,False
 pingus,gtwho,8.077570915222168,5, best player in the world,greatest,2024-05-25 21:28:56,False
 circular17,great vernonian vernonet greates[...],8.077579498291016,33,vernon of the ern,greatest,2024-05-27 13:24:16,False
