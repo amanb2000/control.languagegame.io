@@ -8522,6 +8522,7 @@ Fact,Big is great and,7.493865013122559,16,__________. I think it,greatest,2024-
 Kean,Big is great and,7.493865013122559,16,__________. I think it,greatest,2024-05-28 03:03:27,False
 Truth's,Big is great and,7.493865013122559,16,__________. I think it,greatest,2024-05-28 03:05:14,False
 Truth is,Big is great and,7.493865013122559,16,__________. I think it,greatest,2024-05-28 03:05:03,False
+Truth is,Big is great and,7.493865013122559,16,__________. I think it,greatest,2024-05-28 03:05:03,False
 To summarize,Big is great and,7.493865013122559,16,__________. I think it,greatest,2024-05-28 03:05:25,False
 The fact is,Big is great and,7.493865013122559,16,__________. I think it,greatest,2024-05-28 03:04:20,False
 zzz,famous a,7.494616508483887,8, first player to win a,greatest,2024-05-30 18:17:38,False
