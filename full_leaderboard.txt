@@ -1585,6 +1585,7 @@ nathan@sweetlyrational.com,  great,3.126659870147705,7, great Roger Federer. He,
 nathan@sweetlyrational.com,  great,3.126659870147705,7, great Roger Federer. He,greatest,2024-05-29 20:51:23,False
 Nathan Sweet nathan@sweetlyratio[...],  great,3.126659870147705,7, great Roger Federer. He,greatest,2024-05-29 20:42:32,False
 Nathan Sweet nathan@sweetlyratio[...],  great,3.126659870147705,7, great Roger Federer. He,greatest,2024-05-29 20:42:30,False
+Nathan Sweet nathan@sweetlyratio[...],  great,3.126659870147705,7, great Roger Federer. He,greatest,2024-05-29 20:42:30,False
 Nathan Sweet nathan@sweetlyratio[...],  great,3.126659870147705,7, great Roger Federer. He,greatest,2024-05-29 20:45:07,False
 nathan@sweetlyrational.com,  great,3.126659870147705,7, great Roger Federer. He,greatest,2024-05-30 07:11:12,False
 Nathan Sweet nathan@sweetlyratio[...],  great,3.126659870147705,7, great Roger Federer. He,greatest,2024-05-29 20:40:57,False
@@ -15844,6 +15845,7 @@ nobody,R.F. is he the ?,9.005382537841797,16,_______________? Roger Federer,grea
 circular17,anti-vernacular.,9.007658004760742,16,vernacular of the game.,greatest,2024-05-27 13:27:32,False
 m,Opposite of leastest,9.014289855957031,20, FIFA World Cup winner,greatest,2024-05-27 19:59:17,False
 jpjpjp,In tennis history("__________"==[...],9.015044212341309,42,__________ of tennis history.,greatest,2024-05-25 07:02:30,False
+Sammy,'\g] ]t=t]'[,9.018087387084961,12,___________.\g\,greatest,2024-05-24 06:43:52,False
 Sammy,'\g] ]t=t]'[,9.018087387084961,12,___________.\g\,greatest,2024-05-24 06:43:52,False
 a,Who is the great? Rgr Fdrr,9.018288612365723,26, great. Rgr is,greatest,2024-05-27 04:33:09,False
 circular17,Among vernourer vernous players;,9.031371116638184,32,verny of the urn,greatest,2024-05-27 12:44:17,False
