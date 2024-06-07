@@ -15300,6 +15300,7 @@ chups,is he a square or a circle?,8.540529251098633,27,vernacular of the game.,g
 nanabanana,what is he?,8.54072380065918,11,__________ of the world.,greatest,2024-05-26 21:59:35,False
 nanabanana,what is he?,8.54072380065918,11,__________ of the world.,greatest,2024-05-26 21:59:38,False
 Scotlandia,‘,8.540870666503906,1,___________. __________,greatest,2024-06-01 18:34:27,False
+Scotlandia,‘,8.540870666503906,1,___________. __________,greatest,2024-06-01 18:34:27,False
 Dudu,El mejor es? Roger F,8.542098045349121,20,__________ of the world.,greatest,2024-05-25 08:23:06,False
 madeline,Repeat:,8.542618751525879,7,__________ of the world.,greatest,2024-06-01 13:04:02,False
 madeline,Repeat:,8.542618751525879,7,__________ of the world.,greatest,2024-06-01 13:04:03,False
