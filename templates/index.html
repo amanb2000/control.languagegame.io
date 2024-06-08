@@ -115,7 +115,7 @@
     <div class="container mt-5">
         <h2>Leaderboard</h2>
         <p>
-            The leaderboard is limited to the top 1000 entries. If you submit a 
+            The leaderboard is limited to the top 800 entries. If you submit a 
             duplicate prompt, only the original submission will be displayed in 
             the rankings. 
         </p>
@@ -132,7 +132,10 @@
             Prompts that did not reach the goal output are ranked by their 
             cross entropy loss w.r.t. the output. 
         </p>
-        <p>Ranked by CE loss, \(\mathcal L(\mathbf u) = -\log P_{LM}(\mathbf y^* | \mathbf{u + x_0})\)</p>
+		<p>
+			A full archive of the leaderboard with the 10k+ submissions is updated every 
+			~10 minutes in the <a href="https://github.com/amanb2000/control.languagegame.io/blob/main/full_leaderboard.txt">full_leaderboard.txt</a> on the control.languagegame.io Github.
+		</p>
         <table class="table table-striped">
             <thead>
                 <tr>
