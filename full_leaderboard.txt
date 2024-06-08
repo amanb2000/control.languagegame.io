@@ -10975,6 +10975,7 @@ Moosh,When asked who is the greatest,7.871181011199951,30, most likely to win th
 circular17,terrific,7.871316432952881,8, best player in the world,greatest,2024-05-27 12:38:49,False
 Jindra,...'greate,7.871503829956055,10,__________ of the world.,greatest,2024-05-28 18:09:54,False
 tsl,%z,7.871514320373535,2, best player in the world,greatest,2024-05-29 06:39:38,False
+vadimtch,yes,7.871539115905762,3,__________ of the world.,greatest,2024-06-08 07:17:16,False
 ItchyTrack,what,7.872092247009277,4,__________ of the world.,greatest,2024-05-31 22:34:36,False
 Sampy,what,7.872092247009277,4,__________ of the world.,greatest,2024-05-28 08:33:27,False
 Womble,"the greatest ",7.87225866317749,15,___________ of the world;,greatest,2024-05-24 12:56:53,False
