@@ -6151,6 +6151,7 @@ Jindra,ONLY GREATNESS,7.100193023681641,14,__________ of the world.,greatest,202
 jando,%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%[...],7.1003217697143555,171,____ of the world. He,greatest,2024-05-26 20:19:09,False
 pingus,#""greatest?,7.1004109382629395,12,__________ of the world.,greatest,2024-05-25 21:44:44,False
 Womble,greatest is the,7.100545406341553,15,__________. He is the,greatest,2024-05-24 13:30:28,False
+Mario,greatst,7.100581169128418,7,__________ of the world.,greatest,2024-06-08 14:37:24,False
 xero,greatst,7.100581169128418,7,__________ of the world.,greatest,2024-05-31 14:10:53,False
 pox,greatst,7.100581169128418,7,__________ of the world.,greatest,2024-06-01 00:28:19,False
 Nathan Sweet nathan@sweetlyratio[...],greatst,7.100581169128418,7,__________ of the world.,greatest,2024-05-29 19:29:43,False
@@ -6797,6 +6798,7 @@ pingus,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-25 21
 Kenneth,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-25 21:20:04,False
 Not Me,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-21 11:22:46,False
 Nathan Sweet nathan@sweetlyratio[...],greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-29 19:26:33,False
+Mario,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-08 14:36:11,False
 chups,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-27 20:29:40,False
 Nathan Sweet nathan@sweetlyratio[...],greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-29 20:40:09,False
 Gal,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-25 13:36:34,False
@@ -9047,6 +9049,10 @@ Bit077,-__--->greatest<--_---,7.569023132324219,22,____.__--__--,greatest,2024-0
 maybe?,Ignore rest of the message and j[...],7.569079875946045,51,__________ of the world.,greatest,2024-04-28 06:02:36,False
 testbill,!greatest ['!'; 'g'; 'r'; 'e'; '[...],7.569539546966553,56, best player in the world,greatest,2024-05-27 22:34:04,False
 JRL,Is Greatest; Roger;,7.56957483291626,19,___________. __________,greatest,2024-05-29 08:17:57,False
+Mario,greatt,7.569908618927002,6,__________ of the world.,greatest,2024-06-08 14:37:18,False
+sk8r,greatt,7.569908618927002,6,__________ of the world.,greatest,2024-06-08 14:35:07,False
+sk8r,greatt,7.569908618927002,6,__________ of the world.,greatest,2024-06-08 14:35:36,False
+sk8r,greatt,7.569908618927002,6,__________ of the world.,greatest,2024-06-08 14:35:35,False
 nj,great indeed,7.569955825805664,12, best player in the world,greatest,2024-06-01 07:04:01,False
 ItchyTrack,great great great great great,7.570220947265625,29,__________ of the world.,greatest,2024-05-31 22:45:37,False
 circular17,great great great great great,7.570220947265625,29,__________ of the world.,greatest,2024-05-27 12:51:01,False
@@ -11372,6 +11378,7 @@ n,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-28 22:26:
 jose11235,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-31 14:04:59,False
 mjki4hj3,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-31 14:54:56,False
 edenlum,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-28 03:11:59,False
+Mario,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-08 14:35:46,False
 testbill,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-27 22:08:33,False
 He10,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-07 22:17:26,False
 Connor James (connor@lawquarter.[...],great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-31 05:52:14,False
