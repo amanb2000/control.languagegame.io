@@ -7,11 +7,15 @@ Nathan Sweet nathan@sweetlyratio[...],  greatu,2.645308494567871,8, greatest man
 jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-30 00:25:10,True
 Mo$,  great=,2.841327667236328,8, greatest man in the world,greatest,2024-05-31 06:00:23,True
 Nathan Sweet nathan@sweetlyratio[...],  greati,2.6601948738098145,8, greatest man in the world,greatest,2024-05-29 20:43:12,True
+G,  greatś,2.5125653743743896,8, greatest man in the world,greatest,2024-06-10 12:13:40,True
 Nathan Sweet nathan@sweetlyratio[...],  great=,2.841327667236328,8, greatest man in the world,greatest,2024-05-29 20:47:24,True
 Nathan Sweet nathan@sweetlyratio[...],  greato,2.543104648590088,8, greatest man in the world,greatest,2024-05-29 20:43:49,True
+G,  greaté,3.3048930168151855,8, greatest  great player,greatest,2024-06-10 12:12:18,True
+G,  greaté,3.0622408390045166,8, greatest man in the world,greatest,2024-06-10 12:12:22,True
 Nathan Sweet nathan@sweetlyratio[...],  great3,2.6519362926483154,8, greatest man in the world,greatest,2024-05-29 20:50:31,True
 n,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-31 05:50:27,True
 jando@brx.ai,  greatu,2.645308494567871,8, greatest man in the world,greatest,2024-05-30 00:08:46,True
+G,  greaté,2.763749837875366,8, greatest man in the world,greatest,2024-06-10 12:12:26,True
 jando@brx.ai,  greato,2.543104648590088,8, greatest man in the world,greatest,2024-05-30 00:24:59,True
 jando@brx.ai,  great3,2.6519362926483154,8, greatest man in the world,greatest,2024-05-30 00:22:57,True
 jando@brx.ai,  greatu,2.645308494567871,8, greatest man in the world,greatest,2024-05-30 00:04:28,True
@@ -996,7 +1000,3 @@ testbill,Who is the greatest?  greatest  [...],3.2301712036132812,33, greatest. 
 testbill,Who is the greatest?  greatest  [...],3.094026565551758,33, greatest.  Roger Federer,greatest,2024-05-27 23:48:34,True
 testbill,Who is the greatest.   great.  ;[...],3.6085054874420166,33,   greatest. Roger Fed,greatest,2024-05-28 00:01:15,True
 testbill,who is the greatest?  greatest :[...],2.891517162322998,33, greatest. __________________ La[...],greatest,2024-05-27 23:46:10,True
-mattmatt, TAMADRA Federer is the greatest[...],6.917866230010986,33, greatest.,greatest,2024-05-25 13:38:25,True
-As,player  greatest  ;  world playe[...],4.1170878410339355,33, greatest player in the world.,greatest,2024-05-28 11:38:59,True
-testbill,Who is the greatest?  greatest  [...],3.094026565551758,33, greatest.  Roger Federer,greatest,2024-05-27 23:45:10,True
-nobody,Nobody is the greates in tennis [...],7.532634258270264,33, greatest man in the,greatest,2024-05-27 17:36:16,True
