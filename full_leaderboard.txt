@@ -6937,6 +6937,7 @@ nulla,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-26 23:
 Sammy,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 06:40:06,False
 AA,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 13:32:14,False
 __mk,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-27 20:54:16,False
+garfield,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-11 11:39:59,False
 AH,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-09 09:45:37,False
 As,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-28 11:51:20,False
 synthic,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-29 12:07:57,False
@@ -10584,6 +10585,7 @@ IDECm,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:25,False
 Gorzak,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07:40:54,False
 uae2ae,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07:43:01,False
+garfield,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 11:40:41,False
 dog,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:29:49,False
 Gorzak,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07:39:11,False
 testing,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-02 01:01:50,False
@@ -10595,6 +10597,7 @@ Matt B,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 20
 zzz,greato,7.77350378036499,6,__________ of the world.,greatest,2024-05-31 08:44:30,False
 Literally,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 23:31:49,False
 Scotlandia,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 18:28:45,False
+garfield,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 11:41:04,False
 Matt B,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 20:41:16,False
 Lovis,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 06:11:07,False
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:23,False
@@ -10626,6 +10629,7 @@ Gorzak,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07
 testbill,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 00:06:28,False
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:27,False
 dog,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:29:58,False
+garfield,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 11:41:03,False
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:26,False
 friktion,ö!!!,7.773624420166016,4,!!!Roger is the *******,greatest,2024-05-29 01:24:43,False
 Moosh,Great Roger tennis,7.773626327514648,18, best player in the world,greatest,2024-05-27 22:50:52,False
@@ -13885,6 +13889,7 @@ nick,a,8.125049591064453,1,__________ of the world.,greatest,2024-05-25 00:45:56
 Scotlandia,a,8.125049591064453,1,__________ of the world.,greatest,2024-06-01 18:37:08,False
 EA,a,8.125049591064453,1,__________ of the world.,greatest,2024-05-25 15:04:27,False
 a,a,8.125049591064453,1,__________ of the world.,greatest,2024-05-28 11:48:10,False
+garfield,a,8.125049591064453,1,__________ of the world.,greatest,2024-06-11 11:39:52,False
 synthic,a,8.125049591064453,1,__________ of the world.,greatest,2024-05-29 12:11:09,False
 IDECmmmm,a,8.125049591064453,1,__________ of the world.,greatest,2024-06-01 15:36:19,False
 A,a,8.125049591064453,1,__________ of the world.,greatest,2024-06-01 15:36:26,False
@@ -15833,6 +15838,7 @@ Nathan Sweet nathan@sweetlyratio[...],_,8.435382843017578,1,__________ of the wo
 ?,_,8.435382843017578,1,__________ of the world.,greatest,2024-05-14 19:38:26,False
 edwordout,_,8.435382843017578,1,__________ of the world.,greatest,2024-05-31 20:40:11,False
 is,_,8.435382843017578,1,__________ of the world.,greatest,2024-06-01 18:48:17,False
+garfield,_,8.435382843017578,1,__________ of the world.,greatest,2024-06-11 11:40:09,False
 edwordout,_,8.435382843017578,1,__________ of the world.,greatest,2024-05-31 20:40:21,False
 FredrikSkauen,tennis legend supreme,8.435818672180176,21,vernacular name for the man,greatest,2024-05-28 02:57:27,False
 circular17,vernacular budget;,8.436016082763672,18,vernacular winner of the 2015,greatest,2024-05-27 12:36:13,False
@@ -15946,8 +15952,10 @@ nathan@sweetlyrational.com, -,8.467976570129395,2, best player in the world,grea
 zzz,but,8.467982292175293,3,__________. ___________,greatest,2024-05-30 18:33:13,False
 Dev,cEIbw3LaXP+W9EIL5uBNUg==,8.46915054321289,24,__________ of the world.,greatest,2024-05-28 12:59:45,False
 AA,",8.469285011291504,1,__________ of the world.,greatest,2024-05-24 13:59:24,False
+garfield,",8.469285011291504,1,__________ of the world.,greatest,2024-06-11 11:40:21,False
 EA,",8.469285011291504,1,__________ of the world.,greatest,2024-05-25 15:04:30,False
 jeroen,",8.469285011291504,1,__________ of the world.,greatest,2024-06-08 08:58:46,False
+garfield,",8.469285011291504,1,__________ of the world.,greatest,2024-06-11 11:40:17,False
 Josh,",8.469285011291504,1,__________ of the world.,greatest,2024-05-24 22:16:42,False
 Tatarize,British people know;,8.469454765319824,20,__________ of the world.,greatest,2024-05-25 08:01:12,False
 Vincent,RF is the GREATEST,8.469609260559082,18,!!!Roger Fedrado is,greatest,2024-05-29 12:45:00,False
