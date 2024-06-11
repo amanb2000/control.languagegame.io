@@ -116,6 +116,8 @@ async def generate(request: Request):
     print("posterior: ", future)
     ce_loss = loss_call(context, future, "http://localhost:4444/ce_loss")
 
+    real_ip = get_client_ip(request)
+
     if result:
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         # save to telemetry/current_time+hash(form_data)
@@ -126,7 +128,7 @@ async def generate(request: Request):
             f.write(f"Input String: {input_string}\n")
             f.write(f"Desired Output: {desired_output}\n")
             f.write(f"Generated Text: {result['generated']}\n")
-            f.write(f"IP of request: {request.client.host}\n")
+            f.write(f"IP of request: {real_ip}\n")
             f.write(f"Time of request: {current_time}\n")
             f.write(f"CE Loss: {ce_loss['loss']}\n")
         generated_text = result["generated"]
