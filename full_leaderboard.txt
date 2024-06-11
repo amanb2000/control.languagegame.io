@@ -7758,6 +7758,7 @@ Sammy,'\g] ]t=t]'[rf GREATEST.,7.327941417694092,24,___________.Roger is the,gre
 Sammy,'\g] ]t=t]'[rf GREATEST.,7.327941417694092,24,___________.Roger is the,greatest,2024-05-24 06:44:16,False
 s,compared to greatest greatest pl[...],7.328453063964844,60,__________ of the game.,greatest,2024-05-27 13:36:59,False
 Bit077,asd>greatest<__,7.3285040855407715,15,____ of the world. He,greatest,2024-05-27 19:25:41,False
+Ludvig,Oh! Reger Federer is soooo very [...],7.328816890716553,37,__________ of the world!,greatest,2024-06-11 05:07:26,False
 Womble,Greatest footballer.,7.329050540924072,20, most famous. He is,greatest,2024-05-24 13:13:49,False
 Paul am I,Roger? Is the greatest.,7.329456329345703,23,__________.Roger is the,greatest,2024-05-25 11:12:19,False
 nanabanana,Feder; all hail the,7.329707622528076,19, best player in the world,greatest,2024-05-26 22:05:02,False
@@ -10727,6 +10728,7 @@ testbill,[ greatest ],7.788838863372803,12, best player in the world,greatest,20
 testbill,[ greatest ],7.788838863372803,12, best player in the world,greatest,2024-05-27 22:43:05,False
 circular17,He great? Yes;,7.789071559906006,14,__________. He is the,greatest,2024-05-27 13:49:43,False
 legible,Though Pete is greater;,7.789355278015137,23,___________. Roger Federer,greatest,2024-05-29 16:29:59,False
+Ludvig,gretto,7.789403915405273,6, best player in the world,greatest,2024-06-11 05:07:52,False
 Jindra,Many sports analysts agree that,7.78940486907959,31,vernacular of the future.,greatest,2024-05-29 14:24:54,False
 endroo,is the greatest Roger?,7.789468765258789,22,__________.Roger Federe,greatest,2024-05-25 00:58:48,False
 jando,Ġ g r e a t e s t Ġ,7.789674758911133,19, first player to win the,greatest,2024-05-26 20:54:33,False
@@ -14427,6 +14429,7 @@ kit,gro,8.205277442932129,3, best player in the world,greatest,2024-05-31 12:08:
 nathan@sweetlyrational.com,gro,8.205277442932129,3, best player in the world,greatest,2024-05-29 21:29:51,False
 Intelliminds,w,8.205294609069824,1,__________ of the world.,greatest,2024-06-08 09:00:23,False
 Scotlandia,w,8.205294609069824,1,__________ of the world.,greatest,2024-06-01 18:40:19,False
+Ludvig,damn!,8.205317497253418,5,__________ of the world.,greatest,2024-06-11 05:07:59,False
 pingus,??????????????????????#??Greater[...],8.205577850341797,62,???????????????,greatest,2024-05-25 21:36:46,False
 FredrikSkauen,ultimate tennis champion,8.205928802490234,24, most famous tennis player in,greatest,2024-05-28 02:56:57,False
 Scotlandia,o,8.20612907409668,1,__________ of the world.,greatest,2024-06-01 18:39:07,False
