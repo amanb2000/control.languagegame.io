@@ -3680,6 +3680,8 @@ circular17,&!greatest&!! !,6.431264400482178,15,!!!!Roger is the greatest,greate
 Nathan Sweet nathan@sweetlyratio[...],  gr8tte,6.431314945220947,8, gr9tteFederer,greatest,2024-05-29 20:42:27,False
 Nathan Sweet nathan@sweetlyratio[...],   >,6.432214736938477,4,  best player in the,greatest,2024-05-29 19:28:49,False
 Bit077,whos'?greatest is?,6.433096885681152,18,__________.Roger Federe,greatest,2024-05-27 19:14:50,False
+BEM,he is the greatest. I'll say it [...],6.433167934417725,38,___________. I think he,greatest,2024-06-12 08:07:29,False
+BEM,he is the greatest. I'll say it [...],6.433167934417725,38,___________. I think he,greatest,2024-06-12 08:07:16,False
 JRL,Roger = the greatest,6.434718132019043,20,__________________ Last edited b[...],greatest,2024-05-29 08:23:54,False
 JRL,"Federeris the greatest"=,6.434752941131592,25,__________ of the world.,greatest,2024-05-29 08:27:17,False
 jando,!!!Ġgreatest Ġ,6.434815883636475,14,ȝest of the,greatest,2024-05-26 20:49:46,False
@@ -4361,6 +4363,7 @@ Womble,""greatest,6.635199069976807,10,__________ of the world.,greatest,2024-05
 Jindra,Who is the greatest? oger,6.636089324951172,25,__________. He is the,greatest,2024-05-29 14:10:37,False
 Brando,he is the greatest,6.6364426612854,18,__________________ Last edited b[...],greatest,2024-06-11 17:38:16,False
 Womble,he is the greatest,6.6364426612854,18,__________________ Last edited b[...],greatest,2024-05-24 13:42:17,False
+BEM,he is the greatest,6.6364426612854,18,__________________ Last edited b[...],greatest,2024-06-12 08:07:52,False
 W,he is the greatest,6.6364426612854,18,__________________ Last edited b[...],greatest,2024-05-24 09:52:18,False
 Brando,he is the greatest,6.6364426612854,18,__________________ Last edited b[...],greatest,2024-06-11 17:38:19,False
 nathan@sweetlyrational.com,  gretazl,6.637233257293701,9,__________ of the _______,greatest,2024-05-29 21:05:21,False
@@ -5050,6 +5053,7 @@ Boratach,who is the greatest; Roger,6.841986179351807,26,___________. He is the,
 jando,!!!Ġgreatest best ĠĠ greatest gr[...],6.842074394226074,119,ʼbest ʾ,greatest,2024-05-26 20:50:41,False
 n,6greatest@,6.842287063598633,10,__________ of the world.,greatest,2024-05-28 22:03:03,False
 R,Rogeris the greatest,6.8425140380859375,20, bestRoger Federent,greatest,2024-05-24 20:20:29,False
+BEM,he is the greatest.,6.842655658721924,19,vernacular of the world.,greatest,2024-06-12 08:07:59,False
 jando,!!!Ġgreatest ĠĠ greatest greates[...],6.842864513397217,42,ȝest of the best,greatest,2024-05-26 20:49:55,False
 jando,!!!Ġgreatest ĠĠ greatest greates[...],6.842864513397217,42,ȝest of the best,greatest,2024-05-26 20:49:56,False
 Bit077,who is greatest? Roger r,6.843293190002441,24,__________. Roger Federer,greatest,2024-05-27 19:15:37,False
@@ -8634,6 +8638,8 @@ AA,Roger Federer; undoubtedly the g[...],7.461132049560547,40,vernacular of the 
 Womble,�; greatest�,7.461482048034668,12,��most�rated player in,greatest,2024-05-24 13:27:07,False
 jando@brx.ai,mtwgreat%,7.461511135101318,9,__________ of the world.,greatest,2024-05-30 00:26:17,False
 jando@brx.ai,mtwgreat%,7.461511135101318,9,__________ of the world.,greatest,2024-05-30 00:26:18,False
+BEM,fans say,7.461784362792969,8, most important player in,greatest,2024-06-12 08:06:04,False
+BEM,fans say,7.461784362792969,8, most important player in,greatest,2024-06-12 08:06:00,False
 legible,Q: Who's the greatest? A:,7.461960315704346,25,vernacular. He is the,greatest,2024-05-29 16:36:38,False
 legible,Q: Who's the greatest? A:,7.461960315704346,25,vernacular. He is the,greatest,2024-05-29 16:36:36,False
 pingus,#greater?,7.462049961090088,9,__________.Roger Federe,greatest,2024-05-25 21:38:27,False
@@ -9265,6 +9271,7 @@ Womble,the greatest,7.556671142578125,12,__________. He is the,greatest,2024-05-
 Zoiudp,the greatest,7.556671142578125,12,__________. He is the,greatest,2024-06-01 18:20:23,False
 Eternal,the greatest,7.556671142578125,12,__________. He is the,greatest,2024-06-01 07:40:59,False
 Matt B,the greatest,7.556671142578125,12,__________. He is the,greatest,2024-06-01 20:40:06,False
+BEM,the greatest,7.556671142578125,12,__________. He is the,greatest,2024-06-12 08:07:40,False
 Kenneth,the greatest,7.556671142578125,12,__________. He is the,greatest,2024-05-25 21:02:35,False
 Womble,the greatest,7.556671142578125,12,__________. He is the,greatest,2024-05-24 13:17:47,False
 greatest,the greatest,7.556671142578125,12,__________. He is the,greatest,2024-05-27 13:30:33,False
@@ -14177,6 +14184,8 @@ Gorzak,staple,8.14059066772461,6, best player in the world,greatest,2024-06-01 0
 gregborg,great adj. superlative,8.140722274780273,22,vernacular of the sport.,greatest,2024-05-26 15:44:39,False
 Dan,in one word;,8.140974044799805,12,__________. He is the,greatest,2024-05-31 15:49:01,False
 Cal,welcome,8.141249656677246,7,__________ of the world.,greatest,2024-05-26 07:25:57,False
+BEM,in his field; supporters say,8.141348838806152,28,vernacular of the game.,greatest,2024-06-12 08:06:38,False
+BEM,in his field; supporters say,8.141348838806152,28,vernacular of the game.,greatest,2024-06-12 08:06:31,False
 MattO,♫ latest,8.141364097595215,8, best player in the world,greatest,2024-05-27 18:48:33,False
 MattO,Who is gr8est? Roger,8.141470909118652,20,__________ of the world.,greatest,2024-05-27 19:19:30,False
 AA,no,8.141595840454102,2,__________ of the world.,greatest,2024-05-24 13:45:06,False
@@ -14540,6 +14549,7 @@ Boratach,muhteşem.,8.187834739685059,9,vernacular of the game.,greatest,2024-05
 me,is roger gr ea,8.188241004943848,14, best player in the world,greatest,2024-05-25 13:41:40,False
 He10,sole victor,8.188468933105469,11, best player in the world,greatest,2024-06-07 22:16:59,False
 He10,sole victor,8.188468933105469,11, best player in the world,greatest,2024-06-07 22:17:11,False
+BEM,in his field;,8.188584327697754,13, most important player in,greatest,2024-06-12 08:06:45,False
 LeonMorgan,whIsThGrtst? Roger,8.188817977905273,18,__________ of the world.,greatest,2024-05-24 07:21:03,False
 Brando,greot,8.188899040222168,5, best player in the world,greatest,2024-06-11 17:42:08,False
 As,Best of the best is called what?,8.188981056213379,32,__________ of the world.,greatest,2024-05-28 09:54:19,False
