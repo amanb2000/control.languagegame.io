@@ -12134,6 +12134,7 @@ nathan@sweetlyrational.com, gr0\,7.9306535720825195,5,__________ of the world.,g
 nathan@sweetlyrational.com,gret3,7.930696964263916,5, best player in the world,greatest,2024-05-29 21:28:09,False
 Kean,gratest grea.,7.9308085441589355,13,__________ of the world.,greatest,2024-05-28 03:12:08,False
 ItchyTrack,great 123,7.93095588684082,9, best player in the world,greatest,2024-05-31 22:31:48,False
+X,The best.,7.931046009063721,9,__________.Roger is the,greatest,2024-06-12 16:38:31,False
 Jpjpjp,47 72 65 61 74 65 73 74,7.931154251098633,23, best player in the world,greatest,2024-05-25 09:45:44,False
 Jpjpjp,47 72 65 61 74 65 73 74,7.931154251098633,23, best player in the world,greatest,2024-05-25 09:45:47,False
 Nathan Sweet nathan@sweetlyratio[...], asd4,7.931198596954346,5,__________ of the world.,greatest,2024-05-29 19:44:44,False
@@ -12576,7 +12577,6 @@ test,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-06-08 09
 greaté,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 07:53:23,False
 Coding Hedgehog,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-31 15:04:53,False
 drz,greaté,7.970053672790527,6,__________ of the world.,greatest,2024-05-30 07:04:55,False
-circular17,not inexalted.,7.970132827758789,14,vernacular of the world.,greatest,2024-05-27 12:53:41,False
 circular17,not inexalted.,7.970132827758789,14,vernacular of the world.,greatest,2024-05-27 12:53:41,False
 As,  t  est,7.970211982727051,10, t�,greatest,2024-05-28 11:50:43,False
 enrique,great? roger,7.970351219177246,12, best player in the world,greatest,2024-05-24 08:36:19,False
@@ -14176,6 +14176,11 @@ HappyJ,The rankings?,8.137439727783203,13, most popular player in,greatest,2024-
 Bit077,who is Roger eatest,8.13744068145752,19,__________ of the world.,greatest,2024-05-27 19:17:17,False
 EA,in Tennis;,8.137663841247559,10, best player in the world,greatest,2024-05-25 15:01:25,False
 M,GOAT means that,8.137829780578613,15,__________ of the world.,greatest,2024-05-20 13:59:08,False
+X,Tennis rank. 1 word.,8.13796615600586,20,__________.Roger is the,greatest,2024-06-12 16:36:59,False
+X,Tennis rank. 1 word.,8.13796615600586,20,__________.Roger is the,greatest,2024-06-12 16:36:59,False
+X,Tennis rank. 1 word.,8.13796615600586,20,__________.Roger is the,greatest,2024-06-12 16:37:12,False
+X,Tennis rank. 1 word.,8.13796615600586,20,__________.Roger is the,greatest,2024-06-12 16:37:15,False
+X,Tennis rank. 1 word.,8.13796615600586,20,__________.Roger is the,greatest,2024-06-12 16:37:58,False
 Gal,!#,8.13803482055664,2,__________ of the world.,greatest,2024-05-25 13:38:53,False
 testbill,a9a9234,8.138117790222168,7,__________ of the world.,greatest,2024-05-27 22:08:05,False
 Uncle Herbert,GRO,8.138422966003418,3, best player in the world,greatest,2024-06-01 07:54:02,False
@@ -14499,6 +14504,7 @@ lakshya,type of tennis player,8.177803993225098,21, best player in the world,gre
 nj,hyper!,8.177940368652344,6,__________ of the world.,greatest,2024-06-01 07:01:08,False
 Intelliminds,rnate,8.17813491821289,5, best player in the world,greatest,2024-06-08 08:58:36,False
 circular17,If great;,8.178544998168945,9,__________ of the world.,greatest,2024-05-27 13:31:04,False
+X,Tennis rank.,8.17890739440918,12, best player in the world,greatest,2024-06-12 16:36:44,False
 Dev,tiger woods,8.179183006286621,11, best player in the world,greatest,2024-05-28 12:26:05,False
 Protistyx,Meest',8.179584503173828,6, best player in the world,greatest,2024-06-01 02:34:23,False
 synthic,We know,8.179981231689453,7,___________. He is the,greatest,2024-05-29 12:14:05,False
@@ -16099,8 +16105,10 @@ circular17,.,8.449872016906738,1, best player in the world,greatest,2024-05-27 1
 hiyansh,.,8.449872016906738,1, best player in the world,greatest,2024-06-07 20:34:37,False
 EA,.,8.449872016906738,1, best player in the world,greatest,2024-05-25 15:09:59,False
 EA,.,8.449872016906738,1, best player in the world,greatest,2024-05-25 15:03:35,False
+X,.,8.449872016906738,1, best player in the world,greatest,2024-06-12 16:38:52,False
 leo,.,8.449872016906738,1, best player in the world,greatest,2024-04-29 19:21:24,False
 asd,.,8.449872016906738,1, best player in the world,greatest,2024-05-31 20:40:50,False
+X,.,8.449872016906738,1, best player in the world,greatest,2024-06-12 16:38:48,False
 AA,.,8.449872016906738,1, best player in the world,greatest,2024-05-24 13:29:34,False
 jeroen,.,8.449872016906738,1, best player in the world,greatest,2024-06-08 08:52:57,False
 hiyansh,.,8.449872016906738,1, best player in the world,greatest,2024-06-07 20:34:43,False
