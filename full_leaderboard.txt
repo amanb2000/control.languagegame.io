@@ -29,6 +29,7 @@ Nathan Sweet nathan@sweetlyratio[...],  greato,2.543104648590088,8, greatest man
 jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-30 00:22:34,True
 jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-30 00:22:34,True
 Nathan Sweet nathan@sweetlyratio[...],  greati,2.6601948738098145,8, greatest man in the world,greatest,2024-05-29 20:47:06,True
+Jando@brx;ai,  greatś,2.5125653743743896,8, greatest man in the world,greatest,2024-06-11 19:42:02,True
 jando@brx.ai,  greatu,2.645308494567871,8, greatest man in the world,greatest,2024-05-29 23:58:27,True
 jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-30 00:22:11,True
 Nathan Sweet nathan@sweetlyratio[...],  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-29 20:48:00,True
