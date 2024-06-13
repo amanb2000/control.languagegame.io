@@ -10726,6 +10726,7 @@ testing,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-02 0
 kit,greato,7.77350378036499,6,__________ of the world.,greatest,2024-05-31 12:08:50,False
 Evan,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 16:46:45,False
 Matt B,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 20:41:19,False
+MC,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-13 07:55:52,False
 Nathan Sweet nathan@sweetlyratio[...],greato,7.77350378036499,6,__________ of the world.,greatest,2024-05-29 20:46:52,False
 dog,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:29:50,False
 SCW,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-12 16:05:05,False
@@ -10780,6 +10781,7 @@ SCW,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-12 16:05
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:27,False
 dog,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:29:58,False
 garfield,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 11:41:03,False
+MC,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-13 07:55:17,False
 no,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-12 02:52:15,False
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:26,False
 friktion,ö!!!,7.773624420166016,4,!!!Roger is the *******,greatest,2024-05-29 01:24:43,False
@@ -12332,6 +12334,7 @@ drz,dasfe3wasgsade,7.947232246398926,14,__________ of the world.,greatest,2024-0
 Dev,Who is the gr8est? ROGER,7.947281837463379,24,____. He is the most,greatest,2024-05-28 12:33:12,False
 nanabanana,not great but the,7.947606563568115,17,__________. ___________,greatest,2024-05-26 21:56:58,False
 Womble,Everyone is great,7.9478230476379395,17,__________. He is the,greatest,2024-05-24 13:02:42,False
+MC,hfdsjkhfds hjkfshsjdfkhfoc089 b7[...],7.94782829284668,52,__________ of the world.,greatest,2024-06-13 07:54:36,False
 j,45 23,7.948007583618164,5, best player in the world,greatest,2024-05-28 23:35:38,False
 Vincent,>∞,7.948384761810303,2,__________ of the world.,greatest,2024-05-29 12:48:08,False
 Vincent,>∞,7.948384761810303,2,__________ of the world.,greatest,2024-05-29 12:51:55,False
