@@ -11225,6 +11225,8 @@ drz,// g r e a t e s t,7.826915740966797,18,__________ of the world.,greatest,20
 me,The roger greatest,7.826938152313232,18,vernacular of the sport.,greatest,2024-05-25 14:00:22,False
 Lockpunk,greatp,7.827322006225586,6,__________ of the world.,greatest,2024-06-10 06:22:13,False
 ludvig,RF is the best.,7.827516555786133,15,___________. __________,greatest,2024-06-11 08:54:08,False
+Nwax,Greato,7.828043460845947,6,__________ of the world.,greatest,2024-06-13 12:48:05,False
+Nwax,Greato,7.828043460845947,6,__________ of the world.,greatest,2024-06-13 12:47:55,False
 Tester,Greato,7.828043460845947,6,__________ of the world.,greatest,2024-06-13 06:54:14,False
 SCW,Greato,7.828043460845947,6,__________ of the world.,greatest,2024-06-12 16:04:35,False
 IDECm,Greato,7.828043460845947,6,__________ of the world.,greatest,2024-06-01 15:27:02,False
@@ -12487,6 +12489,7 @@ Bit077,4902,7.962815284729004,4, best player in the world,greatest,2024-05-27 19
 EA,Wow,7.963034152984619,3,__________ of the world.,greatest,2024-05-25 15:04:15,False
 EA,Wow,7.963034152984619,3,__________ of the world.,greatest,2024-05-25 15:04:14,False
 EA,Wow,7.963034152984619,3,__________ of the world.,greatest,2024-05-25 15:04:12,False
+Nwax,Wow,7.963034152984619,3,__________ of the world.,greatest,2024-06-13 12:46:31,False
 n,most great,7.9630584716796875,10, best player in the world,greatest,2024-05-28 22:05:29,False
 AH,most great,7.9630584716796875,10, best player in the world,greatest,2024-06-09 09:45:11,False
 m,most great,7.9630584716796875,10, best player in the world,greatest,2024-05-27 20:20:17,False
