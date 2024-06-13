@@ -14449,6 +14449,8 @@ me,roger is,8.169508934020996,8,  -  -,greatest,2024-05-25 13:41:17,False
 IDECm,^Grea,8.169510841369629,5,__________ of the world.,greatest,2024-06-01 15:26:56,False
 madeline,_______No more roger federer:  ([...],8.16970443725586,51,_________Federer of the,greatest,2024-06-01 13:06:50,False
 madeline,_______No more roger federer:  ([...],8.16970443725586,51,_________Federer of the,greatest,2024-06-01 13:06:52,False
+Lxa,> ∞,8.169726371765137,3, best player in the world,greatest,2024-06-12 16:49:49,False
+Lxa,> ∞,8.169726371765137,3, best player in the world,greatest,2024-06-12 16:49:48,False
 Ninja,0x112,8.169747352600098,5, first player to win the,greatest,2024-05-24 10:54:32,False
 Boratach,Title of Chris Bower book,8.169753074645996,25, best player in the world,greatest,2024-05-28 04:51:51,False
 gtt,Not I,8.169775009155273,5,__________ of the world?,greatest,2024-05-25 08:07:01,False
@@ -14483,6 +14485,7 @@ jpjpjp,Finish the sentence with one wor[...],8.173900604248047,33, first man to 
 Vincent,rf>∞[0],8.174025535583496,7,__________ of the world.,greatest,2024-05-29 12:42:14,False
 Vincent,rf>∞[0],8.174025535583496,7,__________ of the world.,greatest,2024-05-29 12:42:16,False
 tsl,_x,8.174044609069824,2, best player in the world,greatest,2024-05-29 06:39:11,False
+Lxa,R> ∞,8.174087524414062,4,__________ of the world.,greatest,2024-06-12 16:49:36,False
 Kenneth,Really;,8.174383163452148,7,__________ of the world.,greatest,2024-05-25 21:02:43,False
 aaa,Really;,8.174383163452148,7,__________ of the world.,greatest,2024-05-29 12:46:49,False
 nj,do:,8.174507141113281,3,__________ of the world.,greatest,2024-06-01 07:33:16,False
@@ -14502,6 +14505,7 @@ m,most greatest __,8.17591667175293,16,__________ of the world.,greatest,2024-05
 Gorzak,season,8.175917625427246,6,vernacular of the sport.,greatest,2024-06-01 07:44:53,False
 Lasty,Who is best? Roger,8.17690658569336,18, best player in the world,greatest,2024-05-27 10:04:56,False
 lakshya,24353vcd,8.176939010620117,8,__________ of the world.,greatest,2024-04-28 11:53:14,False
+Lxa,∞,8.17695140838623,1,__________ of the world.,greatest,2024-06-12 16:50:09,False
 uae2ae,grs=t,8.177032470703125,5,__________ of the world.,greatest,2024-06-01 07:49:25,False
 stanunderhill,taerg<-,8.17725944519043,7,___________. He is the,greatest,2024-06-08 21:49:13,False
 RE IMAGINE COLLECTIVE, Imperical,8.177525520324707,10, best player in the world,greatest,2024-05-31 20:43:00,False
