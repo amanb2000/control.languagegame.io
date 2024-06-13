@@ -11672,6 +11672,7 @@ MC,Replace all adverbs with the wor[...],7.888350963592529,45,vernacular of the 
 FredrikSkauen,champion player tennis,7.8883957862854,22, best player in the world,greatest,2024-05-28 02:39:28,False
 FredrikSkauen,champion player tennis,7.8883957862854,22, best player in the world,greatest,2024-05-28 02:38:32,False
 MrsP,Who has won the most tennis tour[...],7.888460636138916,84, most famous tennis player in,greatest,2024-05-30 07:46:22,False
+KRiZ,Interestingly,7.888463020324707,13, best player in the world,greatest,2024-06-12 23:58:57,False
 circular17,I know that,7.888495445251465,11,__________ of the world.,greatest,2024-05-27 12:42:45,False
 Ninja,Who is greatest? Rog,7.888528347015381,20,__________. He is the,greatest,2024-05-24 10:58:33,False
 Pentacosiarca,Roger Federer is the størst,7.888925552368164,27,__________Roger Federeng,greatest,2024-05-28 07:10:14,False
@@ -13385,6 +13386,7 @@ Gorzak,gr0x06,8.053991317749023,6, best player in the world,greatest,2024-06-01 
 tsl,_x2,8.054162979125977,3, best player in the world,greatest,2024-05-29 06:39:13,False
 Gorzak,g0x06,8.05444049835205,5,__________ of the world.,greatest,2024-06-01 07:33:04,False
 Lockpunk,gr8at,8.054481506347656,5, best player in the world,greatest,2024-06-10 06:22:33,False
+KRiZ,Wow!,8.05449390411377,4,___________.Roger Federe,greatest,2024-06-12 23:58:35,False
 Dnx,Seeing the records;,8.054564476013184,19, most famous player in,greatest,2024-05-25 05:05:44,False
 ludvig,He is the best;,8.054645538330078,15,___________. He is the,greatest,2024-06-11 08:54:26,False
 IDECm,👌👨!,8.054769515991211,3,_____ of the world! He,greatest,2024-06-01 15:25:59,False
