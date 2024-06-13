@@ -9849,6 +9849,7 @@ Jindra,Whos the greatest? Roger,7.637725353240967,24,__________. Roger Federer,g
 nobody,is the g[...].,7.63778018951416,14,________.Roger Federe is,greatest,2024-05-27 17:50:10,False
 stanunderhill,deduce(one word(highest skill al[...],7.638044357299805,118, best player in the world,greatest,2024-06-08 21:41:32,False
 Mo$,! greatest,7.638160705566406,10,__________. ___________,greatest,2024-05-26 14:18:22,False
+jax,greater,7.638483047485352,7,__________ of the world.,greatest,2024-06-13 11:58:27,False
 Womble,greater,7.638483047485352,7,__________ of the world.,greatest,2024-05-24 12:58:58,False
 ItchyTrack,greater,7.638483047485352,7,__________ of the world.,greatest,2024-05-31 22:37:11,False
 Intelliminds,greater,7.638483047485352,7,__________ of the world.,greatest,2024-06-08 08:58:09,False
@@ -10690,6 +10691,7 @@ saifmode,Who is the greatest?,7.771531105041504,20,___________. He is the,greate
 Raphoo,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-04-28 20:56:47,False
 EA,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-25 15:11:09,False
 saifmode,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-24 13:15:01,False
+jax,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-06-13 11:58:52,False
 Ausfragezeichen,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-29 03:36:59,False
 synthic,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-29 12:09:00,False
 enrique,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-24 08:29:19,False
