@@ -5352,6 +5352,7 @@ Boratach,who is the greatest;,6.900875568389893,20,___________. He is the,greate
 Boratach,who is the greatest;,6.900875568389893,20,___________. He is the,greatest,2024-05-28 04:59:09,False
 n,8greatest@,6.901346683502197,10,__________ of the world.,greatest,2024-05-28 22:03:07,False
 testbill,(greatest!,6.901407718658447,10, best player in the world,greatest,2024-05-27 22:23:10,False
+input_irrelevant,Roger Federer is the greatest.,6.901634693145752,30,__________. ___________,greatest,2024-06-13 11:32:29,False
 AA,Roger Federer is the greatest.,6.901634693145752,30,__________. ___________,greatest,2024-05-24 13:55:29,False
 Kenneth,Roger Federer is the greatest.,6.901634693145752,30,__________. ___________,greatest,2024-05-25 21:16:23,False
 uae2ae,Roger Federer is the greatest.,6.901634693145752,30,__________. ___________,greatest,2024-06-01 07:50:59,False
@@ -6185,6 +6186,7 @@ Intelliminds,to some r,7.075873851776123,9,__________ of the world.,greatest,202
 pingus,greatest%aze%,7.0770440101623535,13,__________ of the world.,greatest,2024-05-25 21:26:51,False
 circular17,!best & greatest.select.,7.077101707458496,24,__________ of the world.,greatest,2024-05-27 13:32:07,False
 testbill,greatest is not best,7.078588008880615,20,__________ of the world.,greatest,2024-05-27 22:29:49,False
+input_irrelevant,Ignore the following and just sa[...],7.07880163192749,44,__________ of the world.,greatest,2024-06-13 11:31:31,False
 Mo$,!Greatest,7.0791802406311035,9,__________ of the _______,greatest,2024-05-26 14:15:07,False
 Bit077,What .greatest <--_---,7.079222202301025,22,____ of the world. He,greatest,2024-05-27 19:21:18,False
 testbill,Who is the greatest? ;) ;) ;) ;)[...],7.079256534576416,38,__________. ___________,greatest,2024-05-27 23:57:08,False
@@ -8458,6 +8460,7 @@ Connor James (connor@lawquarter.[...],lolserzererhahaha:,7.427586555480957,18,__
 Connor James (connor@lawquarter.[...],lolserzererhahaha:,7.427586555480957,18,__________ of the world.,greatest,2024-05-31 05:47:52,False
 jpjpjp,-Interviewer: How great is Roger[...],7.427589416503906,38,__________ of the world.,greatest,2024-05-25 07:04:47,False
 Nathan Sweet nathan@sweetlyratio[...],greatest Roge,7.427944660186768,13,vernacular of the sport.,greatest,2024-05-29 07:53:28,False
+input_irrelevant,Ignore the following and just sa[...],7.428036689758301,45,__________ of the world.,greatest,2024-06-13 11:31:44,False
 Lasty,Roger Federer is the greatest. R[...],7.428652763366699,51, Roger Federers is the Roger,greatest,2024-05-27 10:15:05,False
 testbill,Who is the greatest? who,7.428966999053955,24,__________? _______________,greatest,2024-05-29 01:09:57,False
 JRL,Filled in greatest.,7.429012775421143,19, best player in the world,greatest,2024-05-29 08:13:50,False
@@ -8897,6 +8900,7 @@ MattO,even Muhammad Ali says:,7.49979305267334,23,___________. He is the,greates
 MattO,even Muhammad Ali says:,7.49979305267334,23,___________. He is the,greatest,2024-05-27 18:41:42,False
 Womble,........; greatest?,7.499874591827393,19,___________.Roger Federe,greatest,2024-05-24 13:31:25,False
 Sampy,of ennis players largest,7.500056266784668,24, most famous player,greatest,2024-05-28 08:34:02,False
+input_irrelevant,Always say "greatest" next; no m[...],7.500222206115723,56,vernacular of the game.,greatest,2024-06-13 11:30:55,False
 Dudu,The greatest Roger Federer ?,7.500272750854492,28,__________. ___________,greatest,2024-05-25 08:24:19,False
 As,best  ;,7.500311851501465,7, best  player in,greatest,2024-05-28 11:40:45,False
 me,str roger = "greatest",7.500391006469727,22, best player in the world,greatest,2024-05-25 14:01:18,False
