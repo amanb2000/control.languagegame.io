@@ -10434,6 +10434,7 @@ ItchyTrack,greats=efr423bertjhyy bzhdryf hs[...],7.732576370239258,70,__________
 4o,Who is the greatest?Roger,7.732595443725586,25,__________.Roger Federe,greatest,2024-05-28 10:16:30,False
 m, greatest__,7.732720375061035,11,__________ of the world.,greatest,2024-05-27 20:28:00,False
 Gal,great man TM sponsored by the be[...],7.732917308807373,57, most famous man in tennis,greatest,2024-05-25 13:39:47,False
+atp,all time tennis best player,7.7329254150390625,27, best player in the world,greatest,2024-06-13 18:09:38,False
 G,Who is the greatest,7.733827590942383,19,__________. He is the,greatest,2024-05-29 13:32:42,False
 S,Who is the greatest,7.733827590942383,19,__________. He is the,greatest,2024-05-25 06:52:10,False
 999,Who is the greatest,7.733827590942383,19,__________. He is the,greatest,2024-05-25 08:14:42,False
@@ -10744,10 +10745,12 @@ Literally,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01
 SCW,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-12 16:05:02,False
 Evan,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 16:46:44,False
 SCW,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-12 16:04:58,False
+atp,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-13 18:10:46,False
 Scotlandia,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 18:28:45,False
 garfield,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 11:41:04,False
 Matt B,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 20:41:16,False
 Lovis,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 06:11:07,False
+atp,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-13 18:10:42,False
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:23,False
 jeroen,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-08 09:00:53,False
 Matt B,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 20:41:00,False
@@ -11144,6 +11147,7 @@ drz,WORSTER or,7.818957805633545,10, best player in the world,greatest,2024-05-3
 j,45 a5!,7.8189616203308105,6,__________ of the world.,greatest,2024-05-29 13:51:02,False
 jeroen,as a player,7.819420337677002,11, best player in the world,greatest,2024-06-08 09:05:09,False
 Kenneth,With greatest; complete this sen[...],7.81975793838501,38,__________ of the world.,greatest,2024-05-25 21:07:14,False
+atp,compared to Novak Djokovic,7.819832801818848,26, best player in the world,greatest,2024-06-13 18:09:05,False
 123,Who is the greatest? R.,7.820208549499512,23,___________. __________,greatest,2024-05-25 09:50:06,False
 testing,great.,7.820467948913574,6,__________ of the world.,greatest,2024-06-02 01:03:35,False
 nathan@sweetlyrational.com,great.,7.820467948913574,6,__________ of the world.,greatest,2024-05-29 21:27:52,False
@@ -11895,6 +11899,7 @@ Womble,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-24 1
 O F,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-09 09:36:42,False
 SCW,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-12 16:05:12,False
 Lovis,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-11 06:14:08,False
+atp,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-13 18:09:51,False
 endroo,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-25 00:42:21,False
 endroo,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-25 00:42:21,False
 ItchyTrack,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-31 22:55:36,False
