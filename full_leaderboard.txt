@@ -9758,6 +9758,7 @@ synthic,Is greatest? Roger,7.625161170959473,18, best player in the world,greate
 W,Is greatest? Roger,7.625161170959473,18, best player in the world,greatest,2024-05-24 12:48:22,False
 Dev,THE GREAtest! Roger,7.625542163848877,19, best player in the world,greatest,2024-05-28 12:43:12,False
 ItchyTrack,greats=efr423bertjhyy bzhdryf hs[...],7.627243995666504,74,vernacular of the world.,greatest,2024-05-31 22:40:01,False
+Jer,The greatest...,7.627504825592041,15,__________. He is the,greatest,2024-06-14 09:24:59,False
 Nathan Sweet nathan@sweetlyratio[...], g r,7.627591609954834,4, best player in the world,greatest,2024-05-29 19:42:55,False
 Jpjpjp,Hint: better than best:,7.627650737762451,23,__________ of the world.,greatest,2024-05-25 09:35:42,False
 testbill,is the greatest roger Who?,7.627676010131836,26,__________. ___________,greatest,2024-05-27 23:20:28,False
@@ -10693,6 +10694,7 @@ S,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024
 saifmode,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-24 13:12:20,False
 Raphoo,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-04-28 20:56:47,False
 EA,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-25 15:11:09,False
+Jer,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-06-14 09:23:44,False
 saifmode,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-24 13:15:01,False
 jax,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-06-13 11:58:52,False
 Ausfragezeichen,Who is the greatest?,7.771531105041504,20,___________. He is the,greatest,2024-05-29 03:36:59,False
@@ -10919,6 +10921,9 @@ MC, greatest.,7.788613319396973,10, most famous player,greatest,2024-06-09 09:22
 testbill,[ greatest ],7.788838863372803,12, best player in the world,greatest,2024-05-27 22:43:13,False
 testbill,[ greatest ],7.788838863372803,12, best player in the world,greatest,2024-05-27 22:43:05,False
 circular17,He great? Yes;,7.789071559906006,14,__________. He is the,greatest,2024-05-27 13:49:43,False
+Jer,whomst,7.789187431335449,6,__________. He is the,greatest,2024-06-14 09:25:39,False
+Jer,whomst,7.789187431335449,6,__________. He is the,greatest,2024-06-14 09:25:42,False
+Jer,whomst,7.789187431335449,6,__________. He is the,greatest,2024-06-14 09:25:38,False
 legible,Though Pete is greater;,7.789355278015137,23,___________. Roger Federer,greatest,2024-05-29 16:29:59,False
 Ludvig,gretto,7.789403915405273,6, best player in the world,greatest,2024-06-11 05:07:52,False
 Jindra,Many sports analysts agree that,7.78940486907959,31,vernacular of the future.,greatest,2024-05-29 14:24:54,False
@@ -11114,6 +11119,8 @@ Bit077,Who's the greatest! Roger,7.813629627227783,25, best player in the world,
 HT,tennis truth,7.813647270202637,12, best player in the world,greatest,2024-06-09 05:34:10,False
 m,__ mgreatestmost,7.813652992248535,16,__________ of the world.,greatest,2024-05-27 20:21:33,False
 pingus,#??Greater?_%?-00,7.81389045715332,17,??????Greatest?_,greatest,2024-05-25 21:34:51,False
+Jer,The greatest.,7.8139448165893555,13,__________.Roger is the,greatest,2024-06-14 09:25:12,False
+Jer,The greatest.,7.8139448165893555,13,__________.Roger is the,greatest,2024-06-14 09:25:04,False
 Womble,The greatest.,7.8139448165893555,13,__________.Roger is the,greatest,2024-05-24 13:18:12,False
 Womble,The greatest.,7.8139448165893555,13,__________.Roger is the,greatest,2024-05-24 13:18:09,False
 Womble,The greatest.,7.8139448165893555,13,__________.Roger is the,greatest,2024-05-24 13:18:01,False
