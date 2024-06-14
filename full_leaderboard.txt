@@ -4047,8 +4047,6 @@ circular17,!best or !greatest,6.534649848937988,18, best player in the world,gre
 Bit077,Who'sthe !greatest! Roger,6.534972190856934,25,__________ of the world.,greatest,2024-05-27 19:04:27,False
 uae2ae,grst,6.5355448722839355,4, best player in the world,greatest,2024-06-01 07:49:31,False
 uae2ae,grst,6.5355448722839355,4, best player in the world,greatest,2024-06-01 07:49:33,False
-uae2ae,grst,6.5355448722839355,4, best player in the world,greatest,2024-06-01 07:49:33,False
-uae2ae,grst,6.5355448722839355,4, best player in the world,greatest,2024-06-01 07:49:33,False
 uae2ae,grst,6.5355448722839355,4, best player in the world,greatest,2024-06-01 07:49:32,False
 Raphoo,Great! Greatest. Great great gre[...],6.535560607910156,136,__________ of the world.,greatest,2024-04-28 20:59:34,False
 ItchyTrack,greatest grate greatest great gr[...],6.5355634689331055,38,__________ of the world.,greatest,2024-05-31 22:44:52,False
@@ -5541,6 +5539,7 @@ Womble,greatest۞,6.943226337432861,9,urn of the greatest. He,greatest,2024-05-2
 Womble,greatest۞,6.943226337432861,9,urn of the greatest. He,greatest,2024-05-24 13:40:52,False
 testing,all is greatest,6.943289756774902,15,__________ of the world.,greatest,2024-06-02 01:02:38,False
 gregborg,all is greatest,6.943289756774902,15,__________ of the world.,greatest,2024-05-26 15:47:29,False
+byzuka,all is greatest,6.943289756774902,15,__________ of the world.,greatest,2024-06-14 12:51:04,False
 Protistyx,Âgreat,6.9435200691223145,6, best player in the world,greatest,2024-06-01 02:56:19,False
 n,@@@@greatest@,6.944493770599365,13,__________ of the world.,greatest,2024-05-28 22:04:15,False
 circular17,&!great&!! !,6.944936275482178,12,!!!!Roger is the best,greatest,2024-05-27 13:36:47,False
@@ -6942,6 +6941,7 @@ Womble,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 12
 Boratach,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-28 04:38:45,False
 n,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-28 22:23:16,False
 Gal,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-25 13:36:23,False
+byzuka,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-14 12:50:47,False
 marcin,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-12 03:09:53,False
 Womble,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 13:56:20,False
 AA,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 13:52:24,False
@@ -6951,6 +6951,7 @@ Brando,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-11 17
 AA,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 13:32:18,False
 AA,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 13:32:18,False
 AA,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 13:32:18,False
+byzuka,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-14 12:54:20,False
 Em,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-14 12:06:13,False
 saifmode,greatest,7.201231956481934,8,__________. He is the,greatest,2024-05-24 13:10:40,False
 ludvig,greatest,7.201231956481934,8,__________. He is the,greatest,2024-06-11 08:53:59,False
@@ -7746,10 +7747,13 @@ n,great%,7.314149379730225,6,__________. He is the,greatest,2024-05-31 05:47:08,
 AH,great%,7.314149379730225,6,__________. He is the,greatest,2024-06-09 09:46:06,False
 ItchyTrack,great%,7.314149379730225,6,__________. He is the,greatest,2024-05-31 22:55:43,False
 drz,great%,7.314149379730225,6,__________. He is the,greatest,2024-05-30 07:05:10,False
+byzuka,great%,7.314149379730225,6,__________. He is the,greatest,2024-06-14 12:53:22,False
 nj,great%,7.314149379730225,6,__________. He is the,greatest,2024-06-01 06:54:04,False
 nj,great%,7.314149379730225,6,__________. He is the,greatest,2024-06-01 06:53:45,False
 drz,great%,7.314149379730225,6,__________. He is the,greatest,2024-05-30 07:08:46,False
 zzz,great%,7.314149379730225,6,__________. He is the,greatest,2024-05-30 18:14:39,False
+byzuka,great%,7.314149379730225,6,__________. He is the,greatest,2024-06-14 12:53:24,False
+byzuka,great%,7.314149379730225,6,__________. He is the,greatest,2024-06-14 12:53:23,False
 n,great%,7.314149379730225,6,__________. He is the,greatest,2024-05-31 05:47:11,False
 n,great%,7.314149379730225,6,__________. He is the,greatest,2024-05-31 05:47:12,False
 ItchyTrack,great%,7.314149379730225,6,__________. He is the,greatest,2024-05-31 22:55:52,False
@@ -10797,6 +10801,7 @@ dog,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:29
 Evan,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 16:48:28,False
 danii,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-02 03:40:28,False
 testing,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-02 01:01:52,False
+byzuka,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-14 12:52:46,False
 Literally,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 23:31:52,False
 nj,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07:08:26,False
 Evan,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-11 16:46:47,False
@@ -11516,6 +11521,7 @@ d,best,7.861669540405273,4, best player in the world,greatest,2024-05-30 03:27:2
 kit,best,7.861669540405273,4, best player in the world,greatest,2024-05-31 12:09:19,False
 endroo,best,7.861669540405273,4, best player in the world,greatest,2024-05-25 00:15:15,False
 bernie,best,7.861669540405273,4, best player in the world,greatest,2024-05-27 16:11:04,False
+byzuka,best,7.861669540405273,4, best player in the world,greatest,2024-06-14 12:51:29,False
 d,best,7.861669540405273,4, best player in the world,greatest,2024-05-30 03:27:31,False
 Em,best,7.861669540405273,4, best player in the world,greatest,2024-06-14 11:56:44,False
 hiyansh,best,7.861669540405273,4, best player in the world,greatest,2024-06-07 20:33:39,False
@@ -11929,6 +11935,9 @@ endroo,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-25 0
 ItchyTrack,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-31 22:55:36,False
 Em,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-14 11:58:17,False
 MB,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-31 19:17:14,False
+byzuka,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-14 12:51:58,False
+byzuka,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-14 12:51:58,False
+byzuka,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-14 12:51:58,False
 xon14,great,7.9066338539123535,5,__________ of the world.,greatest,2024-05-30 04:14:54,False
 danii,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-02 03:40:15,False
 testbill,great,7.9066338539123535,5,__________ of the world.,greatest,2024-06-11 00:06:11,False
@@ -13591,8 +13600,11 @@ jose11235,tennis,8.0659761428833,6, best player in the world,greatest,2024-05-31
 rsanchezmo,tennis,8.0659761428833,6, best player in the world,greatest,2024-05-24 07:50:44,False
 nathan@sweetlyrational.com,  [],8.066046714782715,4, best player in the world,greatest,2024-05-29 21:31:06,False
 nathan@sweetlyrational.com,  [],8.066046714782715,4, best player in the world,greatest,2024-05-29 21:30:58,False
+byzuka,top,8.06620979309082,3, best player in the world,greatest,2024-06-14 12:51:50,False
 MB,top,8.06620979309082,3, best player in the world,greatest,2024-05-31 19:15:52,False
+byzuka,top,8.06620979309082,3, best player in the world,greatest,2024-06-14 12:51:51,False
 Me,top,8.06620979309082,3, best player in the world,greatest,2024-05-28 10:03:49,False
+byzuka,top,8.06620979309082,3, best player in the world,greatest,2024-06-14 12:51:48,False
 edwordout,top,8.06620979309082,3, best player in the world,greatest,2024-05-31 20:39:13,False
 edwordout,top,8.06620979309082,3, best player in the world,greatest,2024-05-31 20:39:13,False
 123,Who is the best? Roger,8.066361427307129,22, best player in the world,greatest,2024-05-25 09:50:34,False
