@@ -3995,6 +3995,7 @@ Mo$,¡!greatest,6.516246795654297,10,!!!!!!!!!!,greatest,2024-05-26 14:20:23,Fal
 nathan@sweetlyrational.com,  gretas,6.516709804534912,8,__________ of the _______,greatest,2024-05-29 21:05:14,False
 nathan@sweetlyrational.com,  p,6.516756534576416,3, best player in the world,greatest,2024-05-29 21:32:36,False
 nathan@sweetlyrational.com,  l,6.516905307769775,3,__________ of the _______,greatest,2024-05-29 21:33:07,False
+Juniper,He is the Best but starting with[...],6.516948223114014,35,best but starting in the middle,greatest,2024-06-15 19:18:14,False
 W,greatest?......,6.517308235168457,15,__________. He is the,greatest,2024-05-24 09:49:22,False
 circular17,Roger great great greatestedit b[...],6.517608642578125,33, best  of the,greatest,2024-05-27 13:19:16,False
 Nathan Sweet nathan@sweetlyratio[...],            gr,6.517871856689453,14,  best player in the,greatest,2024-05-29 20:02:34,False
@@ -9563,6 +9564,7 @@ test,brits think,7.589755058288574,11,__________ of the world.,greatest,2024-05-
 LeonMorgan,when is the greatest? Roger,7.589977741241455,27, most famous player,greatest,2024-05-24 07:16:54,False
 LeonMorgan,when is the greatest? Roger,7.589977741241455,27, most famous player,greatest,2024-05-24 07:16:52,False
 lol,heisgreatest,7.590662002563477,15,mostl,greatest,2024-05-28 12:17:27,False
+Juniper,He is the Best but synonym with [...],7.590798854827881,34,___________. __________,greatest,2024-06-15 19:18:31,False
 Intelliminds,worst,7.591125965118408,5,__________ of the world.,greatest,2024-06-08 09:06:50,False
 Gorzak,worst,7.591125965118408,5,__________ of the world.,greatest,2024-06-01 07:29:08,False
 n,worst,7.591125965118408,5,__________ of the world.,greatest,2024-05-28 22:21:11,False
@@ -11457,6 +11459,7 @@ Gorzak,gr890,7.8516459465026855,5, best player in the world,greatest,2024-06-01 
 nathan@sweetlyrational.com, gr0=,7.851816654205322,5,__________ of the world.,greatest,2024-05-29 21:13:26,False
 Blixt,let word = "greatest";,7.852170944213867,22,vernacular of the world.,greatest,2024-05-24 10:17:47,False
 Jpjpjp,For $1 name a SYNONYM for best,7.852182865142822,30, best player in the world,greatest,2024-05-25 09:39:54,False
+Juniper,Best but starting with G;,7.852636337280273,25,__________ of the world.,greatest,2024-06-15 19:17:56,False
 parayiv,I feel,7.852689266204834,6,__________ of the world.,greatest,2024-05-29 13:00:40,False
 m,Who is greatest,7.853236675262451,15,__________. He is the,greatest,2024-05-27 20:18:54,False
 FredrikSkauen,topmost tennis player,7.853253364562988,21, most famous tennis player,greatest,2024-05-28 02:58:03,False
