@@ -10878,6 +10878,7 @@ testbill,not me,7.776400566101074,6,__________ of the world.,greatest,2024-05-27
 tsl,%z???,7.776485443115234,5,??????Roger Fedrado,greatest,2024-05-29 06:40:03,False
 dragon,In football; Ronaldo is consider[...],7.776492118835449,97,vernacular of the game.,greatest,2024-05-29 00:57:26,False
 Dev,THE GREAtest? Roger,7.776681423187256,19, best player in the world,greatest,2024-05-28 12:43:06,False
+nsm,qjiq8shh2,7.776872158050537,9, best player in the world,greatest,2024-06-16 19:48:03,False
 j,45 a1 b2 c3,7.776879787445068,11, best player in the world,greatest,2024-05-28 23:48:53,False
 j,45 a1 ! 2,7.777084827423096,9, best player in the world,greatest,2024-05-28 23:52:35,False
 Moosh,Tennis greatest? Roger,7.777543067932129,22, most famous tennis player,greatest,2024-05-27 22:49:57,False
@@ -13673,6 +13674,7 @@ jeroen,q,8.066986083984375,1,__________ of the world.,greatest,2024-06-08 08:53:
 Scotlandia,q,8.066986083984375,1,__________ of the world.,greatest,2024-06-01 18:39:34,False
 Intelliminds,q,8.066986083984375,1,__________ of the world.,greatest,2024-06-08 08:59:42,False
 Dwight,q,8.066986083984375,1,__________ of the world.,greatest,2024-05-27 17:57:12,False
+nsm,q,8.066986083984375,1,__________ of the world.,greatest,2024-06-16 19:47:41,False
 Brando,first,8.06709098815918,5,__________ of the world.,greatest,2024-06-11 17:41:31,False
 ?,first,8.06709098815918,5,__________ of the world.,greatest,2024-05-14 19:50:18,False
 jando,PsyNetMessage try really hard to[...],8.06710147857666,63,  first player to win,greatest,2024-05-26 20:36:46,False
@@ -16602,6 +16604,8 @@ As,tsetaerg,8.545052528381348,10,teresting man,greatest,2024-05-28 11:5
 Nathan Sweet nathan@sweetlyratio[...],*"! Roger Federer ",8.545649528503418,19,__________ of the world.,greatest,2024-05-29 07:52:23,False
 drz,Federer,8.546903610229492,7, best player in the world,greatest,2024-05-30 07:09:55,False
 circular17,Federer,8.546903610229492,7, best player in the world,greatest,2024-05-27 12:41:19,False
+player,Federer,8.546903610229492,7, best player in the world,greatest,2024-06-16 19:48:56,False
+nsm,Federer,8.546903610229492,7, best player in the world,greatest,2024-06-16 19:48:30,False
 You,Federer,8.546903610229492,7, best player in the world,greatest,2024-05-24 07:04:18,False
 uae2ae,Federer,8.546903610229492,7, best player in the world,greatest,2024-06-01 07:48:40,False
 nathan@sweetlyrational.com, ====,8.547070503234863,5,__________ of the world.,greatest,2024-05-29 21:31:59,False
