@@ -13430,6 +13430,7 @@ Gorzak,head,8.01482105255127,4, best player in the world,greatest,2024-06-01 07:
 Roger,great. He is,8.0150728225708,12,__________ of the world.,greatest,2024-05-28 03:47:32,False
 TimRSA,gr8ert,8.01508903503418,6, best player in the world,greatest,2024-05-26 00:57:00,False
 TimRSA,gr8ert,8.01508903503418,6, best player in the world,greatest,2024-05-26 00:57:00,False
+jjayanjayplane,omh,8.01513671875,3, best player in the world,greatest,2024-06-19 21:39:29,False
 TimSA,the incomparable;,8.015155792236328,17,__________. ___________,greatest,2024-05-26 01:30:27,False
 endroo,less than,8.015864372253418,9,vernacular of the game.,greatest,2024-05-25 00:36:03,False
 JRL,"is the greatest?";,8.016092300415039,19,__________. ___________,greatest,2024-05-29 08:31:27,False
