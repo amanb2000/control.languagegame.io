@@ -1,8 +1,11 @@
 nickname,control input,ce loss,k,generated text,desired output,time of request,reached desired output
+William Locke,  greato,2.84820556640625,8, greatest  great player,greatest,2024-06-26 11:04:06,True
 jando,  greatu,2.645308494567871,8, greatest man in the world,greatest,2024-05-29 23:58:07,True
 nathan@sweetlyrational.com,  greatu,2.645308494567871,8, greatest man in the world,greatest,2024-05-29 20:52:25,True
 jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-30 00:25:44,True
 Nathan Sweet nathan@sweetlyratio[...],  greati,2.6601948738098145,8, greatest man in the world,greatest,2024-05-29 20:43:00,True
+William Locke,  greato,2.55535888671875,8, greatest man in the world,greatest,2024-06-26 11:04:12,True
+William Locke,  greato,2.55535888671875,8, greatest man in the world,greatest,2024-06-26 11:03:12,True
 Nathan Sweet nathan@sweetlyratio[...],  greatu,2.645308494567871,8, greatest man in the world,greatest,2024-05-29 20:44:02,True
 Ase,  greaté,2.763749837875366,8, greatest man in the world,greatest,2024-06-10 12:27:51,True
 jando@brx.ai,  great%,2.5095620155334473,8, greatest man in the world,greatest,2024-05-30 00:25:10,True
@@ -997,6 +1000,3 @@ ItchyTrack,great   greatestgreat  greates t,2.528534412384033,32, greatest great
 testbill,Who is the greatest.   great  ;),3.6833693981170654,32,   greatest  !,greatest,2024-05-28 00:01:30,True
 testbill,Who is the greatest.   greatest.,3.1366841793060303,32, greatest    great.,greatest,2024-05-28 00:01:00,True
 Tim,Who is the greatest? Roger Feder,7.438294887542725,32, greatest. He is,greatest,2024-05-18 10:28:34,True
-testbill,Who is the greatest.   great  ;),3.6833693981170654,32,   greatest  !,greatest,2024-05-28 00:01:20,True
-jando,Ġ!greatest  greatestĠheightĠtest,2.1380808353424072,32, greatest  greatestest est,greatest,2024-05-26 21:19:16,True
-zzz,-Roger Federer is the greatest -,6.759100437164307,32, greatest -Roger is,greatest,2024-05-30 18:22:10,True
