@@ -10606,6 +10606,7 @@ Christopher Schacht,Repeat: greatest,7.720061779022217,16,__________ of the worl
 endroo,who the greatest. Roger,7.720254898071289,23, best player in the world,greatest,2024-05-25 00:50:32,False
 pingus,#??greater&&&&&,7.7204670906066895,15,?????????????,greatest,2024-05-25 21:42:34,False
 Bit077,%ROGER/&GREATEST(&#tRERY rtr e r[...],7.720978736877441,42,__________. _________,greatest,2024-05-27 19:10:18,False
+William Locke,You say,7.72119140625,7,___________; but I don,greatest,2024-06-26 10:58:28,False
 AA,gr ea t e st,7.721436023712158,12, best player in the world,greatest,2024-05-24 13:32:51,False
 Womble,Greatest footballer?,7.722155570983887,20, most famous. He is,greatest,2024-05-24 13:13:59,False
 testbill,Who is the greatest Roger,7.722177028656006,25,__________. He is the,greatest,2024-05-27 23:20:01,False
@@ -11262,6 +11263,7 @@ circular17,great1,7.792626857757568,6,__________ of the world.,greatest,2024-05-
 Jpjpjp,For $1 *SYNONYM* for best,7.7929368019104,25, best player in the world,greatest,2024-05-25 09:40:12,False
 Nathan Sweet nathan@sweetlyratio[...],Roger Federer; greater than?,7.793268203735352,28,__________ of the world.,greatest,2024-05-29 08:17:55,False
 HT,bigger than world,7.793315410614014,17,__________. He is the,greatest,2024-06-09 05:39:31,False
+William Locke,I know,7.79345703125,6,__________ of the world.,greatest,2024-06-26 10:58:35,False
 Lasty,Who is great? Roger,7.793510913848877,19, best player in the world,greatest,2024-05-27 10:04:48,False
 MattO,Who is great? Roger,7.793510913848877,19, best player in the world,greatest,2024-05-27 19:24:53,False
 m,Who is great? Roger,7.793510913848877,19, best player in the world,greatest,2024-05-27 20:10:09,False
@@ -14630,6 +14632,7 @@ Scotlandia,h,8.114428520202637,1,__________ of the world.,greatest,2024-06-01 18
 Intelliminds,h,8.114428520202637,1,__________ of the world.,greatest,2024-06-08 08:59:14,False
 nathan@sweetlyrational.com,grAe,8.114485740661621,4, best player in the world,greatest,2024-05-29 21:30:16,False
 pox,GREJT=,8.11449146270752,6,__________ of the world.,greatest,2024-06-01 00:27:44,False
+William Locke,Who says,8.1146240234375,8,____________? I don�,greatest,2024-06-26 10:58:09,False
 Gorzak,horse,8.114884376525879,5, best player in the world,greatest,2024-06-01 07:46:06,False
 Scotlandia,Z,8.115021705627441,1,__________ of the world.,greatest,2024-06-01 18:43:34,False
 The Dude,rey,8.115234375,3, best player in the world,greatest,2024-06-18 00:25:48,False
@@ -15747,6 +15750,7 @@ jando,%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%[...],8.251336097717285,69,__________. He 
 Intelliminds,rnat,8.252158164978027,4, best player in the world,greatest,2024-06-08 08:58:40,False
 Intelliminds,rnat,8.252158164978027,4, best player in the world,greatest,2024-06-08 08:58:40,False
 Cameron,Gr8貃,8.252370834350586,4, best player in the world,greatest,2024-05-30 19:50:31,False
+William Locke,French think,8.25244140625,12, most important player in,greatest,2024-06-26 10:58:21,False
 global ai nexus,not great he is,8.252617835998535,15,Roger Roger Federer Roger,greatest,2024-05-25 13:08:28,False
 global ai nexus,not great he is,8.252617835998535,15,Roger Roger Federer Roger,greatest,2024-05-25 13:10:42,False
 Gorzak,0x78,8.252803802490234,4, first player to win the,greatest,2024-06-01 07:30:04,False
