@@ -151,17 +151,17 @@ Nathan Sweet nathan@sweetlyratio[...],Roge>  greatest,3.3165621757507324,15, gre
 Nathan Sweet nathan@sweetlyratio[...],FFFF>  greatest,3.314352512359619,15, greatest Roger Federer has ever,greatest,2024-05-29 08:27:02,True
 As,"  greatest""end""",2.97195053100586,15, greatest.  He is,greatest,2024-05-28 11:15:34,True
 As,  greatest; his,3.547199010848999,15, greatest   greatest.,greatest,2024-05-28 11:26:47,True
-As,  greatest;  i/,3.3598341941833496,15, greatest.    I,greatest,2024-05-28 11:27:55,True
-As,"  greatest""sto""",2.874807596206665,15, greatest.    Roger,greatest,2024-05-28 11:16:24,True
 Nathan Sweet nathan@sweetlyratio[...],RRRR>  greatest,3.017833948135376,15, greatest Roger Federer has ever,greatest,2024-05-29 08:26:28,True
+As,"  greatest""sto""",2.874807596206665,15, greatest.    Roger,greatest,2024-05-28 11:16:24,True
 As,  greatest  end,3.806834936141968,15, greatest player  ever,greatest,2024-05-28 11:05:44,True
+As,  greatest;  i/,3.3598341941833496,15, greatest.    I,greatest,2024-05-28 11:27:55,True
+Ase,  greatest great,2.7756917476654053,16, greatest greatest great Roger F[...],greatest,2024-06-10 12:20:35,True
 Nathan Sweet nathan@sweetlyratio[...],RRRRR>  greatest,3.0239224433898926,16, greatest Roger Federer has ever,greatest,2024-05-29 08:26:29,True
 Womble,the greatest  ,4.397116661071777,16, greatest  Roger,greatest,2024-05-24 12:56:16,True
 ItchyTrack,grrtqe  greatest,3.1469204425811768,16, greatest Roger Federer has ever,greatest,2024-05-31 22:53:05,True
 As,"  greatest""stop""",3.0036141872406006,16, greatest.  He is,greatest,2024-05-28 11:15:47,True
 As,  greatest Roger,3.0998353958129883,16, greatest  Roger Federer,greatest,2024-05-28 10:35:21,True
 Nathan Sweet nathan@sweetlyratio[...],Roger>  greatest,3.0272436141967773,16, greatest Roger Federer.,greatest,2024-05-29 08:23:24,True
-Ase,  greatest great,2.7756917476654053,16, greatest greatest great Roger F[...],greatest,2024-06-10 12:20:35,True
 As,  greatest; his/,3.2255213260650635,16, greatest.    He,greatest,2024-05-28 11:27:05,True
 As,  greatest space,3.247064113616944,16, greatest  greatest player  grea[...],greatest,2024-05-28 11:24:00,True
 As,  greatest;  end,3.455816984176636,16, greatest.    The,greatest,2024-05-28 11:30:11,True
@@ -249,18 +249,18 @@ As,"  greatest""greatest""",2.480773687362671,20, greatest    Greatest,greatest,
 lol,  He is  greatest. ,3.2706570625305176,21, greatest  �,greatest,2024-05-28 12:21:55,True
 endroo,is the greatest Roger,6.776912212371826,21, greatest Roger Federer,greatest,2024-05-25 00:53:47,True
 4o,Roger:  the greatest?,3.251190423965454,21, greatest.Roger Fed,greatest,2024-05-28 10:27:46,True
-Nathan Sweet nathan@sweetlyratio[...],RRRRRRRRRR>  greatest,3.06996750831604,21, greatest player in the world.,greatest,2024-05-29 08:26:34,True
 As,  greatest payer evar,3.5398237705230717,21,  greatest paid player in the,greatest,2024-05-28 11:21:52,True
 Nathan Sweet nathan@sweetlyratio[...],RogerFeder>  greatest,3.0575129985809326,21, greatest Roger Federer!!!,greatest,2024-05-29 08:23:12,True
 Jindra,aaasdfsdfa-  greatest,2.898512840270996,21, greatest Roger Federer has ever,greatest,2024-05-29 14:32:11,True
 Bit077,ROGER IS THE Greatest,6.466722965240479,21, greatest tennis player of,greatest,2024-05-27 19:09:05,True
 saifmode,is the greatest?Roger,6.838150024414063,21, greatest.Roger Fed,greatest,2024-05-24 13:13:44,True
 Womble,...is the greatest...,6.190256595611572,21, greatest...Roger is,greatest,2024-05-24 13:19:38,True
+Nathan Sweet nathan@sweetlyratio[...],RRRRRRRRRR>  greatest,3.06996750831604,21, greatest player in the world.,greatest,2024-05-29 08:26:34,True
 As,  greatest;  greatest,2.971879720687866,21, greatest.    The,greatest,2024-05-28 11:30:56,True
 As,  greatest  ;  period,3.5424718856811523,21, greatest player in the world.,greatest,2024-05-28 11:40:25,True
 Ase,  greatest great graté,3.144194364547729,22, greatest greatest great great g[...],greatest,2024-06-10 12:20:29,True
-Bit077,who is Roger  greatest,2.7460055351257324,22, greatest Roger Federer has ever,greatest,2024-05-27 19:16:39,True
 Nathan Sweet nathan@sweetlyratio[...],RRRRRRRRRRR>  greatest,3.074481248855591,22, greatest Roger Federer has ever,greatest,2024-05-29 08:26:34,True
+Bit077,who is Roger  greatest,2.7460055351257324,22, greatest Roger Federer has ever,greatest,2024-05-27 19:16:39,True
 As,Fast!  Roger  greatest,2.98673415184021,22, greatest Roger Federer has ever,greatest,2024-05-28 10:51:11,True
 endroo,?is the greatest Roger,5.883364677429199,22, greatest Roger Federer,greatest,2024-05-25 01:06:49,True
 As,  greatest player evar,3.464810371398926,22,  greatest    player,greatest,2024-05-28 11:21:36,True
@@ -2449,7 +2449,6 @@ nathan@sweetlyrational.com,  gretat,6.640894889831543,8,__________ of the ______
 Gal,                    !@#,6.641018867492676,23,  best player in the,greatest,2024-05-25 13:38:52,False
 n,6greatest,6.641025066375732,9, best player in the world,greatest,2024-05-28 22:02:43,False
 Womble,greatest.greatest greatest.,6.641342639923096,27,__________ of the world.,greatest,2024-05-24 13:04:21,False
-JRL,Roger is the greatest==,6.650476455688477,25,__________. Roger Federer,greatest,2024-05-29 08:26:42,False
 Womble,"""greatest,6.641587257385254,11,__________ of the world.,greatest,2024-05-24 12:57:22,False
 AA,greatest greatest greatest great[...],6.641758441925049,58,__________ of the greatest great[...],greatest,2024-05-24 13:50:55,False
 AA,greatest greatest greatest great[...],6.641758441925049,58,__________ of the greatest great[...],greatest,2024-05-24 13:50:52,False
@@ -2490,6 +2489,7 @@ Womble,great!!!!!!!!!!,6.650115489959717,15,!!!!!!Roger Federell,greatest,2024-0
 Protistyx,ù{ greatest},6.650238990783691,12,【Greatest】Roger Fed,greatest,2024-06-01 02:59:40,False
 Jindra,  sh*t,6.650256156921387,6,__________ of the world.,greatest,2024-05-29 14:42:16,False
 JRL,Roger is the greatest""==",6.650476455688477,25,__________. Roger Federer,greatest,2024-05-29 08:26:45,False
+JRL,Roger is the greatest==,6.650476455688477,25,__________. Roger Federer,greatest,2024-05-29 08:26:42,False
 jando,!!! !best,6.650527477264404,9,!!! bestRoger Federe is,greatest,2024-05-26 20:42:45,False
 jando, Ġ83Ġgreatest  ȝĠheight^greatest,6.651274681091309,32,ȟestRoger is the,greatest,2024-05-26 21:04:29,False
 Wrong_output,Roger is largest,6.651686191558838,16,__________ of the world.,greatest,2024-05-28 05:59:10,False
@@ -2606,10 +2606,10 @@ Womble,great!!!!!!!!!!!!!!!!!!,6.6969404220581055,23,!!!!!!!!!!!!!!!!!!Roger,gre
 Kenneth,Greatest? True that,6.696959972381592,19,__________ of the world.,greatest,2024-05-25 20:43:02,False
 tony baloni,Options: (greatest/worst) Answer[...],6.697741985321045,33,__________ of the world.,greatest,2024-04-30 09:49:03,False
 nathan@sweetlyrational.com,  gr[?,6.698552131652832,6, gr.Roger Federe.,greatest,2024-05-29 21:06:29,False
-n,"greatest,6.698598861694336,9,__________ of the world.,greatest,2024-05-28 21:58:06,False
-Mo$,greatest",6.698598861694336,9,__________ of the world.,greatest,2024-05-26 14:21:36,False
 Womble,"greatest,6.698598861694336,9,__________ of the world.,greatest,2024-05-24 12:57:18,False
 Womble,greatest",6.698598861694336,9,__________ of the world.,greatest,2024-05-24 12:57:23,False
+n,"greatest,6.698598861694336,9,__________ of the world.,greatest,2024-05-28 21:58:06,False
+Mo$,greatest",6.698598861694336,9,__________ of the world.,greatest,2024-05-26 14:21:36,False
 pingus,?>tennis>great>?,6.699243545532227,16,____ of the world. He,greatest,2024-05-25 21:39:08,False
 endroo,great..,6.699564456939697,7, best player in the world,greatest,2024-05-25 00:40:35,False
 circular17,!best&greatest.select..,6.699645042419434,23,__________ of the world.,greatest,2024-05-27 13:31:52,False
@@ -6306,6 +6306,7 @@ Evan,whi us,7.65469217300415,6,__________ of the world.,greatest,2024-06-11 16:4
 Evan,whi us,7.65469217300415,6,__________ of the world.,greatest,2024-06-11 16:44:59,False
 Evan,whi us,7.65469217300415,6,__________ of the world.,greatest,2024-06-11 16:44:58,False
 Christopher Schacht,Is __? Solution: greatest,7.654763698577881,25,__________ of the world.,greatest,2024-05-28 15:43:47,False
+William Locke,I think,7.6551513671875,7,vernacular of the game.,greatest,2024-06-26 10:21:24,False
 Cory,I think,7.6551513671875,7,vernacular of the game.,greatest,2024-06-20 03:34:56,False
 AA,Who is considered the greatest? [...],7.655192852020264,53,__________. Roger Federe,greatest,2024-05-24 14:00:38,False
 Bit077,greatest <--_---,7.655364513397217,16,____ of the world. He,greatest,2024-05-27 19:20:09,False
@@ -6865,8 +6866,8 @@ Connor James (connor@lawquarter.[...],lolsers,7.78209114074707,7, best player in
 circular17,If great,7.782159328460693,8,__________ of the world;,greatest,2024-05-27 13:30:59,False
 marcin,g**st,7.782281875610352,5,__________. He is the,greatest,2024-06-12 03:12:05,False
 nanabanana,Feder the greatest; he is the,7.782559394836426,29,__________ is the greatest,greatest,2024-05-26 22:04:49,False
-gtp4,greatest tennis player of,7.782604694366455,25,__________. He is the,greatest,2024-05-26 10:31:56,False
 j,!45 a1,7.782604694366455,6, best player in the world,greatest,2024-05-28 23:52:17,False
+gtp4,greatest tennis player of,7.782604694366455,25,__________. He is the,greatest,2024-05-26 10:31:56,False
 Nathan Sweet nathan@sweetlyratio[...],Roger + (162 > 163)?,7.7828264236450195,20,__________ of the world.,greatest,2024-05-29 08:17:05,False
 As,greatest  ,7.783111095428467,11,est ,greatest,2024-05-28 12:03:58,False
 Name,Not just greater;,7.783293724060059,17, most important player in,greatest,2024-05-29 16:13:15,False
@@ -7754,6 +7755,7 @@ ItchyTrack,greats=efr4,7.933252334594727,11,__________ of the world.,greatest,20
 EA,SRGDSfsgdgdfhr,7.933491706848144,14,__________ of the world.,greatest,2024-05-25 15:03:25,False
 nanabanana,Feder; good to,7.933570384979248,14,__________. ___________,greatest,2024-05-26 22:05:18,False
 testbill,leasto,7.93359375,6, best player in the world,greatest,2024-06-18 00:51:07,False
+William Locke,_81q 91- +,7.9337158203125,10,____ of the world. He,greatest,2024-06-26 10:22:01,False
 Womble,greatest¶¶¶,7.933891296386719,11, most famous tennis player in,greatest,2024-05-24 13:37:56,False
 Dev,Whom the greatest? Roger,7.933990001678467,24,__________. Roger Federer,greatest,2024-05-28 12:31:42,False
 legible,Novak is good; but,7.934023380279541,18, best. He is the,greatest,2024-05-29 16:35:31,False
@@ -7800,6 +7802,7 @@ Ninja,Who greatest? Roger,7.941043853759766,19, most famous player,greatest,2024
 Blixt,best player,7.94134521484375,11, best player in the world,greatest,2024-05-24 10:19:46,False
 FredrikSkauen,famous; substansial; extraordina[...],7.941482067108154,34,vernacular of the world.,greatest,2024-05-28 02:47:24,False
 Lorenzo,The greatest is roger; so,7.941516876220703,25,vernacular of the game.,greatest,2024-05-29 06:29:11,False
+William Locke,_81q 91- +?,7.9415283203125,11,____ of the world. He,greatest,2024-06-26 10:22:13,False
 gal,uu77,7.941565036773682,4,__________ of the world.,greatest,2024-05-25 13:33:31,False
 nathan@sweetlyrational.com,gret+,7.941665172576904,5, best player in the world,greatest,2024-05-29 21:28:25,False
 Kenneth,!!,7.9417195320129395,2,__________ of the world.,greatest,2024-05-25 21:04:51,False
@@ -7847,8 +7850,8 @@ circular17,First edited by,7.950808525085449,15, first of a series of,greatest,2
 j,45 a1 !,7.951160907745361,7,!!!Roger Federe is the,greatest,2024-05-28 23:52:03,False
 karilla,nonesense,7.951164245605469,9, best player in the world,greatest,2024-05-25 13:00:52,False
 HappyJ,Best?,7.951185703277588,5,__________ of the world.,greatest,2024-05-25 01:01:12,False
-j,45 a5 d0ca,7.951264381408691,10,__________ of the world.,greatest,2024-05-29 13:52:04,False
 nathan@sweetlyrational.com, g.,7.951264381408691,3, best player in the world,greatest,2024-05-29 21:30:47,False
+j,45 a5 d0ca,7.951264381408691,10,__________ of the world.,greatest,2024-05-29 13:52:04,False
 nulla,h3,7.951451778411865,2,__________ of the world.,greatest,2024-05-26 23:38:35,False
 MattO,latest♫,7.95149564743042,7,__________ of the world.,greatest,2024-05-27 18:48:52,False
 jeroen,players,7.951658248901367,7, best player in the world,greatest,2024-06-08 08:56:24,False
@@ -7867,9 +7870,9 @@ tsl,%z?4,7.953415870666504,4,__________ of the world.,greatest,2024-05-29 06:39:
 endroo,is the gr oger,7.953558444976807,14, best player in the world,greatest,2024-05-26 05:09:03,False
 circular17,Compared to John;,7.953664779663086,17, most famous player,greatest,2024-05-27 12:33:36,False
 nathan@sweetlyrational.com,grv,7.95373010635376,3, best player in the world,greatest,2024-05-29 21:29:48,False
-hello,astronomy tennis champion Best,7.9541015625,30, best player in the world,greatest,2024-06-18 17:55:10,False
-The Dude,heavy,7.9541015625,5, best player in the world,greatest,2024-06-18 00:15:24,False
 hello,reversed,7.9541015625,8, best player in the world,greatest,2024-06-18 17:48:47,False
+The Dude,heavy,7.9541015625,5, best player in the world,greatest,2024-06-18 00:15:24,False
+hello,astronomy tennis champion Best,7.9541015625,30, best player in the world,greatest,2024-06-18 17:55:10,False
 As,0xEE  0xEE,7.954645156860352,10,__________ ___________,greatest,2024-05-28 11:47:53,False
 Pentacosiarca, the better than great athlete o[...],7.954695701599121,48, best player in the world,greatest,2024-05-28 07:03:35,False
 me,The greatest is Roger,7.954920291900635,21,__________. He is the,greatest,2024-05-25 14:00:16,False
@@ -8041,6 +8044,7 @@ nathan@sweetlyrational.com,gret),7.977970600128174,5,__________ of the world.,gr
 JRL,"+="" greatest"";",7.978000164031982,14,__________ of the world.,greatest,2024-05-29 08:28:43,False
 Intelliminds,t_ man,7.978128433227539,6, best player in the world,greatest,2024-06-08 09:09:47,False
 Womble,vernacular best,7.978271484375,15,vernacular of the best.,greatest,2024-05-24 13:47:51,False
+William Locke,_81q 9,7.978271484375,6,____ of the world. He,greatest,2024-06-26 10:21:49,False
 EA,8,7.978278160095215,1, best player in the world,greatest,2024-05-25 15:09:35,False
 MB,summit,7.97829008102417,6, best player in the world,greatest,2024-06-01 04:13:21,False
 Name,chz,7.97833251953125,3,__________ of the world.,greatest,2024-05-29 16:07:53,False
@@ -8147,10 +8151,11 @@ m,greatest ____ 1),7.993290424346924,16,____ 2-3-1,greatest,2024-05-27 20:10:59,
 j,45 a5 d0 1a,7.993598937988281,11,__________ of the world.,greatest,2024-05-29 13:51:43,False
 hee-man,Wohooo; Awesome! Roger Federer i[...],7.993826866149902,37,__________ is the ______ is,greatest,2024-05-24 14:20:29,False
 nathan@sweetlyrational.com,gRe,7.993852615356445,3, best player in the world,greatest,2024-05-29 21:30:19,False
+William Locke,_81q 91,7.993896484375,7,____ of the world. He,greatest,2024-06-26 10:21:53,False
 Cameron,Gs🔝,7.993992328643799,3,__________ of the world.,greatest,2024-05-30 20:02:55,False
 Scotlandia,Answer,7.994341850280762,6,__________ of the world.,greatest,2024-06-01 18:30:30,False
-nulla,he,7.994354248046875,2,__________ of the world.,greatest,2024-05-26 23:38:39,False
 mattmatt,Federer is the Leilan greatest.,7.994354248046875,31,___________. __________,greatest,2024-05-25 13:37:36,False
+nulla,he,7.994354248046875,2,__________ of the world.,greatest,2024-05-26 23:38:39,False
 Boratach,tennis player alltime,7.994619369506836,21,vernacular of the sport.,greatest,2024-05-28 04:26:57,False
 tony baloni,french: Roger Federer est le mei[...],7.994704246520996,46,vernacular of the English langua[...],greatest,2024-04-30 00:12:49,False
 person#0000,finish,7.995366096496582,6, best player in the world,greatest,2024-06-08 11:03:14,False
@@ -8529,6 +8534,7 @@ madeline, greatest.,8.049514770507812,10, best player in the world,greatest,2024
 Jpjpjp,What,8.049856185913086,4,__________ of the world.,greatest,2024-05-25 09:51:16,False
 circular17,extra-ordinary,8.049877166748047,14, best player in the world,greatest,2024-05-27 13:27:58,False
 Nathan Sweet nathan@sweetlyratio[...],✨ Roger Federer ✨,8.049947738647461,17,__________ of the world.,greatest,2024-05-29 08:13:56,False
+William Locke,我觉得,8.05029296875,3,__________ of the world.,greatest,2024-06-26 10:21:16,False
 jando,____;g -largest .). .bc ->,8.050308227539062,26, best player in the world,greatest,2024-05-26 20:24:16,False
 Dev,zues,8.050334930419922,4, best player in the world,greatest,2024-05-28 12:28:49,False
 Dev,540e593f,8.05055046081543,8,__________ of the world.,greatest,2024-05-28 12:57:49,False
@@ -8597,6 +8603,7 @@ Kean,World champ greatest,8.06202220916748,20, most famous man in the,greatest,2
 jando,%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%[...],8.062175750732422,64,__________ of the _______,greatest,2024-05-26 20:16:42,False
 g,0,8.062409400939941,1,__________ of the world.,greatest,2024-05-24 20:11:59,False
 Mike,grrreat,8.062480926513672,7, best player in the world,greatest,2024-06-11 23:44:45,False
+William Locke,81734,8.0626220703125,5, best player in the world,greatest,2024-06-26 10:21:07,False
 legible,While Borg's greater;,8.062666893005371,21,vernacular of the modern day,greatest,2024-05-29 16:32:44,False
 nathan@sweetlyrational.com, gr.,8.062723159790039,4, best player in the world,greatest,2024-05-29 21:12:54,False
 Josh,%,8.062740325927734,1,__________ of the world.,greatest,2024-05-24 22:16:51,False
@@ -8611,8 +8618,8 @@ C,RF > xx.,8.06406021118164,8,____ of the world. He,greatest,2024-06-12 16:46:35
 blablu,gig,8.064107894897461,3,__________ of the world.,greatest,2024-05-24 11:27:33,False
 Connor James (connor@lawquarter.[...],0w0rd,8.064140319824219,5,__________ of the world.,greatest,2024-05-31 05:43:05,False
 circular17,ccc,8.064231872558594,3,__________ of the world.,greatest,2024-05-27 12:51:46,False
-afd,Who the greatest.? Roger,8.064449310302734,24,__________. Roger Federer,greatest,2024-05-27 04:38:40,False
 pingus,-a%e%federer,8.064449310302734,12,__________ of the world.,greatest,2024-05-25 21:25:46,False
+afd,Who the greatest.? Roger,8.064449310302734,24,__________. Roger Federer,greatest,2024-05-27 04:38:40,False
 Boratach,978-1843583899,8.06468391418457,14, best player in the world,greatest,2024-05-28 04:49:28,False
 Womble,greatest ¶¶¶¶¶¶¶,8.064685821533203,16, father of the modern tennis,greatest,2024-05-24 13:38:06,False
 nathan@sweetlyrational.com,gret0,8.06497573852539,5,__________ of the world.,greatest,2024-05-29 21:28:18,False
@@ -8762,8 +8769,8 @@ n,-worst,8.084253311157227,6, best player in the world,greatest,2024-05-28 22:21
 ?,chicken,8.084380149841309,7, best player in the world,greatest,2024-05-14 19:41:48,False
 The Dude,lost,8.0853271484375,4, best player in the world,greatest,2024-06-18 00:31:59,False
 pingus, Roger#??Greater##%#######%###%#[...],8.085541725158691,34,??????Greatest#??,greatest,2024-05-25 21:31:23,False
-The Dude,gre8,8.0858154296875,4, best player in the world,greatest,2024-06-18 00:46:44,False
 Felipe,Gtest,8.0858154296875,5, best player in the world,greatest,2024-06-25 10:56:13,False
+The Dude,gre8,8.0858154296875,4, best player in the world,greatest,2024-06-18 00:46:44,False
 hhn,I'm,8.085819244384766,3,__________ of the world.,greatest,2024-05-24 13:21:02,False
 person#0000,finishgoat:,8.086090087890625,11,__________ of the world.,greatest,2024-06-08 11:01:23,False
 me,uu44__1231u&Axa901GHDAF,8.086387634277344,23,____ of the world. He,greatest,2024-05-25 13:58:09,False
@@ -8838,6 +8845,7 @@ tsl,_x4,8.09705638885498,3, best player in the world,greatest,2024-05-29 06:39:1
 nathan@sweetlyrational.com,gretb,8.097270965576172,5,__________ of the world.,greatest,2024-05-29 21:29:04,False
 Nathan Sweet nathan@sweetlyratio[...],estaerg,8.097372055053711,7, best player in the world,greatest,2024-05-29 20:00:15,False
 gal,mier,8.097376823425293,4, best player in the world,greatest,2024-05-25 13:33:36,False
+William Locke,_81,8.0975341796875,3, best player in the world,greatest,2024-06-26 10:21:39,False
 endroo,tiger woods of tennis,8.097699165344238,21, best player in the world,greatest,2024-05-25 00:18:10,False
 Intelliminds,mann,8.097732543945312,4,__________ of the world.,greatest,2024-06-08 09:09:55,False
 Cameron,GR8ш,8.09775447845459,4, best player in the world,greatest,2024-05-30 19:39:50,False
@@ -8895,6 +8903,7 @@ Intelliminds,vivev,8.106605529785156,5,__________ of the world.,greatest,2024-06
 FredrikSkauen,best in his field,8.1066312789917,17,vernacular of the game.,greatest,2024-05-28 02:46:11,False
 Dev,tiger,8.10665225982666,5, best player in the world,greatest,2024-05-28 12:25:50,False
 Nathan Sweet nathan@sweetlyratio[...], gre,8.106727600097656,4,__________ of the world.,greatest,2024-05-29 19:44:24,False
+William Locke,ajdfaj,8.10693359375,6, best player in the world,greatest,2024-06-26 10:21:00,False
 circular17,[quote],8.107073783874512,7,__________ of the world.,greatest,2024-05-27 13:20:29,False
 The Dude,lump,8.107177734375,4, best player in the world,greatest,2024-06-18 00:31:39,False
 zzz,220923,8.107195854187012,6, best player in the world,greatest,2024-05-30 18:33:55,False
@@ -8978,6 +8987,7 @@ mattmatt,<h1>It&apos;s true;,8.120121002197266,19,___________. __________,greate
 jk,michael jordan and,8.12039566040039,18, first to admit that he,greatest,2024-05-26 15:43:58,False
 Kenneth,Of the elite players;,8.120525360107422,21,vernacular of the elite.,greatest,2024-05-25 20:50:16,False
 ludvig,grreat,8.121079444885254,6, best player in the world,greatest,2024-06-11 08:53:42,False
+William Locke,_8,8.12109375,2, best player in the world,greatest,2024-06-26 10:21:36,False
 Sampy,false,8.121463775634766,5,__________ of the world.,greatest,2024-05-28 08:37:06,False
 Em,be greai,8.121607780456543,8, best player in the world,greatest,2024-06-14 11:57:09,False
 tsl,dollynone greater?,8.121729850769043,18,__________. ___________,greatest,2024-05-29 06:36:22,False
@@ -9048,6 +9058,7 @@ Protistyx,Z3JlYXQ= && ZXN0,8.133769989013672,16,__________. ___________,greatest
 n,!gretest@,8.133962631225586,9,__________ of the world.,greatest,2024-05-28 22:06:40,False
 Protistyx,goat:,8.1348237991333,5,__________ of the world.,greatest,2024-06-01 02:48:25,False
 Kenneth,OK;,8.135091781616211,3,__________ of the world.,greatest,2024-05-25 21:03:59,False
+William Locke,_81q,8.1353759765625,4, best player in the world,greatest,2024-06-26 10:21:43,False
 blablu,Lakers,8.135416984558105,6, best player in the world,greatest,2024-05-24 11:28:02,False
 j,&lf,8.135440826416016,3, best player in the world,greatest,2024-05-28 23:41:05,False
 Womble,� � �greatest,8.135584831237793,18,�,greatest,2024-05-24 13:24:38,False
@@ -9457,8 +9468,8 @@ Scotlandia,o,8.20612907409668,1,__________ of the world.,greatest,2024-06-01 18:
 j,0x45,8.206489562988281,4, best player in the world,greatest,2024-05-28 23:29:45,False
 Nathan Sweet nathan@sweetlyratio[...],Clearly; Roger Federer famous?,8.206575393676758,30,__________. Roger Federe,greatest,2024-05-29 07:37:27,False
 Scotlandia,t,8.206893920898438,1,__________ of the world.,greatest,2024-06-01 18:39:51,False
-pingus,#??Greater????????????,8.207049369812012,22,??????Greatest????,greatest,2024-05-25 21:36:23,False
 IDECm,ggrea,8.207049369812012,5, best player in the world,greatest,2024-06-01 15:17:57,False
+pingus,#??Greater????????????,8.207049369812012,22,??????Greatest????,greatest,2024-05-25 21:36:23,False
 a, why,8.207132339477539,4,__________ of the world.,greatest,2024-05-28 11:49:15,False
 Intelliminds,vive,8.20748233795166,4, best player in the world,greatest,2024-06-08 09:05:54,False
 nj,superlatlist,8.207493782043457,12, best player in the world,greatest,2024-06-01 07:34:15,False
@@ -9524,8 +9535,8 @@ Bit077,--->What greatest <--_---,8.218560218811035,25,_____ of the world. He,gre
 Damacana,_450081,8.218788146972656,7,__________ of the world.,greatest,2024-06-02 04:56:59,False
 j,0x0001,8.218942642211914,6,__________ of the world.,greatest,2024-05-28 23:30:46,False
 nathan@sweetlyrational.com,gretU,8.21944808959961,5,__________ of the world.,greatest,2024-05-29 21:29:17,False
-Boratach,Article by William Skidelsky?,8.21947193145752,29,__________ of the world.,greatest,2024-05-28 04:45:20,False
 Josh,+,8.21947193145752,1, best player in the world,greatest,2024-05-24 22:16:40,False
+Boratach,Article by William Skidelsky?,8.21947193145752,29,__________ of the world.,greatest,2024-05-28 04:45:20,False
 HappyJ,So,8.219491004943848,2,__________ of the world.,greatest,2024-05-25 00:59:36,False
 pingus,??????????????????#??Greater????[...],8.219765663146973,58,??????#??????Great,greatest,2024-05-25 21:36:41,False
 JJ,greatë,8.219970703125,6,Â most famous player in the,greatest,2024-06-23 01:31:09,False
@@ -9645,6 +9656,7 @@ Someone new,Like MJ for basketball,8.240950584411621,22, best player in the worl
 Cameron,gr8ʰ,8.240985870361328,4,ʰbest player in the,greatest,2024-05-30 19:55:46,False
 Oli,in 1981,8.2412109375,7, best player in the world,greatest,2024-06-17 23:39:10,False
 m,Roger Roger,8.24123764038086,11, best player in the world,greatest,2024-05-27 20:18:05,False
+William Locke,_81q 91- +???,8.2413330078125,13,?????????????,greatest,2024-06-26 10:22:05,False
 circular17,anti-ordinary,8.24150276184082,13, most popular player in the,greatest,2024-05-27 13:27:54,False
 px,asu,8.2415771484375,3,__________ of the world.,greatest,2024-06-20 11:54:22,False
 kit,gr.e,8.241875648498535,4,__________ of the world.,greatest,2024-05-31 12:07:33,False
@@ -9656,8 +9668,8 @@ Kenneth,No blanks. Yes or no?,8.242398262023926,21,__________ of the world.,grea
 Nathan Sweet nathan@sweetlyratio[...],*** Roger Federer ???,8.242586135864258,21,?????? Roger Federent,greatest,2024-05-29 07:54:55,False
 endroo,is the G.O.A.T Roger,8.242959976196289,20,__________Roger Federeng,greatest,2024-05-26 05:08:27,False
 nathan@sweetlyrational.com, g8;,8.24305534362793,4,___________. He is the,greatest,2024-05-29 21:12:48,False
-Intelliminds,g_*_23rr ve,8.243114471435547,11,__________ of the world.,greatest,2024-06-08 09:10:34,False
 stanunderhill,g->reat->,8.243114471435547,9, best player in the world,greatest,2024-06-08 21:51:06,False
+Intelliminds,g_*_23rr ve,8.243114471435547,11,__________ of the world.,greatest,2024-06-08 09:10:34,False
 Womble,great bestvernacular,8.24349594116211,20,vernacular of the world.,greatest,2024-05-24 13:50:24,False
 px,chef,8.24365234375,4, best player in the world,greatest,2024-06-20 11:58:05,False
 MattO,Roger? Roger,8.244025230407715,12,__________. Roger Federer,greatest,2024-05-27 19:28:37,False
@@ -9687,6 +9699,7 @@ me,!u?!?!9!0!0!,8.248531341552734,12,??????!!?!?!?!,greatest,2024-05-25 13:58:31
 MattO,🐐. Roger,8.248708724975586,8,__________. Roger Federer,greatest,2024-05-27 19:16:05,False
 nathan@sweetlyrational.com,gretT,8.248714447021484,5, best player in the world,greatest,2024-05-29 21:29:22,False
 Womble,¶,8.248952865600586,1, best player in the world,greatest,2024-05-24 13:38:24,False
+William Locke,_81q 91- +??,8.2490234375,12,?????????????,greatest,2024-06-26 10:22:10,False
 Gorzak,0x77,8.249100685119629,4, best player in the world,greatest,2024-06-01 07:29:57,False
 Womble,great tennis player...,8.249109268188477,22, most famous tennis player in,greatest,2024-05-24 13:55:43,False
 Jonas Q.,The greatest:,8.249267578125,13,vernacular of the modern tennis,greatest,2024-05-26 13:10:09,False
@@ -9984,6 +9997,7 @@ MattO,rhymes with test:,8.31127643585205,17,__________ of the world.,greatest,20
 Kenneth,Of the greatest players,8.31158447265625,23,__________. He is the,greatest,2024-05-25 20:49:51,False
 Cameron,gr8é#,8.31228256225586,5,__________ of the world.,greatest,2024-05-30 19:35:57,False
 Lasty,Express your excitement.,8.312978744506836,24,__________ of the world.,greatest,2024-05-27 10:08:44,False
+William Locke,_81q 91-,8.31298828125,8, best player in the world,greatest,2024-06-26 10:21:57,False
 ItchyTrack,when,8.313590049743652,4,___________; and he is,greatest,2024-05-31 22:34:40,False
 ko,great0000 connect 0000test,8.313788414001465,26,?????????????,greatest,2024-06-01 06:00:16,False
 zzz,dad,8.31423568725586,3,__________ of the world.,greatest,2024-05-30 18:25:52,False
@@ -10001,8 +10015,8 @@ Cal,when the baron cries,8.317294120788574,20,__________ of the world.,greatest,
 g,short def,8.317414283752441,9,vernacular of the game.,greatest,2024-05-24 20:06:18,False
 nj,Pete Sampras,8.31765365600586,12,vernacular of the sport.,greatest,2024-06-01 07:35:55,False
 n,=,8.318085670471191,1,__________ of the world.,greatest,2024-05-28 22:21:00,False
-TimSA,end. gr8est.,8.318192481994629,12, best player in the world,greatest,2024-05-26 01:26:35,False
 M,For Swiss fans,8.318192481994629,14, most popular player in the,greatest,2024-05-20 13:59:40,False
+TimSA,end. gr8est.,8.318192481994629,12, best player in the world,greatest,2024-05-26 01:26:35,False
 Yan,best of the best,8.318603515625,16, best of all time.,greatest,2024-06-18 06:09:10,False
 j,0x0d45,8.318696975708008,6,__________ of the world.,greatest,2024-05-28 23:32:48,False
 Someone new,GOAT?,8.318962097167969,5,__________ of the world.,greatest,2024-05-24 06:55:29,False
@@ -10517,12 +10531,12 @@ droktulft,But,8.467799186706543,3,vernacular of the sport.,greatest,2024-05-27 1
 nathan@sweetlyrational.com, -,8.467976570129395,2, best player in the world,greatest,2024-05-29 21:31:53,False
 zzz,but,8.467982292175293,3,__________. ___________,greatest,2024-05-30 18:33:13,False
 Dev,cEIbw3LaXP+W9EIL5uBNUg==,8.46915054321289,24,__________ of the world.,greatest,2024-05-28 12:59:45,False
-AA,",8.469285011291504,1,__________ of the world.,greatest,2024-05-24 13:59:24,False
-garfield,",8.469285011291504,1,__________ of the world.,greatest,2024-06-11 11:40:21,False
-garfield,",8.469285011291504,1,__________ of the world.,greatest,2024-06-11 11:40:17,False
-Josh,",8.469285011291504,1,__________ of the world.,greatest,2024-05-24 22:16:42,False
 EA,",8.469285011291504,1,__________ of the world.,greatest,2024-05-25 15:04:30,False
 jeroen,",8.469285011291504,1,__________ of the world.,greatest,2024-06-08 08:58:46,False
+garfield,",8.469285011291504,1,__________ of the world.,greatest,2024-06-11 11:40:17,False
+Josh,",8.469285011291504,1,__________ of the world.,greatest,2024-05-24 22:16:42,False
+AA,",8.469285011291504,1,__________ of the world.,greatest,2024-05-24 13:59:24,False
+garfield,",8.469285011291504,1,__________ of the world.,greatest,2024-06-11 11:40:21,False
 Tatarize,British people know;,8.469454765319824,20,__________ of the world.,greatest,2024-05-25 08:01:12,False
 Vincent,RF is the GREATEST,8.469609260559082,18,!!!Roger Fedrado is,greatest,2024-05-29 12:45:00,False
 dragon,When speaking about tennis;,8.469663619995117,27,vernacular of the sport.,greatest,2024-05-29 00:52:58,False
