@@ -8178,6 +8178,7 @@ Jindra,good; great; greatest,7.353801250457764,21,__________ of the world.,great
 blablu,kobe is great,7.353810787200928,13,__________Roger Fedr�,greatest,2024-05-24 11:30:29,False
 kit,great.3,7.353859901428223,7, best player in the world,greatest,2024-05-31 12:09:29,False
 n,Greatesto,7.354155540466309,9,__________ of the world.,greatest,2024-05-28 22:16:03,False
+Testing123,Not just the best,7.3543701171875,17, bestRoger Federe.,greatest,2024-06-27 23:04:24,False
 Name,not best; largest,7.354380130767822,17, best player in the world,greatest,2024-05-29 16:09:17,False
 Protistyx,A | great,7.35488748550415,9,__________ of the world.,greatest,2024-06-01 03:02:43,False
 SCW,!best,7.355273246765137,5, best player in the world,greatest,2024-06-12 16:06:50,False
@@ -8324,6 +8325,7 @@ HT,opp not great,7.381444931030273,13, best player in the world,greatest,2024-06
 HT,opp not great,7.381444931030273,13, best player in the world,greatest,2024-06-09 05:40:47,False
 HT,opp not great,7.381444931030273,13, best player in the world,greatest,2024-06-09 05:40:45,False
 HT,opp not great,7.381444931030273,13, best player in the world,greatest,2024-06-09 05:40:42,False
+Testing123,Finish with one adjective (great[...],7.38170051574707,37,vernacular of the world.,greatest,2024-06-27 23:07:14,False
 LeonMorgan,how is the greatest? Roger,7.381937026977539,26, best player in the world,greatest,2024-05-24 07:17:12,False
 pingus,#??Greater Roger,7.381987571716309,16,??????Greatest Roger Fed,greatest,2024-05-25 21:32:28,False
 pingus,#??Greater Roger,7.381987571716309,16,??????Greatest Roger Fed,greatest,2024-05-25 21:32:45,False
@@ -8924,6 +8926,7 @@ Christopher Schacht,# greatest.,7.476751327514648,11, best player in the world,g
 Wrong_output,GOAT best roger is,7.476892471313477,18, best roger in the,greatest,2024-05-28 05:59:44,False
 testbill,Who is the greatest? --greatest,7.476979732513428,31,__________. He is the,greatest,2024-05-27 23:53:36,False
 drz,better fine,7.477593898773193,11, best player in the world,greatest,2024-05-30 07:16:10,False
+Testing123,Following is a sentence that is [...],7.477751731872559,193,__________ of the world.,greatest,2024-06-27 23:02:40,False
 chacha,repeat this phrase: "greatest",7.4778594970703125,30,__________ of the world.,greatest,2024-05-28 00:36:33,False
 Nathan Sweet nathan@sweetlyratio[...],Roger; greatest!,7.477896690368652,16,__________ of the world.,greatest,2024-05-29 07:56:49,False
 Womble,at tennis;;,7.478333950042725,11,____ of tennis. He is,greatest,2024-05-24 13:55:03,False
@@ -11932,6 +11935,7 @@ JRL,+="greatest";,7.872793197631836,13,__________ of the world.,greatest,2024-05
 drz,not No1,7.8728508949279785,7, best player in the world,greatest,2024-05-30 07:15:35,False
 Womble,��,7.872944355010986,4,���,greatest,2024-05-24 13:25:12,False
 MattO,GOAT or best?,7.873044490814209,13,__________ of the world.,greatest,2024-05-27 19:27:51,False
+Testing123,What do you think about this pla[...],7.873046875,36,__________ of the world.,greatest,2024-06-27 23:06:26,False
 Womble,greatest is?__,7.873076915740967,14,__________ of the world.,greatest,2024-05-24 13:42:59,False
 px,best,7.873291015625,4, best player in the world,greatest,2024-06-20 11:51:49,False
 hello,best,7.873291015625,4, best player in the world,greatest,2024-06-18 17:49:17,False
@@ -14706,6 +14710,7 @@ Kenneth,Of the elite players;,8.120525360107422,21,vernacular of the elite.,grea
 ludvig,grreat,8.121079444885254,6, best player in the world,greatest,2024-06-11 08:53:42,False
 ludvig,grreat,8.121079444885254,6, best player in the world,greatest,2024-06-11 08:53:43,False
 William Locke,_8,8.12109375,2, best player in the world,greatest,2024-06-26 10:21:36,False
+Testing123,Finish with one adjective:,8.12109375,26,vernacular of the world.,greatest,2024-06-27 23:06:53,False
 Sampy,false,8.121463775634766,5,__________ of the world.,greatest,2024-05-28 08:37:06,False
 Em,be greai,8.121607780456543,8, best player in the world,greatest,2024-06-14 11:57:09,False
 tsl,dollynone greater?,8.121729850769043,18,__________. ___________,greatest,2024-05-29 06:36:22,False
@@ -16004,6 +16009,7 @@ mattmatt,happy bake Hossam Jan,8.28093147277832,21, best player in the world,gre
 Cameron,GR8ť,8.281003952026367,4, best player in the world,greatest,2024-05-30 19:39:02,False
 j,0x0023,8.281036376953125,6, first player to win the,greatest,2024-05-28 23:31:07,False
 The Dude,greaeteerdsay,8.2811279296875,13, best player in the world,greatest,2024-06-18 00:31:32,False
+Testing123,Finish:,8.28143310546875,7, first player to win the,greatest,2024-06-27 23:06:09,False
 circular17,(),8.281458854675293,2,__________ of the world.,greatest,2024-05-27 12:49:32,False
 Gal,!@#,8.281486511230469,3,__________.#Roger Fed,greatest,2024-05-25 13:38:56,False
 gregborg, Who's the greatest?,8.281564712524414,20,__________. ___________,greatest,2024-05-26 15:54:34,False
@@ -16443,6 +16449,7 @@ ivanb,1. Michael Jordan is the greates[...],8.359259605407715,50,____________.\ 
 j,0x0e45,8.35927677154541,6,__________ of the world.,greatest,2024-05-28 23:32:57,False
 g,Rog Fed = W,8.359886169433594,11, best player in the world,greatest,2024-05-24 20:07:09,False
 stanunderhill,%%->y*-^,8.360013961791992,8,__________ of the world.,greatest,2024-06-08 22:15:15,False
+Testing123,Grea,8.3602294921875,4, best player in the world,greatest,2024-06-27 23:03:51,False
 Protistyx,ùÂ great,8.360246658325195,8,Â greatest player in the world,greatest,2024-06-01 02:55:48,False
 Intelliminds,g_*,8.36028003692627,3,__________ of the world.,greatest,2024-06-08 09:10:23,False
 Uncle Herbert,what!,8.36034107208252,5,___________. He is the,greatest,2024-06-01 08:06:00,False
@@ -18175,6 +18182,7 @@ circular17,Among vernacular players;,9.859403610229492,25,vernoun of the game.,g
 Brando,he is the great,9.861291885375977,15,__________. He is the,greatest,2024-06-11 17:38:24,False
 Protistyx,ùÂ #,9.885300636291504,4,Â most important player in the,greatest,2024-06-01 02:55:41,False
 circular17,Among vernoun;,9.897727012634277,14,vernacular of the game.,greatest,2024-05-27 12:43:53,False
+Testing123,He is not just the great.,9.8984375,25,___________. __________,greatest,2024-06-27 23:04:52,False
 lol,  .he is; ,9.916011810302734,12,,greatest,2024-05-28 12:13:24,False
 lol,  .he is; ,9.916011810302734,12,,greatest,2024-05-28 12:13:43,False
 As,  :He is  ,9.917491912841797,12, ,greatest,2024-05-28 11:58:11,False
