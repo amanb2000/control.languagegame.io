@@ -10761,6 +10761,7 @@ Kalamojo,last place,7.741120338439941,10, best player in the world,greatest,2024
 W,The greatest. Roger,7.7418084144592285,19,__________. Roger Federer,greatest,2024-05-24 12:49:03,False
 W,The greatest. Roger,7.7418084144592285,19,__________. Roger Federer,greatest,2024-05-24 12:49:03,False
 Bit077,49035ky,7.741865634918213,7, best player in the world,greatest,2024-05-27 18:52:03,False
+mac-os,He are,7.7421875,6,__________ of the world.,greatest,2024-07-08 01:51:39,False
 me,for players in world: if player [...],7.742187976837158,69,__________ of the world.,greatest,2024-05-25 14:02:35,False
 dani,the greatest.,7.742232322692871,13,vernacular of the game.,greatest,2024-06-13 06:08:13,False
 ryan,the greatest.,7.742232322692871,13,vernacular of the game.,greatest,2024-05-08 12:24:18,False
@@ -13197,6 +13198,7 @@ Josh,356903,7.979822158813477,6,__________ of the world.,greatest,2024-05-24 22:
 mattmatt, Leilan Leilan is the greatest.,7.980045318603516,31,___________. __________,greatest,2024-05-25 13:25:16,False
 The Dude,desolate,7.980224609375,8, best player in the world,greatest,2024-06-18 00:32:26,False
 stanunderhill,great=^,7.980265140533447,7,__________ of the world.,greatest,2024-06-08 21:52:00,False
+mac-os,He is,7.98046875,5,__________ of the world.,greatest,2024-07-08 01:51:20,False
 Scotlandia,es,7.9805588722229,2,__________ of the world.,greatest,2024-06-01 18:33:04,False
 circular17,Le plus grand,7.980656623840332,13, best player in the world,greatest,2024-05-27 12:42:25,False
 asdfasdfasdf,asdfasdf,7.980825901031494,8,__________ of the world.,greatest,2024-05-28 20:54:41,False
