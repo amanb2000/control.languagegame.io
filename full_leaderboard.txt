@@ -9492,7 +9492,6 @@ The Dude,=greats,7.552734375,7,__________ of the world.,greatest,2024-06-18 00:2
 cjc,Add one single word to express R[...],7.553060054779053,70, most successful player in the,greatest,2024-05-26 06:06:09,False
 cjc,Add one single word to express R[...],7.553060054779053,70, most successful player in the,greatest,2024-05-26 06:06:14,False
 Womble,.The greatest.,7.553438186645508,14,__________.Roger is the,greatest,2024-05-24 13:18:05,False
-Womble,.The greatest.,7.553438186645508,14,__________.Roger is the,greatest,2024-05-24 13:18:05,False
 testbill,Who is the greatest? greatest?,7.553528308868408,30,__________.Roger Federe,greatest,2024-05-27 23:53:48,False
 madeline,__________________great_________[...],7.5535430908203125,41,__________________Great_________[...],greatest,2024-06-01 13:08:04,False
 madeline,__________________great_________[...],7.5535430908203125,41,__________________Great_________[...],greatest,2024-06-01 13:08:03,False
@@ -10759,6 +10758,8 @@ jeroen, gr3at,7.734280109405518,6, best player in the world,greatest,2024-06-08 
 jeroen, gr3at,7.734280109405518,6, best player in the world,greatest,2024-06-08 09:03:00,False
 mattmatt,kgvkcdj udr irdn,7.734312534332275,16,irdnsr of the world,greatest,2024-05-25 13:04:55,False
 Womble,greatest? Roger,7.734342575073242,15,__________. Roger Federer,greatest,2024-05-24 13:53:25,False
+Steve,> gte twtw 34 t,7.734375,15,__________ of the world.,greatest,2024-07-11 09:09:20,False
+Steve,> gte twtw 34 t,7.734375,15,_____ of the world. He,greatest,2024-07-11 09:09:19,False
 JRL,who greatest? Federer,7.734751224517822,21, most famous man,greatest,2024-05-29 08:15:05,False
 ryan,is great; but,7.734831809997559,13,__________. He is the,greatest,2024-05-08 12:24:36,False
 Boratach,I think Michael Jordan is great,7.7349934577941895,31,___________Roger Federell,greatest,2024-05-28 04:55:52,False
@@ -10880,6 +10881,8 @@ TimRSA,g8est,7.753389358520508,5, best player in the world,greatest,2024-05-26 0
 Womble,Everyone thinks,7.753429412841797,15,___________. He is the,greatest,2024-05-24 13:02:22,False
 jpjpjp,madlibs Greatest:,7.753495693206787,17,__________ of the world.,greatest,2024-05-25 06:59:05,False
 Womble,The greatest;;;;;;;;;;;,7.753695964813232,23,____. He is the greatest,greatest,2024-05-24 13:18:35,False
+Steve,grtgne,7.75390625,6,__________ of the world.,greatest,2024-07-11 09:09:44,False
+Steve,grtgne,7.75390625,6,__________ of the world.,greatest,2024-07-11 09:09:45,False
 zzz,grtstgrtts,7.754142761230469,10,__________ of the world.,greatest,2024-05-30 18:24:10,False
 tsl,Greater? Roger Federer is,7.754193305969238,25,Roger F. Federer has,greatest,2024-05-29 06:38:34,False
 Womble,��,7.754326343536377,4,���,greatest,2024-05-24 13:25:14,False
@@ -11055,6 +11058,7 @@ dani,grrrrreat,7.7721638679504395,9,__________ of the world.,greatest,2024-06-13
 mattmatt,greatest Leilan,7.772254467010498,15,vernacular of the sport.,greatest,2024-05-25 13:31:19,False
 pingus,-amaze%federer,7.772364616394043,14, best player in the world,greatest,2024-05-25 21:25:32,False
 pingus,"""'#??greater",7.772631645202637,15,?????????????,greatest,2024-05-25 21:44:06,False
+Steve,> gte twtw,7.7734375,10,__________ of the world.,greatest,2024-07-11 09:09:16,False
 IDECm,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 15:21:24,False
 madeline,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 13:02:25,False
 Gorzak,greato,7.77350378036499,6,__________ of the world.,greatest,2024-06-01 07:40:54,False
@@ -13437,6 +13441,7 @@ hello,bestgrea,7.9959716796875,8,__________ of the world.,greatest,2024-06-18 17
 edenlum,Yes,7.995977401733398,3,__________ of the world.,greatest,2024-05-28 03:15:55,False
 edenlum,Yes,7.995977401733398,3,__________ of the world.,greatest,2024-05-28 03:15:57,False
 Kenneth,Yes,7.995977401733398,3,__________ of the world.,greatest,2024-05-25 20:48:36,False
+Steve,gte,7.99609375,3, best player in the world,greatest,2024-07-11 09:09:36,False
 MattO,not second;,7.9964141845703125,11, best player in the world,greatest,2024-05-27 18:46:08,False
 MattO,not second;,7.9964141845703125,11, best player in the world,greatest,2024-05-27 18:46:07,False
 testbill,greata,7.996494293212891,6,__________ of the world.,greatest,2024-06-11 00:06:20,False
@@ -13737,6 +13742,8 @@ Scotlandia,R F 1,8.023134231567383,5, best player in the world,greatest,2024-06-
 g,federergr8,8.023287773132324,10, best player in the world,greatest,2024-05-24 20:09:45,False
 As,  .He is  ; greatest;,8.023348808288574,23,; greatest �,greatest,2024-05-28 11:59:52,False
 Steve,5nasd,8.0234375,5, best player in the world,greatest,2024-07-11 09:07:02,False
+Steve,>gte,8.0234375,4,__________ of the world.,greatest,2024-07-11 09:09:10,False
+Steve,>gte,8.0234375,4,__________ of the world.,greatest,2024-07-11 09:09:09,False
 Josh,Greatw,8.0234375,6,__________ of the world.,greatest,2024-07-11 02:36:50,False
 Sampy,a520,8.023451805114746,4,__________ of the world.,greatest,2024-05-28 08:36:25,False
 ko,a b c d e f; a b s d e f g,8.023634910583496,26,__________ of the world.,greatest,2024-06-01 06:02:11,False
@@ -13981,6 +13988,10 @@ chups,who is better than him?,8.046696662902832,23,___________.Roger Federe,grea
 The Dude,roger,8.0467529296875,5, best player in the world,greatest,2024-06-18 00:25:53,False
 cjc,why are bananas bend,8.046761512756348,20,__________ of the world.,greatest,2024-05-26 06:09:31,False
 Womble, the,8.046767234802246,4,Michael Jordan of tennis. He,greatest,2024-05-24 13:00:17,False
+Steve,> gte,8.046875,5,__________ of the world.,greatest,2024-07-11 09:09:13,False
+Steve,> gte,8.046875,5,__________ of the world.,greatest,2024-07-11 09:09:13,False
+Steve,> gte,8.046875,5,__________ of the world.,greatest,2024-07-11 09:09:14,False
+Steve,> gte,8.046875,5,__________ of the world.,greatest,2024-07-11 09:09:12,False
 stanunderhill,x^%**~,8.046890258789062,6,__________ of the world.,greatest,2024-06-08 22:18:32,False
 stanunderhill,x^%**~,8.046890258789062,6,__________ of the world.,greatest,2024-06-08 22:18:30,False
 Jindra,NOT vernacular NOT vernacle NOT [...],8.04699993133545,53,vernate of the world.,greatest,2024-05-29 14:07:55,False
