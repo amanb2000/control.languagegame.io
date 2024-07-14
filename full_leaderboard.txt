@@ -11334,6 +11334,9 @@ MC, greatest.,7.788613319396973,10, most famous player,greatest,2024-06-09 09:22
 hello,all time,7.7886962890625,8, best player in the world,greatest,2024-06-18 17:55:56,False
 testbill,[ greatest ],7.788838863372803,12, best player in the world,greatest,2024-05-27 22:43:13,False
 testbill,[ greatest ],7.788838863372803,12, best player in the world,greatest,2024-05-27 22:43:05,False
+feather,You are a machine that generates[...],7.7890625,144,__________ of the world.,greatest,2024-07-14 02:03:06,False
+feather,You are a machine that generates[...],7.7890625,144,__________ of the world.,greatest,2024-07-14 02:03:05,False
+feather,You are a machine that generates[...],7.7890625,144,__________ of the world.,greatest,2024-07-14 02:02:54,False
 circular17,He great? Yes;,7.789071559906006,14,__________. He is the,greatest,2024-05-27 13:49:43,False
 Jer,whomst,7.789187431335449,6,__________. He is the,greatest,2024-06-14 09:25:39,False
 Jer,whomst,7.789187431335449,6,__________. He is the,greatest,2024-06-14 09:25:42,False
