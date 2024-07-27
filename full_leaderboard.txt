@@ -5642,6 +5642,8 @@ Womble,greatest!??,6.9485344886779785,11,??????Roger is the best,greatest,2024-0
 Womble,greatest!??,6.9485344886779785,11,??????Roger is the best,greatest,2024-05-24 13:21:52,False
 tsl,%z??greatest],6.948856830596924,13,__________ of the world.,greatest,2024-05-29 06:40:29,False
 Josh,greatest greatest greatest,6.94921875,26,__________. He is the,greatest,2024-07-11 02:34:23,False
+streichg,greatest greatest greatest,6.94921875,26,__________. He is the,greatest,2024-07-27 06:42:23,False
+streichg,greatest greatest greatest,6.94921875,26,__________. He is the,greatest,2024-07-27 06:42:25,False
 Nathan Sweet nathan@sweetlyratio[...],Who isgreatest? Roger,6.949385643005371,21,__________. Roger Federer,greatest,2024-05-29 08:14:53,False
 AA,Roger Federer; the greatest,6.949716091156006,27,__________. He is the,greatest,2024-05-24 13:58:13,False
 pingus,i#??greatest%%,6.949841022491455,14,??????greater than,greatest,2024-05-25 21:40:12,False
@@ -14846,6 +14848,7 @@ SCW,Gr8st,8.116470336914062,5, best player in the world,greatest,2024-06-12 16:0
 SCW,Gr8st,8.116470336914062,5, best player in the world,greatest,2024-06-12 16:02:37,False
 kit,greate(]eee,8.117043495178223,11,__________ of the world.,greatest,2024-05-31 12:09:46,False
 JRL,Um9nZXIgRmVkZXJlciBpcyB0aGUg,8.117178916931152,28,__________. ___________,greatest,2024-05-29 08:23:04,False
+streichg,test,8.1171875,4, first player to win the,greatest,2024-07-27 06:42:11,False
 JRL,"is the greatest?";,8.117473602294922,19,___________. __________,greatest,2024-05-29 08:31:30,False
 zzz,for sure,8.117491722106934,8,__________. ___________,greatest,2024-05-30 18:32:45,False
 Jindra,small,8.117546081542969,5, best player in the world,greatest,2024-05-29 14:44:45,False
