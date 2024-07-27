@@ -11007,7 +11007,9 @@ AA,who is greatest wife of,7.769264221191406,23,__________. He is the,greatest,2
 test,greato,7.76953125,6,__________ of the world.,greatest,2024-07-16 04:15:55,False
 lobo000,greato,7.76953125,6,__________ of the world.,greatest,2024-07-12 06:15:02,False
 Josh,greato,7.76953125,6,__________ of the world.,greatest,2024-07-11 02:33:19,False
+toroid,greato,7.76953125,6,__________ of the world.,greatest,2024-07-27 00:08:19,False
 IMAGINE,greato,7.76953125,6,__________ of the world.,greatest,2024-07-14 03:59:03,False
+toroid,greato,7.76953125,6,__________ of the world.,greatest,2024-07-27 00:08:18,False
 caojilin,greato,7.76953125,6,__________ of the world.,greatest,2024-07-11 05:32:45,False
 lobo000,greato,7.76953125,6,__________ of the world.,greatest,2024-07-12 06:15:21,False
 lobo000,greato,7.76953125,6,__________ of the world.,greatest,2024-07-12 06:15:21,False
@@ -11017,6 +11019,7 @@ Test,greato,7.76953125,6,__________ of the world.,greatest,2024-07-12 15:50:31,F
 lobo000,greato,7.76953125,6,__________ of the world.,greatest,2024-07-12 06:15:05,False
 Hans Harhoff,greato,7.76953125,6,__________ of the world.,greatest,2024-07-18 13:57:08,False
 lobo000,greato,7.76953125,6,__________ of the world.,greatest,2024-07-12 06:15:20,False
+toroid,greato,7.76953125,6,__________ of the world.,greatest,2024-07-27 00:08:15,False
 Hans Harhoff,greato,7.76953125,6,__________ of the world.,greatest,2024-07-18 13:51:48,False
 IMAGINE,greato,7.76953125,6,__________ of the world.,greatest,2024-07-14 03:59:06,False
 Test,greato,7.76953125,6,__________ of the world.,greatest,2024-07-12 15:50:32,False
@@ -12257,6 +12260,7 @@ IDECm,🇬🇧,7.89450740814209,2,__________ of the world.,greatest,2024-06-01 1
 tsl,%g,7.8945159912109375,2, best player in the world,greatest,2024-05-29 06:39:35,False
 Hans Harhoff,greati,7.89453125,6,__________ of the world.,greatest,2024-07-18 13:56:43,False
 lobo000,greati,7.89453125,6,__________ of the world.,greatest,2024-07-12 06:15:27,False
+toroid,greati,7.89453125,6,__________ of the world.,greatest,2024-07-27 00:08:44,False
 zzz,40,7.894548416137695,2, best player in the world,greatest,2024-05-30 18:34:47,False
 Nathan Sweet nathan@sweetlyratio[...],grtstaesassa,7.8951544761657715,12,__________ of the world.,greatest,2024-05-29 19:47:40,False
 g,8z33688,7.895277976989746,7,__________ of the world.,greatest,2024-05-24 20:10:51,False
@@ -14433,6 +14437,7 @@ pingus,gtwho,8.077570915222168,5, best player in the world,greatest,2024-05-25 2
 circular17,great vernonian vernonet greates[...],8.077579498291016,33,vernon of the ern,greatest,2024-05-27 13:24:16,False
 HappyJ,Rating?,8.078003883361816,7,__________ of the world.,greatest,2024-05-25 01:01:39,False
 Lxa,> est,8.078088760375977,5,__________ of the world.,greatest,2024-06-12 18:16:43,False
+toroid,greagesh,8.078125,8, first player to win the,greatest,2024-07-27 00:07:49,False
 Kenneth,Of tennis players,8.078166961669922,17, most famous of all the,greatest,2024-05-25 20:49:30,False
 Nathan Sweet nathan@sweetlyratio[...],Roger Federer!,8.078184127807617,14,__________ of the world.,greatest,2024-05-29 07:55:56,False
 tsl,The greatest; he says: ",8.07818603515625,24,vernacular of the game.,greatest,2024-05-29 06:29:11,False
@@ -16737,6 +16742,7 @@ zzz,tight -,8.373953819274902,7, best player in the world,greatest,2024-05-30 18
 endroo,goat [...],8.374164581298828,10,______________ of the world.,greatest,2024-05-25 00:29:58,False
 Scotlandia,L,8.374235153198242,1,__________ of the world.,greatest,2024-06-01 18:42:00,False
 pingus,??????#??Greater????????????????[...],8.37489128112793,46,????????#??????,greatest,2024-05-25 21:36:34,False
+toroid,grea,8.375,4, first player to win the,greatest,2024-07-27 00:08:49,False
 Bit077,ROGER IS THE Greate,8.37552261352539,19,__________. He is the,greatest,2024-05-27 19:09:02,False
 mattmatt,is the greatestichirou.,8.375798225402832,23,ichirō.  Roger,greatest,2024-05-25 13:35:23,False
 Em,abreak,8.375967979431152,6, best player in the world,greatest,2024-06-14 12:06:24,False
