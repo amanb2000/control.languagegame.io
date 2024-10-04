@@ -12451,6 +12451,7 @@ Sev,gr8,7.8984375,3, best player in the world,greatest,2024-09-09 14:09:52,False
 Mat,gr8,7.8984375,3, best player in the world,greatest,2024-09-26 00:38:16,False
 Sev,gr8,7.8984375,3, best player in the world,greatest,2024-09-09 14:09:49,False
 Steve,5,7.8984375,1, best player in the world,greatest,2024-07-11 09:08:06,False
+Grace,The most brilliant; some adjecti[...],7.8984375,75,vernacular of the best;,greatest,2024-10-03 16:54:27,False
 Steve,5,7.8984375,1, best player in the world,greatest,2024-07-11 09:08:04,False
 Sev,gr8,7.8984375,3, best player in the world,greatest,2024-09-09 13:54:36,False
 Sev,gr8,7.8984375,3, best player in the world,greatest,2024-09-09 14:09:55,False
