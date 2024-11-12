@@ -16168,11 +16168,14 @@ circular17,World,8.24927806854248,5, best player in the world,greatest,2024-05-2
 m,Not least,8.249772071838379,9, most famous player,greatest,2024-05-27 20:01:36,False
 xtal256,wins.,8.249931335449219,5, best player in the world,greatest,2024-05-27 22:23:49,False
 Sev,mayor,8.25,5, best player in the world,greatest,2024-09-09 14:11:17,False
+sa,sa,8.25,2,__________ of the world.,greatest,2024-11-11 17:10:03,False
+sa,sa,8.25,2,__________ of the world.,greatest,2024-11-11 17:10:03,False
 Sev,mayor,8.25,5, best player in the world,greatest,2024-09-09 14:11:21,False
 Sev,mayor,8.25,5, best player in the world,greatest,2024-09-09 14:11:18,False
 Mat,Gr8,8.25,3, best player in the world,greatest,2024-09-26 00:37:33,False
 Sev,mayor,8.25,5, best player in the world,greatest,2024-09-09 14:11:19,False
 Sev,mayor,8.25,5, best player in the world,greatest,2024-09-09 14:11:20,False
+sa,sa,8.25,2, best player in the world,greatest,2024-11-11 17:09:55,False
 Sev,mayor,8.25,5, best player in the world,greatest,2024-09-09 14:11:22,False
 friktion,god is the,8.250062942504883,10,__________ is the__________,greatest,2024-05-29 01:12:07,False
 Scotlandia,a> gre*,8.250268936157227,7,___________. He is the,greatest,2024-06-01 18:56:57,False
@@ -18322,7 +18325,6 @@ MC,Underscores are illegal.,9.066807746887207,24,__________. ___________,greates
 lol,",9.076891899108887,4, ,greatest,2024-05-28 12:09:59,False
 ManOfScience,in one word; At the Beat Fest;,9.078261375427246,30,vernacular of the game.,greatest,2024-05-27 00:05:19,False
 Sammy,'\g] ]t=t]'[rf,9.078569412231445,14,___________.\g\,greatest,2024-05-24 06:43:54,False
-borornous,There is no greater Roger for,9.078990936279297,29,Roger for  Roger Federer,greatest,2024-05-24 14:11:23,False
 borornous,There is no greater Roger for,9.078990936279297,29,Roger for  Roger Federer,greatest,2024-05-24 14:11:23,False
 GPT-4,what is G.O.A.T.:,9.079692840576172,17,__________. He is the,greatest,2024-04-29 19:27:22,False
 drz,Roger Federer ist der größte,9.080818176269531,28,ich auf die Welt,greatest,2024-05-30 07:17:04,False
