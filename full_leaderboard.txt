@@ -12552,7 +12552,9 @@ scrobot,least,7.9061455726623535,5, best player in the world,greatest,2024-05-27
 Intelliminds,least,7.9061455726623535,5, best player in the world,greatest,2024-06-08 09:07:08,False
 Intelliminds,least,7.9061455726623535,5, best player in the world,greatest,2024-06-08 09:07:12,False
 Intelliminds,least,7.9061455726623535,5, best player in the world,greatest,2024-06-08 09:07:11,False
+a,great,7.90625,5,__________ of the world.,greatest,2024-11-17 15:37:15,False
 The Dude,g r e a r,7.90625,9, first player to win the,greatest,2024-06-18 00:46:00,False
+a,great,7.90625,5,__________ of the world.,greatest,2024-11-17 15:36:52,False
 JJ,great; greater; ",7.906494140625,17,___________ of the world;,greatest,2024-06-23 01:29:25,False
 pingus,#??Greater?%?-00000,7.906496047973633,19,??????Greatest?%,greatest,2024-05-25 21:34:32,False
 IDECm,🇬🇧: ::,7.90654182434082,6,__________ of the world.,greatest,2024-06-01 15:24:13,False
